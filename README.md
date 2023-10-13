@@ -5,8 +5,7 @@ This repository contains code and resources for performing anomaly detection in 
 2. **Word2Vec Encoding**: This method uses Word2Vec embeddings to represent events and their attributes.
 
 Our framework is visualised below:
-
-[framework_paper.pdf](https://github.com/zyrako4/sequence-online-ad/files/12893643/framework_paper.pdf)
+![framework_paper-1](https://github.com/zyrako4/sequence-online-ad/assets/92887848/2d8dd005-a129-4301-9c65-d003c33ccba7)
 
 ## In order to run the code, please follow the below steps:
 
