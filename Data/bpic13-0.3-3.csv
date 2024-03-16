@@ -1,0 +1,2441 @@
+case_id,event_position,name,timestamp,org:group,org:resource,resource country,anomaly,isAnomaly
+1-147898401,0,Accepted+In Progress,00:36.0,Org line A2,Tomas,Sweden,Normal,0
+1-147898401,1,Random activity 1,40:28.2,Random_0,Random_0,Random_0,Insert,1
+1-147898401,2,Accepted+In Progress,05:44.0,Org line A2,Tomas,Sweden,Insert,1
+1-165554831,0,Accepted+In Progress,06:25.0,Org line A2,Tomas,Sweden,Normal,0
+1-172473423,0,Accepted+In Progress,21:54.0,Org line A2,Tomas,Sweden,Normal,0
+1-182640781,0,Accepted+In Progress,21:05.0,Org line A2,Niklas,Sweden,Normal,0
+1-230541365,0,Accepted+In Progress,58:51.0,Org line A2,Tomas,Sweden,Normal,0
+1-236817141,0,Accepted+In Progress,02:18.0,Org line A2,Tomas,Sweden,Normal,0
+1-230541365,1,Accepted+In Progress,44:37.0,Org line A2,Tomas,Sweden,Normal,0
+1-270427461,0,Accepted+In Progress,01:04.0,Org line A2,Tomas,Sweden,Normal,0
+1-165554831,1,Accepted+Wait,24:31.0,Org line A2,Tomas,Sweden,Normal,0
+1-147898401,3,Accepted+Wait,24:32.0,Org line A2,Tomas,Sweden,Insert,1
+1-182640781,1,Accepted+Wait,24:32.0,Org line A2,Niklas,Sweden,Normal,0
+1-172473423,1,Accepted+Wait,24:33.0,Org line A2,Tomas,Sweden,Normal,0
+1-236817141,1,Accepted+Wait,24:34.0,Org line A2,Tomas,Sweden,Normal,0
+1-230541365,2,Accepted+Wait,24:34.0,Org line A2,Tomas,Sweden,Normal,0
+1-345132462,3,Accepted+In Progress,34:54.0,Org line A2,Tomas,Sweden,Late,1
+1-345132462,0,Accepted+Wait,43:29.0,Org line A2,Tomas,Sweden,Late,1
+1-351314317,0,Accepted+In Progress,34:32.0,Org line A2,Ewa,POLAND,Normal,0
+1-351314317,1,Queued+Awaiting Assignment,45:18.0,Org line A2,Ewa,POLAND,Normal,0
+1-345132462,1,Accepted+Assigned,20:05.0,Org line A2,Tomas,Sweden,Late,1
+1-351314317,2,Accepted+In Progress,40:51.0,Org line A2,Ewa,POLAND,Normal,0
+1-351314317,3,Accepted+Assigned,40:58.0,Org line A2,Ewa,POLAND,Normal,0
+1-354350908,0,Accepted+Wait,03:41.0,Org line A2,Tomas,Sweden,Normal,0
+1-354376900,0,Accepted+Wait,04:37.0,Org line A2,Tomas,Sweden,Normal,0
+1-345132462,2,Accepted+Wait,33:08.0,Org line A2,Tomas,Sweden,Late,1
+1-359841262,0,Accepted+In Progress,06:34.0,Org line A2,Tomas,Sweden,Normal,0
+1-359841262,1,Accepted+In Progress,10:10.0,Org line B,Henrik,Sweden,Attribute,1
+1-359841262,2,Queued+Awaiting Assignment,12:19.0,Org line A2,Tomas,Sweden,Attribute,1
+1-359841262,3,Accepted+In Progress,12:35.0,Org line A2,Pawel,POLAND,Attribute,1
+1-359841262,4,Queued+Awaiting Assignment,12:46.0,Org line A2,Tomas,Sweden,Attribute,1
+1-359841262,5,Accepted+In Progress,13:02.0,Org line A2,Pawel,POLAND,Attribute,1
+1-360464815,0,Accepted+In Progress,40:16.0,Org line G3,Panigrahy,Sweden,Attribute,1
+1-363206822,0,Random activity 3,03:21.0,Random_1,Random_1,Random_1,Insert,1
+1-363206822,1,Accepted+In Progress,03:21.0,Org line A2,Pawel,POLAND,Insert,1
+1-363206822,2,Accepted+In Progress,05:35.0,Org line A2,Pawel,POLAND,Insert,1
+1-363206822,3,Queued+Awaiting Assignment,05:48.0,Org line A2,Tomas,Sweden,Insert,1
+1-366698569,0,Accepted+In Progress,37:07.0,Org line G4,Jerker,Sweden,Normal,0
+1-366726662,0,Accepted+In Progress,50:15.0,Org line G4,Jerker,Sweden,Normal,0
+1-360464815,1,Accepted+Wait,32:45.0,Org line G4,Joey,Sweden,Attribute,1
+1-366698569,1,Accepted+In Progress,59:00.0,Org line G4,Jerker,Sweden,Normal,0
+1-366726662,1,Accepted+In Progress,59:58.0,Org line G4,Jerker,Sweden,Normal,0
+1-370436092,0,Accepted+In Progress,23:20.0,Org line C,Celine,France,Normal,0
+1-370436092,1,Random activity 2,23:40.4,Random_3,Random_3,Random_3,Insert,1
+1-370436092,2,Queued+Awaiting Assignment,23:56.0,Org line C,Celine,France,Insert,1
+1-370436092,3,Random activity 1,31:14.1,Random_4,Random_4,Random_4,Insert,1
+1-370436092,4,Accepted+In Progress,28:29.0,Org line C,Celine,France,Insert,1
+1-375644051,0,Accepted+In Progress,42:48.0,Org line C,Sumesh,0,Normal,0
+1-375644051,1,Accepted+Wait,49:29.0,Org line C,Sumesh,0,Normal,0
+1-380632889,0,Accepted+In Progress,09:45.0,Org line G4,David,Sweden,Normal,0
+1-378050311,0,Accepted+In Progress,37:32.0,Org line C,Peter,Sweden,Normal,0
+1-382209384,0,Accepted+In Progress,13:51.0,Org line A2,Tomas,Sweden,Normal,0
+1-385201933,0,Accepted+In Progress,50:41.0,Org line G4,Joakim,Sweden,Normal,0
+1-385201933,1,Queued+Awaiting Assignment,04:25.0,Org line G4,Joakim,Sweden,Normal,0
+1-378050311,1,Accepted+In Progress,03:29.0,Org line C,Peter,Sweden,Normal,0
+1-378050311,2,Accepted+In Progress,05:10.0,Org line C,Peter,Sweden,Normal,0
+1-359841262,6,Accepted+Assigned,25:18.0,Org line A2,Tomas,Sweden,Attribute,1
+1-390250582,0,Accepted+In Progress,21:55.0,Org line C,Stephen,USA,Normal,0
+1-390722958,1,Accepted+In Progress,39:44.0,Org line G4,Christer,Sweden,Late,1
+1-390250582,1,Accepted+Wait,09:54.0,Org line C,Stephen,USA,Normal,0
+1-380632889,1,Queued+Awaiting Assignment,24:39.0,Org line G4,David,Sweden,Normal,0
+1-390250582,2,Accepted+Assigned,28:48.0,Org line C,Stephen,USA,Normal,0
+1-390250582,3,Accepted+In Progress,42:02.0,Org line C,Stephen,USA,Normal,0
+1-360072755,0,Queued+Awaiting Assignment,04:56.0,Org line A2,Tomas,Sweden,Normal,0
+1-236817141,2,Queued+Awaiting Assignment,06:45.0,Org line A2,Tomas,Sweden,Normal,0
+1-182640781,2,Queued+Awaiting Assignment,13:01.0,Org line A2,Niklas,Sweden,Normal,0
+1-399013423,0,Queued+Awaiting Assignment,04:31.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-385201933,2,Accepted+Assigned,57:19.0,Org line G4,Per,Sweden,Normal,0
+1-399628501,0,Accepted+In Progress,19:41.0,Org line G4,David,Sweden,Normal,0
+1-402328919,0,Accepted+In Progress,39:32.0,Org line A2,Tomas,Sweden,Normal,0
+1-385201933,3,Accepted+In Progress,26:35.0,Org line G4,Per,Sweden,Normal,0
+1-404005175,0,Accepted+In Progress,32:09.0,Org line G4,Per,Sweden,Normal,0
+1-404084309,0,Accepted+In Progress,58:12.0,Org line G4,Per,Sweden,Normal,0
+1-404736991,0,Accepted+In Progress,53:12.0,Org line B,Nicolas,France,Normal,0
+1-407876996,0,Accepted+In Progress,16:15.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-407876996,1,Queued+Awaiting Assignment,19:28.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-372029512,0,Accepted+Assigned,43:59.0,Org line C,Tomas,Sweden,Normal,0
+1-413205820,0,Accepted+In Progress,53:47.0,Org line A2,Fredrik,USA,Normal,0
+1-413665008,0,Accepted+In Progress,14:34.0,Org line G3,Ramith,Sweden,Attribute,1
+1-415000020,0,Queued+Awaiting Assignment,00:46.0,Org line C,Anna,Sweden,SkipSequence,1
+1-415822336,0,Accepted+In Progress,04:02.0,Org line G4,Viktoria,Sweden,Normal,0
+1-415822336,1,Accepted+Wait,52:09.0,Org line G4,Viktoria,Sweden,Normal,0
+1-378050311,3,Accepted+In Progress,35:26.0,Org line C,Peter,Sweden,Normal,0
+1-370436092,5,Accepted+In Progress,47:12.0,Org line C,Celine,France,Insert,1
+1-404736991,5,Accepted+In Progress,09:29.0,Org line B,Rijin,INDIA,Late,1
+1-404736991,6,Accepted+In Progress,22:09.0,Org line B,Rijin,INDIA,Late,1
+1-404736991,1,Accepted+Wait,26:11.0,Org line B,Rijin,INDIA,Late,1
+1-422418092,0,Accepted+In Progress,20:40.0,Org line G4,Viktoria,Sweden,Normal,0
+1-422418092,1,Queued+Awaiting Assignment,25:24.0,Org line G4,Viktoria,Sweden,Normal,0
+1-415822336,2,Queued+Awaiting Assignment,41:08.0,Org line G4,Viktoria,Sweden,Normal,0
+1-415822336,3,Queued+Awaiting Assignment,08:53.0,Org line G4,Viktoria,Sweden,Normal,0
+1-415822336,4,Queued+Awaiting Assignment,37:13.0,Org line G4,Viktoria,Sweden,Normal,0
+1-415822336,5,Accepted+In Progress,38:42.0,Org line G4,Viktoria,Sweden,Normal,0
+1-415822336,6,Accepted+Wait,40:20.0,Org line G4,Viktoria,Sweden,Normal,0
+1-399628501,1,Accepted+Assigned,45:01.0,Org line G4,David,Sweden,Normal,0
+1-385201933,4,Accepted+Wait,27:07.0,Org line G4,Per,Sweden,Normal,0
+1-404005175,1,Accepted+Wait,28:02.0,Org line G4,Per,Sweden,Normal,0
+1-427955007,0,Accepted+In Progress,24:36.0,Org line G4,Roland,Sweden,Normal,0
+1-430880486,0,Accepted+In Progress,55:48.0,Org line G4,Katarina,Sweden,Normal,0
+1-433910332,0,Accepted+In Progress,28:04.0,Org line A2,Ian,United Kingdom,Normal,0
+1-433910332,1,Accepted+Wait,28:11.0,Org line A2,Ian,United Kingdom,Normal,0
+1-433910332,2,Accepted+Wait,41:42.0,Org line A2,Ian,United Kingdom,Normal,0
+1-439833168,0,Accepted+In Progress,10:28.0,Org line G4,Per,Sweden,Normal,0
+1-439833168,1,Accepted+Wait,54:33.0,Org line G4,Per,Sweden,Normal,0
+1-404084309,1,Accepted+Wait,54:47.0,Org line G4,Per,Sweden,Normal,0
+1-441507371,0,Accepted+In Progress,35:34.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-441507371,1,Queued+Awaiting Assignment,46:33.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-443175071,0,Accepted+In Progress,18:05.0,Org line G4,Katarina,Sweden,Normal,0
+1-433910332,3,Accepted+In Progress,48:20.0,Org line A2,Ian,United Kingdom,Normal,0
+1-473084325,0,Queued+Awaiting Assignment,33:47.0,Org line C,Martin,Sweden,Normal,0
+1-479002951,0,Accepted+In Progress,21:41.0,Org line G4,Per,Sweden,Normal,0
+1-489198755,0,Accepted+In Progress,10:53.0,Org line G4,Katarina,Sweden,Normal,0
+1-498324124,0,Accepted+In Progress,40:03.0,Org line A2,Michal,POLAND,Normal,0
+1-498324124,1,Accepted+Assigned,13:53.0,Org line A2,Michal,POLAND,Normal,0
+1-502769178,2,Accepted+In Progress,45:04.0,Org line G4,Joakim,Sweden,Early,1
+1-502769178,0,Accepted+In Progress,52:29.0,Org line G4,Joakim,Sweden,Early,1
+1-506092586,0,Accepted+In Progress,36:20.0,Org line G4,Per,Sweden,Normal,0
+1-384097130,1,Accepted+Assigned,02:06.0,Org line C,Jonas,Sweden,Late,1
+1-479002951,1,Accepted+Wait,11:06.0,Org line G4,Per,Sweden,Normal,0
+1-507679771,0,Accepted+In Progress,04:30.0,Org line G4,Katarina,Sweden,Normal,0
+1-430880486,1,Accepted+Wait,11:52.0,Org line G4,Katarina,Sweden,Normal,0
+1-489198755,1,Accepted+Wait,26:55.0,Org line G4,Katarina,Sweden,Normal,0
+1-443175071,1,Accepted+Wait,30:18.0,Org line G4,Katarina,Sweden,Normal,0
+1-510399424,0,Accepted+In Progress,21:36.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-384097130,0,Accepted+In Progress,44:20.0,Org line C,Jonas,Sweden,Late,1
+1-433910332,4,Accepted+Wait,34:29.0,Org line A2,Ian,United Kingdom,Normal,0
+1-512617571,0,Accepted+In Progress,48:35.0,Org line A2,Ian,United Kingdom,Normal,0
+1-512617571,1,Accepted+Assigned,49:23.0,Org line A2,Ian,United Kingdom,Normal,0
+1-513031774,0,Accepted+In Progress,39:04.0,Org line G4,Roland,Sweden,Normal,0
+1-433910332,5,Accepted+In Progress,16:21.0,Org line A2,Ian,United Kingdom,Normal,0
+1-514618724,0,Accepted+In Progress,57:43.0,Org line C,Mikael,Sweden,Normal,0
+1-514618724,1,Accepted+Wait,18:36.0,Org line C,Mikael,Sweden,Normal,0
+1-515461174,0,Accepted+In Progress,56:28.0,Org line G4,Roland,Sweden,Normal,0
+1-384097130,2,Accepted+Wait,23:07.0,Org line C,Jonas,Sweden,Late,1
+1-498324124,2,Accepted+Assigned,41:04.0,Org line A2,Michal,POLAND,Normal,0
+1-520127960,0,Accepted+In Progress,46:33.0,Org line G4,Per,Sweden,Normal,0
+1-520127960,1,Accepted+Assigned,48:34.0,Org line G4,Per,Sweden,Normal,0
+1-520705880,0,Accepted+In Progress,44:41.0,Org line A2,Tomas,Sweden,Normal,0
+1-427955007,1,Accepted+Wait,46:03.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-522222222,0,Random activity 1,45:31.0,Random_6,Random_6,Random_6,Insert,1
+1-522222222,1,Accepted+In Progress,45:31.0,Org line G4,Erik,Sweden,Insert,1
+1-522460624,0,Accepted+In Progress,29:33.0,Org line C,Jonas,Sweden,Normal,0
+1-522460624,1,Queued+Awaiting Assignment,31:51.0,Org line C,Jonas,Sweden,Normal,0
+1-502769178,1,Accepted+Wait,05:50.0,Org line G4,Joakim,Sweden,Early,1
+1-522949376,0,Accepted+In Progress,53:03.0,Org line A2,Arun,INDIA,Normal,0
+1-525589021,0,Accepted+In Progress,23:13.0,Org line G4,Katarina,Sweden,Normal,0
+1-526037041,0,Accepted+In Progress,09:56.0,Org line G4,Katarina,Sweden,Normal,0
+1-522949376,1,Queued+Awaiting Assignment,42:40.0,Org line A2,Arun,INDIA,Normal,0
+1-531872604,0,Accepted+In Progress,21:06.0,Org line C,Jonas,Sweden,Normal,0
+1-531872604,3,Accepted+In Progress,21:06.0,Org line C,Jonas,Sweden,Rework,1
+1-531872604,4,Accepted+Wait,12:31.0,Org line C,Jonas,Sweden,Rework,1
+1-531872604,1,Accepted+Wait,12:31.0,Org line C,Jonas,Sweden,Normal,0
+1-360464815,2,Accepted+In Progress,37:15.0,Org line A2,Panigrahy,Sweden,Attribute,1
+1-534493180,0,Accepted+In Progress,24:42.0,Org line A2,Ian,United Kingdom,Normal,0
+1-534493180,1,Accepted+Assigned,25:34.0,Org line A2,Ian,United Kingdom,Normal,0
+1-406066421,0,Accepted+In Progress,16:19.0,Org line C,Kenneth,Sweden,Normal,0
+1-535418135,0,Random activity 1,01:27.0,Random_8,Random_8,Random_8,Insert,1
+1-535439201,0,Accepted+In Progress,23:47.0,Org line C,Lars,Sweden,Normal,0
+1-535439201,1,Random activity 4,29:44.7,Random_10,Random_10,Random_10,Insert,1
+1-535439201,2,Accepted+Wait,44:50.0,Org line C,Lars,Sweden,Insert,1
+1-535418135,1,Accepted+In Progress,01:27.0,Org line A2,Michal,POLAND,Insert,1
+1-535418135,2,Random activity 4,17:37.0,Random_9,Random_9,Random_9,Insert,1
+1-433910332,6,Accepted+Assigned,04:50.0,Org line A2,Ian,United Kingdom,Normal,0
+1-375644051,2,Accepted+In Progress,13:19.0,Org line C,Sumesh,0,Normal,0
+1-531872604,5,Queued+Awaiting Assignment,19:59.0,Org line C,Jonas,Sweden,Rework,1
+1-531872604,2,Queued+Awaiting Assignment,19:59.0,Org line C,Jonas,Sweden,Normal,0
+1-404736991,2,Accepted+In Progress,22:26.0,Org line B,Rijin,INDIA,Late,1
+1-404736991,3,Accepted+Wait,08:45.0,Org line B,Rijin,INDIA,Late,1
+1-539000895,2,Accepted+In Progress,24:39.0,Org line C,Jonas,Sweden,Rework,1
+1-539000895,0,Accepted+In Progress,24:39.0,Org line C,Jonas,Sweden,Normal,0
+1-539083171,0,Accepted+In Progress,33:46.0,Org line G4,Katarina,Sweden,Normal,0
+1-539805130,0,Accepted+In Progress,45:46.0,Org line A2,Andrew,United Kingdom,Normal,0
+1-537169872,0,Accepted+Assigned,28:19.0,Org line C,Daniel,Sweden,Normal,0
+1-542027112,0,Accepted+In Progress,45:13.0,Org line A2,Ian,United Kingdom,Normal,0
+1-542027112,1,Accepted+In Progress,48:49.0,Org line A2,Ian,United Kingdom,Normal,0
+1-542027112,2,Accepted+Assigned,55:27.0,Org line A2,Ian,United Kingdom,Normal,0
+1-542919207,0,Random activity 3,56:05.0,Random_13,Random_13,Random_13,Insert,1
+1-542919207,1,Accepted+In Progress,56:05.0,Org line C,Cyril,France,Insert,1
+1-542919207,2,Queued+Awaiting Assignment,03:11.0,Org line C,Cyril,France,Insert,1
+1-542940765,0,Accepted+In Progress,23:23.0,Org line A2,Fredrik,USA,Normal,0
+1-543300099,1,Accepted+In Progress,47:13.0,Org line A2,Ian,United Kingdom,Early,1
+1-543300099,0,Accepted+Assigned,39:06.0,Org line A2,Ian,United Kingdom,Early,1
+1-535418135,3,Accepted+Wait,22:47.0,Org line A2,Michal,POLAND,Insert,1
+1-535418135,4,Accepted+Wait,24:26.0,Org line A2,Michal,POLAND,Insert,1
+1-546838031,0,Queued+Awaiting Assignment,46:45.0,Org line C,Tomas,Sweden,Normal,0
+1-547617088,0,Accepted+In Progress,47:08.0,Org line A2,Ian,United Kingdom,Normal,0
+1-547617088,2,Accepted+Assigned,04:12.0,Org line A2,Ian,United Kingdom,Early,1
+1-546838031,1,Queued+Awaiting Assignment,51:34.0,Org line C,Tomas,Sweden,Normal,0
+1-549431982,0,Accepted+In Progress,56:32.0,Org line F,Craig,Sweden,Normal,0
+1-549431982,1,Queued+Awaiting Assignment,00:02.0,Org line F,Craig,Sweden,Normal,0
+1-545911672,0,Queued+Awaiting Assignment,08:23.0,Org line G4,Fredrik,Sweden,Normal,0
+1-550611848,0,Accepted+In Progress,45:30.0,Org line G4,Bharath,Sweden,Normal,0
+1-512617571,2,Accepted+Assigned,05:34.0,Org line A2,Andrew,United Kingdom,Normal,0
+1-512617571,3,Accepted+In Progress,27:15.0,Org line A2,Jonathan,United Kingdom,Attribute,1
+1-560404489,0,Accepted+In Progress,23:57.0,Org line C,Praveen,Sweden,Normal,0
+1-560404489,1,Queued+Awaiting Assignment,29:58.0,Org line C,Praveen,Sweden,Normal,0
+1-560404489,2,Queued+Awaiting Assignment,53:33.0,Org line C,Martin,Sweden,Normal,0
+1-560404489,3,Accepted+In Progress,17:21.0,Org line C,Steve,Sweden,Normal,0
+1-547617088,3,Accepted+Assigned,28:02.0,Org line A2,Andrew,United Kingdom,Early,1
+1-547617088,1,Accepted+Wait,29:30.0,Org line A2,Andrew,United Kingdom,Early,1
+1-560404489,4,Accepted+Wait,19:04.0,Org line C,Steve,Sweden,Normal,0
+1-367921041,0,Queued+Awaiting Assignment,27:17.0,Org line B,Srinivasan,INDIA,Normal,0
+1-367921041,1,Accepted+In Progress,54:38.0,Org line B,Aneesh V,INDIA,Normal,0
+1-367921041,2,Accepted+Assigned,55:29.0,Org line B,Rijin,INDIA,Normal,0
+1-367921041,3,Accepted+In Progress,48:47.0,Org line B,Rijin,INDIA,Normal,0
+1-563779807,0,Accepted+In Progress,33:51.0,Org line A2,Ian,United Kingdom,Normal,0
+1-563779807,1,Accepted+Assigned,38:53.0,Org line A2,Ian,United Kingdom,Normal,0
+1-564738994,0,Accepted+In Progress,45:43.0,Org line B,Murali,INDIA,Normal,0
+1-564738994,1,Accepted+Wait,46:56.0,Org line B,Murali,INDIA,Normal,0
+1-566096602,0,Random activity 4,35:37.0,Random_14,Random_14,Random_14,Insert,1
+1-565905115,0,Accepted+In Progress,01:39.0,Org line C,Rohan,INDIA,Normal,0
+1-566096602,1,Accepted+In Progress,35:37.0,Org line D,Wim,Belgium,Insert,1
+1-545738536,0,Accepted+In Progress,51:36.0,Org line A2,Tomas,Sweden,SkipSequence,1
+1-354376900,1,Accepted+In Progress,16:15.0,Org line A2,Tomas,Sweden,Normal,0
+1-354350908,1,Accepted+In Progress,16:31.0,Org line A2,Tomas,Sweden,Normal,0
+1-345132462,4,Accepted+In Progress,17:47.0,Org line A2,Tomas,Sweden,Late,1
+1-230541365,3,Accepted+In Progress,27:50.0,Org line A2,Tomas,Sweden,Normal,0
+1-230541365,4,Accepted+In Progress,27:55.0,Org line A2,Tomas,Sweden,Normal,0
+1-566661201,0,Accepted+In Progress,12:56.0,Org line D,Wim,Belgium,Normal,0
+1-566661201,1,Accepted+Wait,20:41.0,Org line D,Wim,Belgium,Normal,0
+1-147898401,4,Accepted+In Progress,09:09.0,Org line A2,Tomas,Sweden,Insert,1
+1-165554831,2,Accepted+In Progress,10:53.0,Org line A2,Tomas,Sweden,Normal,0
+1-172473423,2,Accepted+In Progress,10:59.0,Org line A2,Tomas,Sweden,Normal,0
+1-382209384,1,Accepted+In Progress,46:51.0,Org line A2,Tomas,Sweden,Normal,0
+1-360072755,1,Accepted+In Progress,49:00.0,Org line A2,Tomas,Sweden,Normal,0
+1-236817141,3,Accepted+In Progress,02:11.0,Org line A2,Tomas,Sweden,Normal,0
+1-182640781,3,Accepted+In Progress,24:13.0,Org line A2,Niklas,Sweden,Normal,0
+1-359841262,7,Accepted+In Progress,28:42.0,Org line A2,Tomas,Sweden,Attribute,1
+1-363206822,4,Accepted+In Progress,28:50.0,Org line A2,Tomas,Sweden,Insert,1
+1-502769178,3,Queued+Awaiting Assignment,10:57.0,Org line G4,Joakim,Sweden,Early,1
+1-537169872,1,Queued+Awaiting Assignment,14:45.0,Org line G4,Joakim,Sweden,Normal,0
+1-415000020,1,Accepted+In Progress,19:39.0,Org line C,Anna,Sweden,SkipSequence,1
+1-415000020,2,Accepted+Wait,19:45.0,Org line C,Anna,Sweden,SkipSequence,1
+1-572078531,0,Accepted+In Progress,39:42.0,Org line C,Inger,Sweden,Normal,0
+1-572078531,1,Queued+Awaiting Assignment,52:27.0,Org line C,Inger,Sweden,Normal,0
+1-539083171,1,Random activity 4,04:42.2,Random_11,Random_11,Random_11,Insert,1
+1-563779807,2,Accepted+In Progress,16:42.0,Org line A2,Ian,United Kingdom,Normal,0
+1-543300099,2,Accepted+In Progress,17:02.0,Org line A2,Ian,United Kingdom,Early,1
+1-542027112,3,Accepted+In Progress,17:31.0,Org line A2,Ian,United Kingdom,Normal,0
+1-572078531,2,Accepted+In Progress,50:43.0,Org line A2,Frederic,France,Normal,0
+1-573830584,0,Accepted+In Progress,40:50.0,Org line C,Per,Sweden,Normal,0
+1-473084325,1,Queued+Awaiting Assignment,53:00.0,Org line C,Olivier,France,Normal,0
+1-574222268,0,Accepted+In Progress,33:52.0,Org line G4,David,Sweden,Normal,0
+1-574623837,0,Accepted+In Progress,59:18.0,Org line A2,Radoslaw,POLAND,Normal,0
+1-473084325,2,Queued+Awaiting Assignment,27:06.0,Org line C,Olivier,France,Normal,0
+1-575690736,0,Accepted+In Progress,44:47.0,Org line D,Wim,Belgium,Normal,0
+1-575690736,1,Accepted+In Progress,06:13.0,Org line D,Wim,Belgium,Normal,0
+1-575690736,2,Accepted+In Progress,44:31.0,Org line D,Wim,Belgium,Normal,0
+1-563779807,3,Accepted+Wait,38:15.0,Org line A2,Ian,United Kingdom,Normal,0
+1-577996886,1,Accepted+In Progress,53:16.0,Org line G4,Ing-Marie,Sweden,Early,1
+1-578105842,0,Accepted+In Progress,38:17.0,Org line C,Robert,USA,Normal,0
+1-578105842,1,Queued+Awaiting Assignment,41:46.0,Org line C,Robert,USA,Normal,0
+1-578252937,0,Accepted+In Progress,03:45.0,Org line C,Lars-Ove,Sweden,Normal,0
+1-578105842,2,Queued+Awaiting Assignment,11:27.0,Org line C,Robert,USA,Normal,0
+1-578612990,0,Accepted+In Progress,10:15.0,Org line C,Peter,Belgium,Normal,0
+1-578612990,1,Accepted+In Progress,11:24.0,Org line C,Peter,Belgium,Normal,0
+1-577737791,0,Queued+Awaiting Assignment,32:15.0,Org line C,Robert,USA,Normal,0
+1-578612990,2,Queued+Awaiting Assignment,24:51.0,Org line C,Peter,Belgium,Normal,0
+1-579250167,0,Accepted+In Progress,22:34.0,Org line C,Hineesh,INDIA,Normal,0
+1-579636429,0,Accepted+In Progress,11:41.0,Org line G4,Roland,Sweden,Normal,0
+1-580464971,0,Accepted+In Progress,02:40.0,Org line F,Daniel,Brazil,Attribute,1
+1-524375607,0,Accepted+Assigned,38:35.0,Org line C,Els,Belgium,Normal,0
+1-524375607,1,Accepted+Assigned,03:00.0,Org line C,Jo,Belgium,Normal,0
+1-581740771,0,Accepted+In Progress,24:45.0,Org line C,Peter,Sweden,Normal,0
+1-542940765,1,Accepted+In Progress,40:23.0,Org line A2,Fredrik,USA,Normal,0
+1-542940765,2,Queued+Awaiting Assignment,40:40.0,Org line A2,Fredrik,USA,Normal,0
+1-413205820,1,Accepted+In Progress,07:51.0,Org line A2,Fredrik,USA,Normal,0
+1-413205820,2,Queued+Awaiting Assignment,07:59.0,Org line A2,Fredrik,USA,Normal,0
+1-581898739,0,Accepted+In Progress,09:03.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-581898739,1,Queued+Awaiting Assignment,22:29.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-581898739,2,Accepted+In Progress,17:16.0,Org line C,Mats,Sweden,Normal,0
+1-581898739,3,Queued+Awaiting Assignment,17:30.0,Org line C,Martin,Sweden,Normal,0
+1-582296121,0,Accepted+In Progress,02:06.0,Org line C,Olle,Sweden,Normal,0
+1-577996886,0,Queued+Awaiting Assignment,46:24.0,Org line G4,Ing-Marie,Sweden,Early,1
+1-413205820,3,Accepted+In Progress,05:33.0,Org line A2,Fredrik,USA,Normal,0
+1-583931536,0,Accepted+In Progress,38:10.0,Org line C,Richard,Sweden,Normal,0
+1-584812041,0,Random activity 4,57:41.0,Random_15,Random_15,Random_15,Insert,1
+1-584776062,0,Accepted+In Progress,38:52.0,Org line G4,Samira,Sweden,Normal,0
+1-584812041,1,Accepted+In Progress,57:41.0,Org line A2,Ian,United Kingdom,Insert,1
+1-584812041,2,Accepted+Assigned,01:05.0,Org line A2,Ian,United Kingdom,Insert,1
+1-574623837,4,Accepted+Assigned,02:06.0,Org line A2,Radoslaw,POLAND,Rework,1
+1-574623837,1,Accepted+Assigned,02:06.0,Org line A2,Radoslaw,POLAND,Normal,0
+1-578612990,3,Accepted+Assigned,29:22.0,Org line C,Jörgen,Sweden,Normal,0
+1-587383007,0,Accepted+In Progress,06:14.0,Org line A2,Vikrant,Sweden,Normal,0
+1-588543315,0,Accepted+In Progress,05:05.0,Org line A2,Vikrant,Sweden,Normal,0
+1-588712865,0,Accepted+In Progress,46:10.0,Org line C,Kymaria,USA,Normal,0
+1-588712865,1,Queued+Awaiting Assignment,40:08.0,Org line C,Kymaria,USA,Normal,0
+1-588712865,2,Queued+Awaiting Assignment,40:09.0,Org line C,Kymaria,USA,Normal,0
+1-588712865,3,Accepted+In Progress,39:20.0,Org line C,Kymaria,USA,Normal,0
+1-577996886,2,Queued+Awaiting Assignment,00:00.0,Org line G4,Ing-Marie,Sweden,Early,1
+1-589370341,0,Accepted+In Progress,07:28.0,Org line A2,Agneta,Sweden,Normal,0
+1-589370341,1,Accepted+In Progress,07:50.0,Org line A2,Agneta,Sweden,Normal,0
+1-589370341,2,Queued+Awaiting Assignment,10:17.0,Org line A2,Agneta,Sweden,Normal,0
+1-589421537,0,Accepted+In Progress,37:21.0,Org line C,Nicolas,France,Normal,0
+1-588712865,4,Accepted+Wait,49:58.0,Org line C,Kymaria,USA,Normal,0
+1-589962550,2,Accepted+In Progress,02:57.0,Org line A2,Stefan,Sweden,Rework,1
+1-589962550,0,Accepted+In Progress,02:57.0,Org line A2,Stefan,Sweden,Normal,0
+1-590574771,0,Queued+Awaiting Assignment,47:58.0,Org line C,Robert,USA,Normal,0
+1-590579544,0,Accepted+In Progress,55:35.0,Org line G4,Roland,Sweden,Normal,0
+1-590574771,1,Accepted+In Progress,38:25.0,Org line C,Ramith,INDIA,Normal,0
+1-372029512,1,Accepted+Wait,21:34.0,Org line C,Tomas,Sweden,Normal,0
+1-546838031,2,Accepted+In Progress,52:40.0,Org line G1,Tomas,Sweden,Attribute,1
+1-546838031,3,Accepted+Wait,54:16.0,Org line C,Tomas,Sweden,Attribute,1
+1-591627183,0,Accepted+In Progress,51:42.0,Org line B,Rijin,INDIA,SkipSequence,1
+1-593312167,0,Accepted+In Progress,11:07.0,Org line A2,Ian,United Kingdom,Normal,0
+1-593312167,1,Accepted+Wait,14:00.0,Org line A2,Ian,United Kingdom,Normal,0
+1-594472343,0,Accepted+Wait,12:06.0,Org line A2,Urban,Sweden,Normal,0
+1-594472343,4,Accepted+Wait,12:06.0,Org line A2,Urban,Sweden,Rework,1
+1-581898739,4,Queued+Awaiting Assignment,10:44.0,Org line C,Praveen,Sweden,Normal,0
+1-581898739,5,Queued+Awaiting Assignment,11:48.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-581898739,6,Accepted+In Progress,13:13.0,Org line C,Mats,Sweden,Normal,0
+1-581898739,7,Completed+Closed,14:37.0,Org line C,Mats,Sweden,Normal,0
+1-594666837,0,Accepted+In Progress,23:06.0,Org line C,Jörgen,Sweden,Normal,0
+1-595293983,0,Queued+Awaiting Assignment,56:21.0,Org line B,Srinivasan,INDIA,Normal,0
+1-596251950,2,Accepted+In Progress,39:11.0,Org line G4,Christer,Sweden,Early,1
+1-596331167,0,Accepted+In Progress,48:01.0,Org line C,Martin,Sweden,Normal,0
+1-596331167,1,Queued+Awaiting Assignment,25:19.0,Org line C,Martin,Sweden,Normal,0
+1-596251950,0,Accepted+Assigned,37:42.0,Org line G4,Christer,Sweden,Early,1
+1-595293983,1,Accepted+In Progress,50:17.0,Org line B,Rijin,INDIA,Normal,0
+1-596608752,0,Accepted+In Progress,32:18.0,Org line C,Tomas,Sweden,Normal,0
+1-596608752,1,Accepted+In Progress,33:37.0,Org line C,Tomas,Sweden,Normal,0
+1-581898739,8,Accepted+In Progress,00:48.0,Org line C,Mats,Sweden,Normal,0
+1-597616526,0,Accepted+In Progress,32:35.0,Org line C,Börje,Sweden,Normal,0
+1-573830584,1,Accepted+In Progress,43:50.0,Org line C,Per,Sweden,Normal,0
+1-599157751,0,Accepted+In Progress,40:16.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-599157751,1,Queued+Awaiting Assignment,48:47.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-512617571,4,Accepted+Wait,29:18.0,Org line A2,Andrew,United Kingdom,Attribute,1
+1-599626401,0,Queued+Awaiting Assignment,12:37.0,Org line C,Robert,USA,Normal,0
+1-539805130,1,Accepted+Wait,28:16.0,Org line A2,Andrew,United Kingdom,Normal,0
+1-378744625,0,Accepted+Assigned,29:39.0,Org line C,Anna,Sweden,Normal,0
+1-374832944,0,Accepted+Assigned,30:00.0,Org line F,Maria,Sweden,Attribute,1
+1-600432558,0,Accepted+In Progress,00:44.0,Org line G4,Andreas,Sweden,Normal,0
+1-600432558,1,Accepted+Assigned,03:13.0,Org line G4,Andreas,Sweden,Normal,0
+1-600663061,0,Accepted+In Progress,11:01.0,Org line C,Börje,Sweden,Normal,0
+1-600663061,1,Queued+Awaiting Assignment,11:07.0,Org line C,Börje,Sweden,Normal,0
+1-602870173,0,Accepted+In Progress,00:41.0,Org line C,Praveen,Sweden,Normal,0
+1-602870173,1,Queued+Awaiting Assignment,10:10.0,Org line C,Praveen,Sweden,Normal,0
+1-590574771,2,Completed+Closed,42:28.0,Org line C,Ramith,INDIA,Normal,0
+1-602870173,2,Accepted+In Progress,35:18.0,Org line C,Sameer,Sweden,Normal,0
+1-602870173,3,Queued+Awaiting Assignment,38:14.0,Org line C,Martin,Sweden,Normal,0
+1-602870173,5,Queued+Awaiting Assignment,47:27.0,Org line C,Daniel,Sweden,Late,1
+1-603798757,0,Accepted+In Progress,57:05.0,Org line C,Anup,INDIA,Normal,0
+1-524375607,2,Accepted+In Progress,44:51.0,Org line C,Jo,Belgium,Normal,0
+1-604882241,0,Accepted+In Progress,21:15.0,Org line C,Stefan,Sweden,Normal,0
+1-604882241,1,Queued+Awaiting Assignment,30:30.0,Org line C,Stefan,Sweden,Normal,0
+1-602870173,4,Accepted+Assigned,08:35.0,Org line C,Daniel,Sweden,Late,1
+1-600663061,2,Accepted+In Progress,36:53.0,Org line C,Börje,Sweden,Normal,0
+1-605279637,0,Accepted+In Progress,27:59.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-604882241,2,Accepted+In Progress,58:22.0,Org line C,Stefan,Sweden,Normal,0
+1-590574771,3,Accepted+In Progress,47:02.0,Org line C,Ramith,INDIA,Normal,0
+1-367921041,4,Accepted+Assigned,57:44.0,Org line B,Aneesh V,INDIA,Normal,0
+1-607158761,0,Accepted+In Progress,38:06.0,Org line C,Bruno,France,Normal,0
+1-607158761,1,Accepted+In Progress,38:49.0,Org line C,Bruno,France,Normal,0
+1-270427461,1,Accepted+In Progress,57:27.0,Org line A2,Tomas,Sweden,SkipSequence,1
+1-236817141,4,Accepted+Assigned,09:27.0,Org line A2,Niklas,Sweden,Normal,0
+1-360072755,2,Accepted+Assigned,10:03.0,Org line A2,Niklas,Sweden,Normal,0
+1-382209384,2,Accepted+Assigned,10:10.0,Org line A2,Niklas,Sweden,Normal,0
+1-182640781,4,Accepted+Assigned,10:25.0,Org line A2,Niklas,Sweden,Normal,0
+1-520705880,1,Accepted+Wait,56:41.0,Org line A2,Tomas,Sweden,Normal,0
+1-607840637,0,Accepted+In Progress,15:57.0,Org line G1,Celine,Sweden,Attribute,1
+1-607934151,0,Accepted+Wait,37:49.0,Org line A2,Alan,United Kingdom,Normal,0
+1-607158761,2,Queued+Awaiting Assignment,32:14.0,Org line G4,Viktoria,Sweden,Normal,0
+1-599157751,2,Queued+Awaiting Assignment,34:16.0,Org line C,Martin,Sweden,Normal,0
+1-611506787,0,Accepted+In Progress,28:00.0,Org line C,Börje,Sweden,Normal,0
+1-599157751,3,Accepted+In Progress,43:24.0,Org line C,Lennart,Sweden,Normal,0
+1-612515539,0,Accepted+In Progress,35:42.0,Org line C,Praveen,Sweden,Normal,0
+1-612515539,1,Queued+Awaiting Assignment,37:42.0,Org line C,Praveen,Sweden,Normal,0
+1-612515539,2,Queued+Awaiting Assignment,07:43.0,Org line C,Martin,Sweden,Normal,0
+1-367921041,5,Accepted+Wait,27:41.0,Org line B,Aneesh V,INDIA,Normal,0
+1-538297321,0,Queued+Awaiting Assignment,30:28.0,Org line G4,Joakim,Sweden,Normal,0
+1-538297321,1,Accepted+In Progress,57:42.0,Org line G4,Rickard,Sweden,Normal,0
+1-375644051,3,Queued+Awaiting Assignment,47:29.0,Org line C,Prasad,Sweden,Normal,0
+1-616288482,0,Accepted+In Progress,07:54.0,Org line C,Robert,USA,Normal,0
+1-616288482,1,Accepted+In Progress,08:48.0,Org line C,Robert,USA,Normal,0
+1-616288482,2,Accepted+Assigned,20:36.0,Org line C,Robert,USA,SkipSequence,1
+1-616409083,0,Accepted+In Progress,30:30.0,Org line C,Jonas,Sweden,Normal,0
+1-616409083,4,Accepted+In Progress,30:30.0,Org line C,Jonas,Sweden,Rework,1
+1-616993936,0,Accepted+In Progress,23:38.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-616993936,1,Queued+Awaiting Assignment,28:42.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-616993936,2,Queued+Awaiting Assignment,32:07.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-616977258,0,Accepted+In Progress,33:57.0,Org line A2,Niklas,Sweden,Normal,0
+1-617049384,0,Accepted+In Progress,08:25.0,Org line C,Vesa,Sweden,Normal,0
+1-617356985,0,Accepted+In Progress,22:46.0,Org line C,Robert,USA,Normal,0
+1-594472343,1,Accepted+Assigned,10:24.0,Org line A2,Urban,Sweden,Normal,0
+1-594472343,5,Accepted+Assigned,10:24.0,Org line A2,Urban,Sweden,Rework,1
+1-589370341,3,Accepted+In Progress,46:11.0,Org line A2,Agneta,Sweden,Normal,0
+1-617696569,0,Accepted+In Progress,12:33.0,Org line C,Freddy,INDIA,Normal,0
+1-617356985,1,Completed+Closed,48:55.0,Org line C,Robert,USA,Normal,0
+1-618041243,0,Accepted+In Progress,43:31.0,Org line A2,Britt,Sweden,Normal,0
+1-618116069,0,Accepted+In Progress,54:16.0,Org line A2,Britt,Sweden,Normal,0
+1-618116069,1,Queued+Awaiting Assignment,14:54.0,Org line A2,Britt,Sweden,Normal,0
+1-618041243,1,Queued+Awaiting Assignment,37:56.0,Org line A2,Britt,Sweden,Normal,0
+1-378050311,4,Queued+Awaiting Assignment,59:57.0,Org line F,Craig,Sweden,Normal,0
+1-618589528,0,Accepted+In Progress,52:56.0,Org line A2,Ian,United Kingdom,Normal,0
+1-618589528,1,Accepted+Assigned,54:50.0,Org line A2,Ian,United Kingdom,Normal,0
+1-619067777,0,Accepted+In Progress,46:41.0,Org line A2,Britt,Sweden,Normal,0
+1-619067777,1,Queued+Awaiting Assignment,47:20.0,Org line A2,Britt,Sweden,Normal,0
+1-619146141,0,Queued+Awaiting Assignment,57:32.0,Org line C,Olivier,France,Normal,0
+1-619254483,0,Accepted+In Progress,37:58.0,Org line A2,Maria,Sweden,Normal,0
+1-619699161,0,Accepted+In Progress,01:36.0,Org line A2,Viktoria,Sweden,Normal,0
+1-619699161,1,Queued+Awaiting Assignment,13:30.0,Org line A2,Viktoria,Sweden,Normal,0
+1-613033122,0,Accepted+In Progress,38:55.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-620015297,0,Accepted+In Progress,51:12.0,Org line G4,Rickard,Sweden,Normal,0
+1-619699161,2,Accepted+In Progress,28:52.0,Org line A2,Kristina,Sweden,Normal,0
+1-619699161,3,Completed+Closed,41:47.0,Org line A2,Kristina,Sweden,Normal,0
+1-619109941,0,Queued+Awaiting Assignment,35:01.0,Org line C,Robert,USA,Normal,0
+1-619109941,1,Accepted+In Progress,50:12.0,Org line C,Praveen,Sweden,Normal,0
+1-619109941,2,Queued+Awaiting Assignment,56:00.0,Org line C,Martin,Sweden,Normal,0
+1-618589528,2,Accepted+In Progress,05:32.0,Org line A2,Ian,United Kingdom,Normal,0
+1-413205820,4,Accepted+Assigned,31:33.0,Org line A2,Joakim,USA,Normal,0
+1-620432583,0,Accepted+In Progress,38:29.0,Org line A2,Britt,Sweden,Normal,0
+1-620432583,1,Queued+Awaiting Assignment,39:00.0,Org line A2,Britt,Sweden,Normal,0
+1-620483711,0,Accepted+In Progress,12:52.0,Org line C,Praveen,Sweden,Normal,0
+1-620483711,4,Accepted+In Progress,12:52.0,Org line C,Praveen,Sweden,Rework,1
+1-620483711,5,Queued+Awaiting Assignment,27:06.0,Org line C,Praveen,Sweden,Rework,1
+1-620483711,1,Queued+Awaiting Assignment,27:06.0,Org line C,Praveen,Sweden,Normal,0
+1-602870173,6,Queued+Awaiting Assignment,27:34.0,Org line C,Praveen,Sweden,Late,1
+1-602870173,7,Accepted+In Progress,29:22.0,Org line C,Arun,Sweden,Late,1
+1-602870173,8,Accepted+Assigned,29:55.0,Org line C,Partha,Sweden,Late,1
+1-602870173,9,Queued+Awaiting Assignment,50:32.0,Org line C,Martin,Sweden,Late,1
+1-620483711,2,Queued+Awaiting Assignment,57:49.0,Org line C,Martin,Sweden,Normal,0
+1-620483711,6,Queued+Awaiting Assignment,57:49.0,Org line C,Martin,Sweden,Rework,1
+1-620925267,1,Accepted+In Progress,10:07.0,Org line A2,Ian,United Kingdom,Early,1
+1-620925267,0,Accepted+Assigned,19:05.0,Org line A2,Ian,United Kingdom,Early,1
+1-621039603,0,Accepted+In Progress,59:55.0,Org line G3,Ewa,POLAND,Normal,0
+1-621322866,0,Accepted+In Progress,13:39.0,Org line C,Mikael,Sweden,Normal,0
+1-621311061,0,Accepted+In Progress,18:16.0,Org line D,Bikshamaiah,Sweden,Normal,0
+1-621311061,1,Completed+Closed,22:15.0,Org line D,Bikshamaiah,Sweden,Normal,0
+1-584776062,1,Accepted+Wait,26:24.0,Org line G4,Samira,Sweden,Normal,0
+1-621393223,0,Accepted+In Progress,38:35.0,Org line C,Peter,Belgium,Normal,0
+1-621393223,1,Queued+Awaiting Assignment,33:04.0,Org line C,Peter,Belgium,Normal,0
+1-580464971,1,Queued+Awaiting Assignment,34:50.0,Org line A2,Carlos,Brazil,Attribute,1
+1-621393223,2,Queued+Awaiting Assignment,44:12.0,Org line C,Peter,Belgium,Normal,0
+1-621393223,3,Accepted+Assigned,31:39.0,Org line C,Marie,Sweden,Normal,0
+1-621311061,2,Accepted+In Progress,34:36.0,Org line D,Bikshamaiah,Sweden,Normal,0
+1-621311061,3,Accepted+In Progress,38:44.0,Org line D,Bikshamaiah,Sweden,Normal,0
+1-618041243,2,Accepted+In Progress,48:59.0,Org line A2,Britt,Sweden,Normal,0
+1-620432583,2,Accepted+In Progress,51:36.0,Org line A2,Britt,Sweden,Normal,0
+1-620432583,3,Accepted+Wait,51:48.0,Org line A2,Britt,Sweden,Normal,0
+1-618116069,2,Accepted+In Progress,51:59.0,Org line A2,Britt,Sweden,Normal,0
+1-618116069,3,Accepted+Wait,52:05.0,Org line A2,Britt,Sweden,Normal,0
+1-619067777,2,Accepted+In Progress,52:12.0,Org line A2,Britt,Sweden,Normal,0
+1-619067777,3,Accepted+Wait,52:18.0,Org line A2,Britt,Sweden,Normal,0
+1-618041243,3,Accepted+Wait,52:54.0,Org line A2,Britt,Sweden,Normal,0
+1-622295317,0,Accepted+In Progress,33:32.0,Org line A2,Frederic,France,Normal,0
+1-622618613,0,Accepted+In Progress,07:15.0,Org line A2,Britt,Sweden,Normal,0
+1-622618613,1,Queued+Awaiting Assignment,07:39.0,Org line A2,Britt,Sweden,Normal,0
+1-622618613,2,Accepted+In Progress,11:12.0,Org line A2,Britt,Sweden,Normal,0
+1-622618613,3,Accepted+Wait,11:20.0,Org line A2,Britt,Sweden,Normal,0
+1-622652886,0,Accepted+In Progress,52:25.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-622783644,1,Accepted+In Progress,19:11.0,Org line C,Sameer,INDIA,Late,1
+1-515461174,1,Accepted+Assigned,21:26.0,Org line G4,Roland,Sweden,Normal,0
+1-622856843,0,Accepted+In Progress,27:52.0,Org line C,Michel,France,Normal,0
+1-620925267,2,Accepted+In Progress,56:25.0,Org line A2,Ian,United Kingdom,Early,1
+1-622940906,0,Accepted+In Progress,52:14.0,Org line A2,Tomas,Sweden,Normal,0
+1-622847448,0,Accepted+In Progress,36:57.0,Org line A2,Venkata,Sweden,Normal,0
+1-620483711,3,Accepted+In Progress,58:14.0,Org line C,Martin,Sweden,Normal,0
+1-578612990,4,Accepted+In Progress,01:57.0,Org line C,Jörgen,Sweden,Normal,0
+1-623873811,0,Accepted+In Progress,16:05.0,Org line C,Rakesh,Sweden,Normal,0
+1-623873811,1,Queued+Awaiting Assignment,16:44.0,Org line C,Rakesh,Sweden,Normal,0
+1-624219528,0,Accepted+In Progress,55:26.0,Org line G4,Rickard,Sweden,Normal,0
+1-560404489,5,Accepted+In Progress,51:36.0,Org line C,Per,Sweden,Normal,0
+1-624450715,0,Accepted+In Progress,23:36.0,Org line C,Mikael,Sweden,Normal,0
+1-560404489,6,Accepted+In Progress,13:32.0,Org line C,Mikael,Sweden,Normal,0
+1-624745314,0,Accepted+In Progress,51:26.0,Org line G4,Rickard,Sweden,Normal,0
+1-560404489,7,Queued+Awaiting Assignment,22:44.0,Org line C,Mikael,Sweden,Normal,0
+1-577996886,3,Queued+Awaiting Assignment,27:10.0,Org line C,Peter,Belgium,Early,1
+1-625322174,0,Accepted+In Progress,18:28.0,Org line C,Olivier,France,Normal,0
+1-625322174,1,Queued+Awaiting Assignment,19:36.0,Org line C,Olivier,France,Normal,0
+1-625459293,0,Accepted+In Progress,13:32.0,Org line A2,Britt,Sweden,Normal,0
+1-625459293,1,Queued+Awaiting Assignment,14:22.0,Org line A2,Britt,Sweden,Normal,0
+1-617696569,1,Completed+Closed,43:18.0,Org line C,Freddy,INDIA,Normal,0
+1-580464971,2,Accepted+In Progress,54:48.0,Org line B,Thiago,Brazil,Attribute,1
+1-580464971,3,Queued+Awaiting Assignment,01:51.0,Org line V5,Viktoria,Sweden,Attribute,1
+1-626515794,0,Accepted+In Progress,07:40.0,Org line A2,Ian,United Kingdom,Normal,0
+1-626515794,1,Accepted+Assigned,26:59.0,Org line A2,Ian,United Kingdom,Normal,0
+1-351314317,4,Accepted+In Progress,25:19.0,Org line A2,Ewa,POLAND,Normal,0
+1-621311061,4,Completed+Closed,01:07.0,Org line D,Bikshamaiah,Sweden,Normal,0
+1-627630611,0,Accepted+In Progress,43:03.0,Org line C,Leif,Sweden,Normal,0
+1-627630611,1,Queued+Awaiting Assignment,46:04.0,Org line C,Leif,Sweden,Normal,0
+1-565905115,1,Accepted+In Progress,41:16.0,Org line C,Rohan,INDIA,Normal,0
+1-628078553,0,Accepted+In Progress,59:52.0,Org line V2,Cyril,Sweden,Attribute,1
+1-628105478,0,Accepted+In Progress,57:58.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-628203323,0,Accepted+In Progress,18:37.0,Org line C,-,INDIA,Normal,0
+1-628203323,1,Accepted+In Progress,21:45.0,Org line C,-,INDIA,Normal,0
+1-628669941,0,Accepted+In Progress,46:51.0,Org line C,Peter,Sweden,Normal,0
+1-626515794,2,Accepted+Assigned,33:36.0,Org line A2,Ian,United Kingdom,Normal,0
+1-622783644,2,Accepted+Wait,32:16.0,Org line C,Sameer,INDIA,Late,1
+1-628203323,2,Accepted+Assigned,36:48.0,Org line C,Rajkishore,INDIA,Normal,0
+1-628203323,3,Accepted+In Progress,05:29.0,Org line C,Rajkishore,INDIA,Normal,0
+1-611506787,1,Accepted+Wait,47:10.0,Org line C,Börje,Sweden,Normal,0
+1-354039443,0,Accepted+In Progress,05:47.0,Org line G3,Ewa,POLAND,Normal,0
+1-357087417,0,Accepted+In Progress,01:17.0,Org line G3,Ewa,POLAND,Normal,0
+1-631001113,2,Accepted+In Progress,34:26.0,Org line A2,Maria,Sweden,Rework,1
+1-631001113,0,Accepted+In Progress,34:26.0,Org line A2,Maria,Sweden,Normal,0
+1-631117870,0,Accepted+In Progress,45:55.0,Org line C,Robert,USA,Normal,0
+1-631117870,1,Accepted+Wait,47:40.0,Org line C,Robert,USA,Normal,0
+1-631117870,2,Accepted+Wait,49:46.0,Org line C,Robert,USA,Normal,0
+1-595293983,2,Completed+Closed,05:05.0,Org line B,Rijin,INDIA,Normal,0
+1-595293983,3,Accepted+In Progress,36:51.0,Org line B,Rijin,INDIA,Normal,0
+1-380654568,0,Accepted+In Progress,09:26.0,Org line G3,Ewa,POLAND,Normal,0
+1-631001113,3,Completed+Closed,23:31.0,Org line A2,Maria,Sweden,Rework,1
+1-631001113,1,Completed+Closed,23:31.0,Org line A2,Maria,Sweden,Normal,0
+1-628669941,1,Completed+Closed,24:05.0,Org line C,Peter,Sweden,Normal,0
+1-611506787,2,Completed+Closed,49:38.0,Org line C,Börje,Sweden,Normal,0
+1-600663061,3,Completed+Closed,03:09.0,Org line C,Börje,Sweden,Normal,0
+1-182640781,5,Accepted+In Progress,30:35.0,Org line A2,Niklas,Sweden,Normal,0
+1-182640781,6,Completed+Closed,31:53.0,Org line A2,Niklas,Sweden,Normal,0
+1-597616526,1,Completed+Closed,19:56.0,Org line C,Börje,Sweden,Normal,0
+1-351314317,5,Completed+Closed,13:02.0,Org line A2,Ewa,POLAND,Normal,0
+1-634487640,0,Random activity 4,50:05.0,Random_16,Random_16,Random_16,Insert,1
+1-590574771,4,Completed+Closed,12:48.0,Org line C,Ramith,INDIA,Normal,0
+1-634487640,1,Accepted+In Progress,50:05.0,Org line A2,Vikrant,Sweden,Insert,1
+1-564738994,2,Accepted+In Progress,02:10.0,Org line B,Murali,INDIA,Normal,0
+1-587383007,1,Completed+Closed,07:10.0,Org line A2,Vikrant,Sweden,Normal,0
+1-565905115,2,Completed+Closed,31:27.0,Org line C,Rohan,INDIA,Normal,0
+1-406066421,1,Completed+Closed,33:27.0,Org line C,Kenneth,Sweden,Normal,0
+1-634506651,0,Accepted+In Progress,36:18.0,Org line C,Kjell,Sweden,Normal,0
+1-634506651,1,Completed+Closed,53:35.0,Org line C,Kjell,Sweden,Normal,0
+1-634533656,0,Accepted+In Progress,02:22.0,Org line C,Peter,Sweden,Normal,0
+1-413205820,5,Completed+Closed,52:57.0,Org line A2,Joakim,USA,Normal,0
+1-621039603,1,Completed+Closed,43:32.0,Org line G3,Ewa,POLAND,Normal,0
+1-604882241,3,Queued+Awaiting Assignment,45:39.0,Org line C,Stefan,Sweden,Normal,0
+1-366923538,0,Accepted+In Progress,55:26.0,Org line G3,Ewa,POLAND,Normal,0
+1-392812598,0,Accepted+In Progress,58:37.0,Org line G3,Ewa,POLAND,Normal,0
+1-392812598,1,Completed+Closed,59:08.0,Org line G3,Ewa,POLAND,Normal,0
+1-616977258,1,Accepted+Assigned,31:53.0,Org line G1,-,Sweden,Attribute,1
+1-236817141,5,Accepted+In Progress,08:18.0,Org line A2,Tomas,Sweden,Normal,0
+1-625459293,2,Accepted+In Progress,08:46.0,Org line A2,Britt,Sweden,Normal,0
+1-236817141,6,Completed+Closed,09:00.0,Org line A2,Tomas,Sweden,Normal,0
+1-625459293,3,Accepted+Wait,25:39.0,Org line A2,Britt,Sweden,Normal,0
+1-635382525,0,Accepted+In Progress,48:54.0,Org line G3,Ewa,POLAND,Normal,0
+1-579250167,1,Accepted+Wait,58:23.0,Org line C,Hineesh,INDIA,Normal,0
+1-621311061,5,Accepted+In Progress,08:42.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-621311061,6,Completed+Closed,09:47.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-621311061,7,Accepted+In Progress,35:53.0,Org line G4,Bikshamaiah,Sweden,Attribute,1
+1-636080278,0,Accepted+In Progress,40:03.0,Org line C,Prasad,Sweden,Normal,0
+1-588712865,5,Completed+Closed,50:17.0,Org line C,Kymaria,USA,Normal,0
+1-636080278,1,Queued+Awaiting Assignment,51:57.0,Org line C,Prasad,Sweden,Normal,0
+1-636102195,0,Accepted+In Progress,05:47.0,Org line C,Robert,USA,Normal,0
+1-636102195,1,Accepted+Wait,15:10.0,Org line C,Robert,USA,Normal,0
+1-599626401,1,Accepted+In Progress,54:50.0,Org line C,Robert,USA,Normal,0
+1-599626401,2,Completed+Closed,56:19.0,Org line C,Robert,USA,Normal,0
+1-636931254,0,Accepted+In Progress,19:06.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,1,Accepted+In Progress,21:20.0,Org line C,Jitender,Sweden,Normal,0
+1-636852199,0,Accepted+Assigned,34:33.0,Org line A2,Radoslaw,POLAND,Normal,0
+1-366584206,0,Accepted+In Progress,25:49.0,Org line G3,Ewa,POLAND,Normal,0
+1-366584206,1,Completed+Closed,25:51.0,Org line G3,Ewa,POLAND,Normal,0
+1-636931254,2,Accepted+In Progress,44:21.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,3,Queued+Awaiting Assignment,45:27.0,Org line C,Prasad,Sweden,Normal,0
+1-636931254,4,Accepted+In Progress,45:51.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,5,Queued+Awaiting Assignment,46:05.0,Org line C,Prasad,Sweden,Normal,0
+1-636931254,6,Accepted+In Progress,46:41.0,Org line C,Jitender,Sweden,Normal,0
+1-637059802,0,Accepted+In Progress,55:12.0,Org line G3,Ewa,POLAND,Normal,0
+1-637059802,1,Completed+Closed,55:57.0,Org line G3,Ewa,POLAND,Normal,0
+1-637089310,0,Accepted+In Progress,49:14.0,Org line A2,Ian,United Kingdom,Normal,0
+1-637089310,1,Accepted+Assigned,52:21.0,Org line A2,Ian,United Kingdom,Normal,0
+1-636080278,2,Queued+Awaiting Assignment,54:45.0,Org line C,Prasad,Sweden,Normal,0
+1-636931254,7,Completed+Closed,59:51.0,Org line C,Jitender,Sweden,Normal,0
+1-634533656,1,Completed+Closed,11:00.0,Org line C,Peter,Sweden,Normal,0
+1-636080278,3,Accepted+In Progress,28:35.0,Org line C,Jitender,Sweden,Normal,0
+1-619254483,1,Completed+Closed,11:14.0,Org line A2,Maria,Sweden,Normal,0
+1-637713651,0,Accepted+In Progress,27:07.0,Org line G4,Håkan,Sweden,Normal,0
+1-513180623,0,Accepted+In Progress,01:19.0,Org line G3,Ewa,POLAND,Normal,0
+1-637713545,0,Accepted+In Progress,11:08.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-637713545,1,Queued+Awaiting Assignment,16:22.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-513180623,1,Completed+Closed,21:57.0,Org line G3,Ewa,POLAND,Normal,0
+1-624403918,0,Queued+Awaiting Assignment,26:31.0,Org line C,Prasad,Sweden,Normal,0
+1-637893062,0,Accepted+In Progress,05:54.0,Org line G4,Samira,Sweden,Normal,0
+1-635382525,1,Completed+Closed,36:47.0,Org line G3,Ewa,POLAND,Normal,0
+1-638091067,0,Accepted+In Progress,56:40.0,Org line C,Peter,Sweden,Normal,0
+1-638091067,4,Accepted+In Progress,56:40.0,Org line C,Peter,Sweden,Rework,1
+1-639881579,0,Accepted+In Progress,13:47.0,Org line C,Peter,Sweden,Normal,0
+1-360072755,3,Accepted+Wait,23:04.0,Org line A2,Niklas,Sweden,Normal,0
+1-639942581,0,Accepted+In Progress,16:10.0,Org line C,Fabrice,France,Normal,0
+1-640059801,0,Accepted+In Progress,24:50.0,Org line C,Bruno,France,Normal,0
+1-640059801,1,Completed+Closed,26:04.0,Org line C,Bruno,France,Normal,0
+1-640254885,0,Accepted+In Progress,14:39.0,Org line C,Robert,USA,Normal,0
+1-640254885,1,Queued+Awaiting Assignment,15:03.0,Org line C,Robert,USA,Normal,0
+1-640387614,0,Accepted+In Progress,20:38.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-640387614,1,Accepted+In Progress,21:07.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-640387614,2,Queued+Awaiting Assignment,22:43.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-641023492,0,Accepted+In Progress,04:43.0,Org line G4,Rickard,Sweden,Normal,0
+1-641083751,2,Accepted+In Progress,10:14.0,Org line G4,David,Sweden,Early,1
+1-641083751,0,Accepted+Assigned,17:04.0,Org line G4,David,Sweden,Early,1
+1-641083987,0,Accepted+In Progress,43:55.0,Org line G4,David,Sweden,Normal,0
+1-641083987,1,Random activity 3,44:23.5,Random_17,Random_17,Random_17,Insert,1
+1-641083987,2,Accepted+Assigned,47:37.0,Org line G4,David,Sweden,Insert,1
+1-622940906,1,Accepted+In Progress,07:55.0,Org line A2,Tomas,Sweden,Normal,0
+1-641243011,3,Accepted+In Progress,26:50.0,Org line A2,Ian,United Kingdom,Late,1
+1-518362551,0,Accepted+In Progress,27:01.0,Org line G3,Ewa,POLAND,Normal,0
+1-518362551,1,Completed+Closed,27:18.0,Org line G3,Ewa,POLAND,Normal,0
+1-641243011,4,Accepted+Assigned,30:57.0,Org line A2,Ian,United Kingdom,Late,1
+1-637713651,1,Completed+Closed,32:34.0,Org line G4,Håkan,Sweden,Normal,0
+1-641323677,0,Accepted+In Progress,25:52.0,Org line G4,Roland,Sweden,Normal,0
+1-641323677,1,Accepted+Assigned,27:12.0,Org line G4,Roland,Sweden,Normal,0
+1-641306231,0,Accepted+In Progress,40:59.0,Org line A2,Maria,Sweden,Normal,0
+1-641323677,2,Accepted+In Progress,30:14.0,Org line G4,Roland,Sweden,Normal,0
+1-638091067,5,Completed+Closed,46:25.0,Org line C,Peter,Sweden,Rework,1
+1-638091067,1,Completed+Closed,46:25.0,Org line C,Peter,Sweden,Normal,0
+1-638091067,6,Accepted+In Progress,55:17.0,Org line C,Peter,Sweden,Rework,1
+1-638091067,2,Accepted+In Progress,55:17.0,Org line C,Peter,Sweden,Normal,0
+1-638091067,3,Accepted+Wait,57:02.0,Org line C,Peter,Sweden,Normal,0
+1-641530471,0,Queued+Awaiting Assignment,03:40.0,Org line C,Robert,USA,Normal,0
+1-640387614,3,Queued+Awaiting Assignment,25:40.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-641306231,1,Completed+Closed,40:15.0,Org line A2,Maria,Sweden,Normal,0
+1-390722958,2,Accepted+Assigned,43:19.0,Org line G4,Christer,Sweden,Late,1
+1-642766943,0,Accepted+In Progress,45:58.0,Org line A2,Paulina,POLAND,Normal,0
+1-642766943,1,Accepted+Wait,36:17.0,Org line A2,Paulina,POLAND,Normal,0
+1-638091067,7,Queued+Awaiting Assignment,55:28.0,Org line C,Peter,Sweden,Rework,1
+1-642846054,0,Accepted+In Progress,03:47.0,Org line C,Ramith,INDIA,Normal,0
+1-642846054,1,Accepted+In Progress,14:34.0,Org line C,Ramith,INDIA,Normal,0
+1-641323677,3,Completed+Closed,19:24.0,Org line G4,Roland,Sweden,Normal,0
+1-622940906,2,Completed+Closed,10:00.0,Org line A2,Tomas,Sweden,Normal,0
+1-643556695,0,Accepted+In Progress,09:37.0,Org line C,Ramith,INDIA,Normal,0
+1-621322866,1,Completed+Closed,00:57.0,Org line C,Mikael,Sweden,Normal,0
+1-643706642,0,Accepted+In Progress,56:44.0,Org line G4,Mattias,Sweden,Normal,0
+1-577996886,4,Queued+Awaiting Assignment,31:59.0,Org line C,Peter,Belgium,Early,1
+1-643706642,1,Accepted+In Progress,33:32.0,Org line G4,Mattias,Sweden,Normal,0
+1-644748889,0,Random activity 4,17:02.0,Random_18,Random_18,Random_18,Insert,1
+1-628203323,4,Accepted+Wait,43:17.0,Org line C,Rajkishore,INDIA,Normal,0
+1-642766943,2,Accepted+In Progress,17:27.0,Org line A2,Paulina,POLAND,Normal,0
+1-642766943,3,Completed+Closed,18:16.0,Org line A2,Paulina,POLAND,Normal,0
+1-638091067,8,Accepted+Assigned,14:25.0,Org line C,Peter,Sweden,Rework,1
+1-644748889,1,Accepted+In Progress,17:02.0,Org line G3,Ewa,POLAND,Insert,1
+1-644748889,2,Completed+Closed,19:42.0,Org line G3,Ewa,POLAND,Insert,1
+1-566661201,2,Completed+Closed,58:16.0,Org line D,Wim,Belgium,Normal,0
+1-617696569,2,Accepted+In Progress,05:10.0,Org line C,Freddy,INDIA,Normal,0
+1-617696569,3,Completed+Closed,07:06.0,Org line C,Freddy,INDIA,Normal,0
+1-573830584,2,Accepted+Assigned,54:46.0,Org line C,Mikael,Sweden,Normal,0
+1-573830584,3,Accepted+In Progress,54:47.0,Org line C,Lena,Sweden,Normal,0
+1-644992956,0,Accepted+In Progress,02:14.0,Org line C,Kåre,Sweden,Normal,0
+1-644992956,1,Accepted+In Progress,04:14.0,Org line C,Kåre,Sweden,Normal,0
+1-364528467,0,Random activity 2,14:11.0,Random_2,Random_2,Random_2,Insert,1
+1-643706642,2,Completed+Closed,16:38.0,Org line G4,Mattias,Sweden,Normal,0
+1-647796802,0,Accepted+In Progress,47:12.0,Org line G4,David,Sweden,Normal,0
+1-363549934,0,Accepted+In Progress,09:44.0,Org line G3,Ewa,POLAND,Normal,0
+1-363549934,1,Completed+Closed,10:41.0,Org line G3,Ewa,POLAND,Normal,0
+1-364528467,1,Accepted+In Progress,14:11.0,Org line G3,Ewa,POLAND,Insert,1
+1-364528467,2,Completed+Closed,14:18.0,Org line G3,Ewa,POLAND,Insert,1
+1-647796802,2,Accepted+Assigned,22:55.0,Org line G4,David,Sweden,Late,1
+1-647841758,1,Accepted+In Progress,31:05.0,Org line F,Marc,Belgium,Late,1
+1-647841758,2,Completed+Closed,36:41.0,Org line F,Marc,Belgium,Late,1
+1-574623837,5,Accepted+In Progress,05:18.0,Org line A2,Radoslaw,POLAND,Rework,1
+1-574623837,2,Accepted+In Progress,05:18.0,Org line A2,Radoslaw,POLAND,Normal,0
+1-574623837,6,Completed+Closed,08:49.0,Org line A2,Radoslaw,POLAND,Rework,1
+1-574623837,3,Completed+Closed,08:49.0,Org line A2,Radoslaw,POLAND,Normal,0
+1-647796802,1,Accepted+In Progress,07:04.0,Org line G4,David,Sweden,Late,1
+1-535418135,5,Accepted+In Progress,23:31.0,Org line A2,Michal,POLAND,Insert,1
+1-535418135,6,Completed+Closed,25:35.0,Org line A2,Michal,POLAND,Insert,1
+1-620432583,4,Accepted+In Progress,53:52.0,Org line A2,Britt,Sweden,Normal,0
+1-620432583,5,Completed+Closed,05:09.0,Org line A2,Britt,Sweden,Normal,0
+1-618041243,4,Completed+Closed,18:51.0,Org line A2,Britt,Sweden,Normal,0
+1-618116069,4,Completed+Closed,30:17.0,Org line A2,Britt,Sweden,Normal,0
+1-625459293,4,Completed+Closed,33:55.0,Org line A2,Britt,Sweden,Normal,0
+1-622618613,4,Completed+Closed,38:31.0,Org line A2,Britt,Sweden,Normal,0
+1-636102195,2,Queued+Awaiting Assignment,17:23.0,Org line C,Robert,USA,Normal,0
+1-647796802,3,Completed+Closed,31:32.0,Org line G4,David,Sweden,Late,1
+1-641083751,1,Accepted+In Progress,36:47.0,Org line G4,David,Sweden,Early,1
+1-641083751,3,Completed+Closed,37:57.0,Org line G4,David,Sweden,Early,1
+1-649887393,0,Accepted+In Progress,18:48.0,Org line G4,Per,Sweden,Normal,0
+1-617049384,1,Completed+Closed,11:18.0,Org line C,Vesa,Sweden,Normal,0
+1-644992956,2,Accepted+Wait,21:55.0,Org line C,Kåre,Sweden,Normal,0
+1-650123293,0,Accepted+In Progress,22:40.0,Org line G4,Roland,Sweden,Normal,0
+1-650123293,1,Accepted+Assigned,23:00.0,Org line G4,Roland,Sweden,Normal,0
+1-650135511,2,Accepted+In Progress,25:31.0,Org line F,Marc,Belgium,Rework,1
+1-650135511,0,Accepted+In Progress,25:31.0,Org line F,Marc,Belgium,Normal,0
+1-650892393,0,Accepted+In Progress,43:58.0,Org line G4,Erik,Sweden,Normal,0
+1-650123293,2,Accepted+In Progress,47:44.0,Org line F,Michael,Sweden,Attribute,1
+1-622856843,1,Completed+Closed,29:10.0,Org line C,Michel,France,Normal,0
+1-631117870,3,Queued+Awaiting Assignment,38:12.0,Org line C,Robert,USA,Normal,0
+1-545911672,1,Accepted+In Progress,52:59.0,Org line G4,Mattias,Sweden,Normal,0
+1-545911672,2,Completed+Closed,58:41.0,Org line G4,Mattias,Sweden,Normal,0
+1-636931254,8,Accepted+In Progress,00:13.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,9,Queued+Awaiting Assignment,05:59.0,Org line C,Prasad,Sweden,Normal,0
+1-636931254,10,Accepted+In Progress,06:00.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,11,Accepted+In Progress,07:11.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,12,Completed+Closed,23:47.0,Org line C,Jitender,Sweden,Normal,0
+1-650892393,1,Completed+Closed,28:41.0,Org line G4,Erik,Sweden,Normal,0
+1-588543315,1,Completed+Closed,26:37.0,Org line A2,Vikrant,Sweden,Normal,0
+1-634487640,2,Completed+Closed,31:46.0,Org line A2,Vikrant,Sweden,Insert,1
+1-652270498,0,Accepted+In Progress,36:13.0,Org line A2,David,USA,Normal,0
+1-623873811,2,Accepted+In Progress,21:33.0,Org line C,Kymaria,USA,Normal,0
+1-623873811,3,Accepted+Wait,23:52.0,Org line C,Kymaria,USA,Normal,0
+1-538467021,0,Accepted+In Progress,46:19.0,Org line B,Thiago,Brazil,Normal,0
+1-538467021,1,Completed+Closed,48:24.0,Org line B,Thiago,Brazil,Normal,0
+1-652874271,0,Accepted+In Progress,21:24.0,Org line G4,Håkan,Sweden,Normal,0
+1-652925445,0,Accepted+In Progress,54:38.0,Org line G4,Rickard,Sweden,Normal,0
+1-427955007,2,Completed+Closed,47:59.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-590579544,1,Completed+Closed,18:45.0,Org line G4,Roland,Sweden,Normal,0
+1-506092586,1,Completed+Closed,25:15.0,Org line G4,Per,Sweden,Normal,0
+1-520127960,2,Completed+Closed,31:40.0,Org line G4,Per,Sweden,Normal,0
+1-579636429,1,Completed+Closed,38:12.0,Org line G4,Roland,Sweden,Normal,0
+1-385201933,5,Completed+Closed,39:55.0,Org line G4,Per,Sweden,Normal,0
+1-404005175,2,Completed+Closed,06:11.0,Org line G4,Per,Sweden,Normal,0
+1-641023492,1,Completed+Closed,51:59.0,Org line G4,Rickard,Sweden,Normal,0
+1-653254236,0,Accepted+In Progress,50:33.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-653254236,1,Accepted+Wait,52:01.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-653314473,0,Queued+Awaiting Assignment,30:56.0,Org line B,Ewa,USA,Attribute,1
+1-653989471,0,Queued+Awaiting Assignment,57:21.0,Org line C,-,INDIA,Normal,0
+1-607840637,1,Completed+Closed,46:02.0,Org line G3,Ratikanta,Sweden,Attribute,1
+1-637893062,1,Accepted+Assigned,52:26.0,Org line G4,Samira,Sweden,Normal,0
+1-354039443,1,Completed+Closed,29:51.0,Org line G3,Lennart,POLAND,Attribute,1
+1-357087417,1,Completed+Closed,30:21.0,Org line G3,Ewa,POLAND,Normal,0
+1-380654568,1,Completed+Closed,31:24.0,Org line G3,Ewa,POLAND,Normal,0
+1-523069229,0,Accepted+In Progress,54:45.0,Org line G3,Ewa,POLAND,Normal,0
+1-523069229,1,Completed+Closed,54:47.0,Org line G3,Ewa,POLAND,Normal,0
+1-373413519,0,Accepted+In Progress,59:22.0,Org line G3,Ewa,POLAND,Normal,0
+1-373413519,1,Completed+Closed,00:09.0,Org line G3,Ewa,POLAND,Normal,0
+1-417868043,0,Accepted+In Progress,05:37.0,Org line G3,Ewa,POLAND,Normal,0
+1-417868043,1,Completed+Closed,06:01.0,Org line G3,Ewa,POLAND,Normal,0
+1-517002080,0,Accepted+In Progress,06:42.0,Org line G3,Ewa,POLAND,Normal,0
+1-517002080,1,Completed+Closed,07:11.0,Org line G3,Ewa,POLAND,Normal,0
+1-372029512,2,Completed+Closed,18:55.0,Org line C,Tomas,Sweden,Normal,0
+1-510142147,1,Accepted+Assigned,39:42.0,Org line G4,David,Sweden,Early,1
+1-619699161,4,Accepted+Assigned,40:16.0,Org line G4,David,Sweden,Normal,0
+1-429498598,1,Accepted+Assigned,41:27.0,Org line G4,Marco,Sweden,Early,1
+1-574222268,1,Accepted+Assigned,41:47.0,Org line G4,David,Sweden,Normal,0
+1-574222268,2,Accepted+Assigned,41:48.0,Org line G4,David,Sweden,Normal,0
+1-596608752,2,Completed+Closed,42:26.0,Org line C,Tomas,Sweden,Normal,0
+1-372978779,0,Accepted+In Progress,58:10.0,Org line G3,Ewa,POLAND,Normal,0
+1-431797119,0,Accepted+In Progress,59:16.0,Org line G3,Ewa,POLAND,Normal,0
+1-366923538,1,Completed+Closed,05:58.0,Org line G3,Ewa,POLAND,Normal,0
+1-431797119,1,Completed+Closed,07:31.0,Org line G3,Ewa,POLAND,Normal,0
+1-619109941,3,Queued+Awaiting Assignment,13:13.0,Org line C,Martin,Sweden,Normal,0
+1-619109941,4,Queued+Awaiting Assignment,13:51.0,Org line C,Martin,Sweden,Normal,0
+1-619109941,5,Queued+Awaiting Assignment,17:46.0,Org line C,Martin,Sweden,Normal,0
+1-619109941,6,Accepted+In Progress,31:28.0,Org line C,Pascal,Sweden,Normal,0
+1-372978779,1,Completed+Closed,38:43.0,Org line G3,Ewa,POLAND,Normal,0
+1-388644366,0,Accepted+In Progress,48:15.0,Org line G3,Ewa,POLAND,Normal,0
+1-388644366,1,Completed+Closed,48:48.0,Org line G3,Ewa,POLAND,Normal,0
+1-655536176,0,Accepted+In Progress,52:24.0,Org line C,Mats,Sweden,Normal,0
+1-574222268,3,Accepted+Assigned,44:11.0,Org line G4,David,Sweden,Normal,0
+1-574222268,4,Accepted+In Progress,46:13.0,Org line G4,David,Sweden,Normal,0
+1-574222268,5,Completed+Closed,46:22.0,Org line G4,David,Sweden,Normal,0
+1-517045062,0,Accepted+In Progress,50:24.0,Org line G3,Ewa,POLAND,Normal,0
+1-517045062,1,Completed+Closed,52:53.0,Org line G3,Ewa,POLAND,Normal,0
+1-397446945,0,Accepted+In Progress,01:21.0,Org line G3,Ewa,POLAND,Normal,0
+1-397446945,1,Completed+Closed,02:46.0,Org line G3,Ewa,POLAND,Normal,0
+1-510142147,0,Accepted+In Progress,45:06.0,Org line G4,David,Sweden,Early,1
+1-510142147,2,Completed+Closed,45:09.0,Org line G4,David,Sweden,Early,1
+1-403006315,0,Accepted+In Progress,54:38.0,Org line G4,Ewa,POLAND,Attribute,1
+1-403006315,1,Completed+Closed,59:04.0,Org line D,Ilona,POLAND,Attribute,1
+1-595293983,4,Completed+Closed,56:19.0,Org line B,Rijin,INDIA,Normal,0
+1-656510751,0,Accepted+In Progress,42:52.0,Org line G4,Per,Sweden,Normal,0
+1-656868426,0,Accepted+In Progress,33:06.0,Org line G4,Marco,Sweden,Normal,0
+1-656868426,1,Accepted+Assigned,34:10.0,Org line G4,Marco,Sweden,Normal,0
+1-656868426,2,Accepted+Wait,36:55.0,Org line G4,Marco,Sweden,Normal,0
+1-429498598,0,Accepted+Wait,57:23.0,Org line G4,Marco,Sweden,Early,1
+1-429498598,2,Completed+Closed,47:23.0,Org line G4,Marco,Sweden,Early,1
+1-657063150,0,Accepted+In Progress,40:32.0,Org line C,Peter,Belgium,Normal,0
+1-641243011,0,Accepted+In Progress,00:33.0,Org line A2,Tomasz,POLAND,Late,1
+1-641243011,1,Accepted+Assigned,53:18.0,Org line A2,Ian,United Kingdom,Late,1
+1-657163590,0,Accepted+In Progress,50:00.0,Org line C,Amar,INDIA,Normal,0
+1-657163590,1,Accepted+Assigned,51:44.0,Org line C,Amar,INDIA,Normal,0
+1-374832944,1,Accepted+In Progress,57:19.0,Org line G3,Anna,Sweden,Attribute,1
+1-374832944,2,Completed+Closed,58:08.0,Org line C,Anna,Sweden,Attribute,1
+1-378744625,1,Accepted+In Progress,59:45.0,Org line C,Anna,Sweden,Normal,0
+1-378744625,2,Completed+Closed,59:47.0,Org line C,Anna,Sweden,Normal,0
+1-415000020,3,Accepted+In Progress,00:34.0,Org line C,Anna,Sweden,SkipSequence,1
+1-415000020,4,Completed+Closed,00:54.0,Org line C,Anna,Sweden,SkipSequence,1
+1-507679771,1,Completed+Closed,12:52.0,Org line G4,Katarina,Sweden,Normal,0
+1-657368644,0,Accepted+In Progress,15:24.0,Org line A2,Maria,Sweden,Normal,0
+1-525589021,1,Completed+Closed,40:02.0,Org line G4,Katarina,Sweden,Normal,0
+1-526037041,1,Completed+Closed,50:06.0,Org line G4,Katarina,Sweden,Normal,0
+1-619699161,5,Accepted+In Progress,50:03.0,Org line G4,David,Sweden,Normal,0
+1-619699161,6,Completed+Closed,51:19.0,Org line G4,David,Sweden,Normal,0
+1-581740771,1,Completed+Closed,18:12.0,Org line C,Peter,Sweden,Normal,0
+1-657768145,0,Accepted+In Progress,49:59.0,Org line G4,Marco,Sweden,Normal,0
+1-657768145,1,Accepted+Assigned,09:49.0,Org line G4,Marco,Sweden,Normal,0
+1-641243011,2,Accepted+In Progress,20:48.0,Org line A2,Tomasz,POLAND,Late,1
+1-641243011,5,Completed+Closed,22:16.0,Org line A2,Tomasz,POLAND,Late,1
+1-628105478,1,Accepted+Assigned,54:54.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-583931536,1,Completed+Closed,25:02.0,Org line C,Richard,Sweden,Normal,0
+1-473084325,3,Queued+Awaiting Assignment,48:22.0,Org line A2,Britt,Sweden,Normal,0
+1-658092528,0,Accepted+In Progress,49:22.0,Org line C,Jay,USA,Normal,0
+1-658092528,1,Completed+Closed,50:53.0,Org line C,Jay,USA,Normal,0
+1-433309965,0,Random activity 4,15:47.0,Random_5,Random_5,Random_5,Insert,1
+1-530147896,0,Accepted+In Progress,51:10.0,Org line G3,Ewa,POLAND,Normal,0
+1-530147896,1,Completed+Closed,52:46.0,Org line G3,Ewa,POLAND,Normal,0
+1-433309965,1,Accepted+In Progress,15:47.0,Org line G3,Ewa,POLAND,Insert,1
+1-433309965,2,Completed+Closed,19:29.0,Org line G3,Ewa,POLAND,Insert,1
+1-533851634,0,Accepted+In Progress,28:50.0,Org line G3,Ewa,POLAND,Normal,0
+1-533851634,1,Completed+Closed,31:56.0,Org line G3,Ewa,POLAND,Normal,0
+1-574271413,0,Accepted+In Progress,49:41.0,Org line G3,Ewa,POLAND,Normal,0
+1-574271413,1,Completed+Closed,50:27.0,Org line G3,Ewa,POLAND,Normal,0
+1-373110819,0,Accepted+In Progress,48:56.0,Org line G3,Ewa,POLAND,Normal,0
+1-373110819,1,Completed+Closed,50:31.0,Org line G3,Ewa,POLAND,Normal,0
+1-373268674,0,Accepted+In Progress,51:00.0,Org line G3,Ewa,POLAND,Normal,0
+1-373268674,1,Completed+Closed,52:14.0,Org line G3,Ewa,POLAND,Normal,0
+1-373413971,0,Accepted+In Progress,54:21.0,Org line G3,Ewa,POLAND,Normal,0
+1-653989471,1,Accepted+In Progress,38:44.0,Org line C,-,INDIA,Normal,0
+1-653989471,2,Accepted+In Progress,48:12.0,Org line C,Santosh,INDIA,Normal,0
+1-657368644,1,Completed+Closed,04:20.0,Org line A2,Maria,Sweden,Normal,0
+1-647841758,0,Accepted+In Progress,24:29.0,Org line F,Marc,Belgium,Late,1
+1-647841758,3,Queued+Awaiting Assignment,27:38.0,Org line C,Peter,Belgium,Late,1
+1-373413971,1,Completed+Closed,48:35.0,Org line G3,Ewa,POLAND,Normal,0
+1-380392616,0,Accepted+In Progress,20:39.0,Org line G3,Ewa,POLAND,Normal,0
+1-380392616,1,Completed+Closed,19:57.0,Org line G3,Ewa,POLAND,Normal,0
+1-380527184,0,Accepted+In Progress,20:08.0,Org line G3,Ewa,POLAND,Normal,0
+1-382442048,0,Accepted+In Progress,27:58.0,Org line G3,Ewa,POLAND,Normal,0
+1-382442048,1,Completed+Closed,30:03.0,Org line G3,Ewa,POLAND,Normal,0
+1-380527184,1,Completed+Closed,31:43.0,Org line G3,Ewa,POLAND,Normal,0
+1-384757914,0,Accepted+In Progress,31:58.0,Org line A2,Ewa,POLAND,Normal,0
+1-384757914,1,Completed+Closed,37:38.0,Org line A2,Ewa,POLAND,Normal,0
+1-385311756,0,Accepted+In Progress,38:18.0,Org line G3,Ewa,POLAND,Normal,0
+1-385311756,1,Completed+Closed,40:10.0,Org line G3,Ewa,POLAND,Normal,0
+1-408853759,0,Accepted+In Progress,50:38.0,Org line G3,Ewa,POLAND,Normal,0
+1-408853759,1,Completed+Closed,53:53.0,Org line G3,Ewa,POLAND,Normal,0
+1-418122119,0,Accepted+In Progress,31:11.0,Org line G3,Ewa,POLAND,Normal,0
+1-418122119,1,Completed+Closed,32:21.0,Org line G3,Ewa,POLAND,Normal,0
+1-419236954,2,Accepted+In Progress,32:39.0,Org line G3,Ewa,POLAND,Rework,1
+1-419236954,0,Accepted+In Progress,32:39.0,Org line G3,Ewa,POLAND,Normal,0
+1-419236954,3,Completed+Closed,36:16.0,Org line G3,Ewa,POLAND,Rework,1
+1-419236954,1,Completed+Closed,36:16.0,Org line G3,Ewa,POLAND,Normal,0
+1-422877530,0,Accepted+In Progress,13:58.0,Org line G3,Ewa,POLAND,Normal,0
+1-422877530,1,Completed+Closed,20:09.0,Org line G3,Ewa,POLAND,Normal,0
+1-577196856,0,Accepted+In Progress,20:48.0,Org line A2,Ewa,POLAND,Normal,0
+1-577196856,1,Completed+Closed,23:42.0,Org line V5,Saki,POLAND,Attribute,1
+1-424065923,0,Accepted+In Progress,27:30.0,Org line G3,Ewa,POLAND,Normal,0
+1-424065923,1,Completed+Closed,41:46.0,Org line G3,Ewa,POLAND,Normal,0
+1-656510751,1,Completed+Closed,36:35.0,Org line G4,Per,Sweden,Normal,0
+1-656510751,2,Accepted+In Progress,37:39.0,Org line G4,Per,Sweden,Normal,0
+1-656510751,3,Completed+Closed,37:58.0,Org line G4,Per,Sweden,Normal,0
+1-541565290,0,Random activity 1,10:04.0,Random_12,Random_12,Random_12,Insert,1
+1-639881579,1,Completed+Closed,15:37.0,Org line C,Peter,Sweden,Normal,0
+1-659231191,0,Accepted+In Progress,49:01.0,Org line G4,Mattias,Sweden,Normal,0
+1-473084325,4,Accepted+In Progress,26:00.0,Org line A2,Britt,Sweden,Normal,0
+1-473084325,5,Accepted+Wait,32:58.0,Org line A2,Britt,Sweden,Normal,0
+1-659376592,0,Accepted+In Progress,40:31.0,Org line G4,Roland,Sweden,Normal,0
+1-422418092,2,Accepted+Assigned,47:29.0,Org line G4,David,Sweden,Normal,0
+1-422418092,3,Accepted+Assigned,48:30.0,Org line G4,David,Sweden,Normal,0
+1-532084405,0,Random activity 3,16:22.0,Random_7,Random_7,Random_7,Insert,1
+1-659539868,0,Accepted+In Progress,22:56.0,Org line A2,Kristina,Sweden,Normal,0
+1-659618631,0,Accepted+In Progress,35:43.0,Org line G4,Bharath,Sweden,Normal,0
+1-545370610,0,Accepted+In Progress,02:25.0,Org line G3,Ewa,POLAND,Normal,0
+1-545370610,1,Completed+Closed,03:44.0,Org line G3,Ewa,POLAND,Normal,0
+1-532084405,1,Accepted+In Progress,16:22.0,Org line G3,Ewa,POLAND,Insert,1
+1-532084405,2,Completed+Closed,17:44.0,Org line G3,Ewa,POLAND,Insert,1
+1-511787661,0,Accepted+In Progress,18:11.0,Org line G3,Ewa,POLAND,Normal,0
+1-511787661,1,Completed+Closed,19:44.0,Org line G3,Ewa,POLAND,Normal,0
+1-564903210,0,Accepted+In Progress,22:50.0,Org line G3,Ewa,POLAND,Normal,0
+1-564903210,1,Completed+Closed,24:49.0,Org line G3,Ewa,POLAND,Normal,0
+1-572625937,0,Accepted+In Progress,29:03.0,Org line G3,Ewa,POLAND,Normal,0
+1-572625937,1,Completed+Closed,30:22.0,Org line G3,Ewa,POLAND,Normal,0
+1-522734472,0,Accepted+In Progress,35:55.0,Org line G3,Ewa,POLAND,Normal,0
+1-522734472,1,Completed+Closed,37:18.0,Org line G3,Ewa,POLAND,Normal,0
+1-541565290,1,Accepted+In Progress,10:04.0,Org line G3,Ewa,POLAND,Insert,1
+1-541565290,2,Completed+Closed,11:17.0,Org line G3,Ewa,POLAND,Insert,1
+1-659922661,0,Accepted+In Progress,29:35.0,Org line C,Tomas,Sweden,Normal,0
+1-639942581,1,Accepted+Wait,40:16.0,Org line C,Fabrice,France,Normal,0
+1-660393401,0,Accepted+In Progress,09:58.0,Org line C,Martin,Sweden,Normal,0
+1-617356985,2,Accepted+In Progress,42:36.0,Org line C,Robert,USA,Normal,0
+1-617356985,3,Accepted+Wait,04:57.0,Org line C,Robert,USA,Normal,0
+1-657063150,1,Queued+Awaiting Assignment,39:43.0,Org line C,Peter,Belgium,Normal,0
+1-659922661,1,Queued+Awaiting Assignment,44:29.0,Org line C,Tomas,Sweden,Normal,0
+1-582296121,1,Completed+Closed,01:57.0,Org line C,Olle,Sweden,Normal,0
+1-660786538,0,Accepted+In Progress,18:12.0,Org line V5,Pascal,Sweden,Attribute,1
+1-660786538,1,Accepted+Wait,27:33.0,Org line V5,Pascal,Sweden,Attribute,1
+1-620015297,1,Completed+Closed,12:13.0,Org line G4,Rickard,Sweden,Normal,0
+1-624745314,1,Completed+Closed,15:41.0,Org line G4,Rickard,Sweden,Normal,0
+1-660873096,0,Accepted+In Progress,43:39.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-660903884,0,Queued+Awaiting Assignment,57:42.0,Org line C,Emil,Sweden,Normal,0
+1-660949435,0,Accepted+In Progress,07:29.0,Org line G4,Roland,Sweden,Normal,0
+1-660949435,2,Accepted+In Progress,07:29.0,Org line G4,Roland,Sweden,Rework,1
+1-613033122,1,Completed+Closed,42:42.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-617084616,0,Completed+Closed,55:10.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-515461174,2,Accepted+Wait,09:00.0,Org line G4,Roland,Sweden,Normal,0
+1-527208576,0,Completed+Closed,43:06.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-661231558,0,Accepted+In Progress,52:23.0,Org line C,Hineesh,INDIA,Normal,0
+1-661231558,2,Accepted+In Progress,52:23.0,Org line C,Hineesh,INDIA,Rework,1
+1-636931254,13,Accepted+In Progress,00:51.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,14,Accepted+Assigned,01:34.0,Org line C,Prasad,Sweden,Normal,0
+1-636931254,15,Accepted+In Progress,01:40.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,16,Completed+Closed,14:43.0,Org line C,Jitender,Sweden,Normal,0
+1-661706786,0,Accepted+In Progress,25:45.0,Org line A2,Saki,Sweden,Normal,0
+1-636931254,17,Accepted+In Progress,35:52.0,Org line C,Jitender,Sweden,Normal,0
+1-636931254,18,Completed+Closed,37:52.0,Org line C,Jitender,Sweden,Normal,0
+1-659376592,1,Completed+Closed,29:59.0,Org line G4,Roland,Sweden,Normal,0
+1-663851111,0,Accepted+In Progress,36:08.0,Org line C,Leif,Sweden,Normal,0
+1-664579051,0,Accepted+In Progress,52:07.0,Org line G4,Katarina,Sweden,Normal,0
+1-669202942,0,Accepted+In Progress,01:32.0,Org line G4,Per,Sweden,Normal,0
+1-669804759,0,Accepted+In Progress,03:37.0,Org line C,Peter,Sweden,Normal,0
+1-669804759,2,Accepted+In Progress,03:37.0,Org line C,Peter,Sweden,Rework,1
+1-670754761,0,Accepted+In Progress,03:27.0,Org line C,Robert,USA,Normal,0
+1-670754761,1,Accepted+Wait,06:36.0,Org line C,Robert,USA,Normal,0
+1-672506739,0,Accepted+In Progress,06:44.0,Org line C,Robert,USA,Normal,0
+1-672506739,1,Accepted+Wait,10:57.0,Org line C,Robert,USA,Normal,0
+1-672743704,0,Accepted+In Progress,58:36.0,Org line G3,Ewa,POLAND,Normal,0
+1-672807011,0,Accepted+In Progress,15:25.0,Org line A2,Anson,China,Normal,0
+1-617696569,4,Accepted+In Progress,15:07.0,Org line C,Freddy,INDIA,Normal,0
+1-617696569,5,Completed+Closed,15:35.0,Org line C,Freddy,INDIA,Normal,0
+1-672975080,0,Queued+Awaiting Assignment,48:36.0,Org line C,Leif,Sweden,Normal,0
+1-672743704,1,Completed+Closed,14:30.0,Org line G3,Ewa,POLAND,Normal,0
+1-673151866,0,Accepted+In Progress,46:27.0,Org line G4,Erik,Sweden,Normal,0
+1-673151866,2,Accepted+In Progress,46:27.0,Org line G4,Erik,Sweden,Rework,1
+1-673143636,0,Accepted+In Progress,38:20.0,Org line G3,Ewa,POLAND,Normal,0
+1-673224718,0,Accepted+In Progress,50:22.0,Org line C,Vesa,Sweden,Normal,0
+1-673143636,1,Completed+Closed,53:55.0,Org line G3,Ewa,POLAND,Normal,0
+1-673224718,1,Queued+Awaiting Assignment,55:42.0,Org line C,Vesa,Sweden,Normal,0
+1-672975080,1,Accepted+In Progress,47:11.0,Org line C,Steve,Belgium,Normal,0
+1-637089310,2,Accepted+In Progress,02:15.0,Org line A2,Ian,United Kingdom,Normal,0
+1-673151866,1,Completed+Closed,19:06.0,Org line G4,Erik,Sweden,Normal,0
+1-673151866,3,Completed+Closed,19:06.0,Org line G4,Erik,Sweden,Rework,1
+1-489198755,2,Completed+Closed,45:26.0,Org line G4,Katarina,Sweden,Normal,0
+1-672975080,2,Completed+Closed,00:42.0,Org line C,Steve,Belgium,Normal,0
+1-607934151,1,Completed+Closed,35:45.0,Org line A2,Alan,United Kingdom,Normal,0
+1-510399424,1,Completed+Closed,41:23.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-605279637,1,Completed+Closed,44:42.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-675150191,0,Accepted+In Progress,57:26.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-675150191,1,Accepted+Assigned,04:34.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-512617571,5,Completed+Closed,12:58.0,Org line A2,Andrew,United Kingdom,Attribute,1
+1-539805130,2,Completed+Closed,13:43.0,Org line A2,Andrew,United Kingdom,Normal,0
+1-547617088,4,Completed+Closed,14:44.0,Org line A2,Andrew,United Kingdom,Early,1
+1-616409083,5,Completed+Closed,26:06.0,Org line C,Jonas,Sweden,Rework,1
+1-616409083,1,Completed+Closed,26:06.0,Org line C,Jonas,Sweden,Normal,0
+1-675664904,0,Accepted+In Progress,55:14.0,Org line V5,Peter,POLAND,Attribute,1
+1-675664904,1,Completed+Closed,55:56.0,Org line G3,Amitabh,POLAND,Attribute,1
+1-657768145,2,Completed+Closed,30:50.0,Org line G4,Marco,Sweden,Normal,0
+1-639942581,2,Accepted+In Progress,16:52.0,Org line C,Fabrice,France,Normal,0
+1-523392191,0,Accepted+In Progress,27:07.0,Org line G3,Ewa,POLAND,Normal,0
+1-523392191,1,Completed+Closed,27:34.0,Org line G3,Ewa,POLAND,Normal,0
+1-639942581,3,Completed+Closed,51:00.0,Org line C,Fabrice,France,Normal,0
+1-616409083,2,Accepted+In Progress,54:41.0,Org line C,Jonas,Sweden,Normal,0
+1-616409083,6,Accepted+In Progress,54:41.0,Org line C,Jonas,Sweden,Rework,1
+1-616409083,3,Completed+Closed,12:50.0,Org line C,Jonas,Sweden,Normal,0
+1-584776062,2,Completed+Closed,20:49.0,Org line G4,Samira,Sweden,Normal,0
+1-539083171,2,Accepted+Assigned,33:28.0,Org line G4,Katarina,Sweden,Insert,1
+1-678626550,0,Accepted+Assigned,22:52.0,Org line G4,Samira,Sweden,Normal,0
+1-679235759,0,Accepted+In Progress,01:43.0,Org line G3,Ewa,POLAND,Normal,0
+1-679235759,1,Completed+Closed,05:54.0,Org line G3,Ewa,POLAND,Normal,0
+1-675150191,2,Accepted+In Progress,15:34.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-637089310,3,Accepted+In Progress,15:37.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-637089310,4,Completed+Closed,16:32.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-661706786,1,Accepted+Wait,15:37.0,Org line A2,Saki,Sweden,Normal,0
+1-657063150,2,Accepted+Assigned,59:31.0,Org line C,Anup,INDIA,Normal,0
+1-681864502,2,Accepted+In Progress,57:37.0,Org line G4,Samira,Sweden,Late,1
+1-681864502,0,Accepted+Assigned,01:05.0,Org line G4,Samira,Sweden,Late,1
+1-621311061,8,Completed+Closed,12:40.0,Org line C,Bikshamaiah,Sweden,Attribute,1
+1-653314473,1,Accepted+In Progress,17:24.0,Org line C,Lars,USA,Attribute,1
+1-623873811,4,Completed+Closed,02:19.0,Org line C,Kymaria,USA,Normal,0
+1-669119156,3,Queued+Awaiting Assignment,44:35.0,Org line C,Robert,USA,Rework,1
+1-669119156,0,Queued+Awaiting Assignment,44:35.0,Org line C,Robert,USA,Normal,0
+1-683298971,0,Accepted+In Progress,54:27.0,Org line A2,Piotr,POLAND,Normal,0
+1-683298971,1,Accepted+Assigned,01:46.0,Org line A2,Piotr,POLAND,Normal,0
+1-580464971,4,Accepted+In Progress,41:00.0,Org line G4,Adam,Sweden,Attribute,1
+1-659618631,1,Completed+Closed,48:15.0,Org line G4,Bharath,Sweden,Normal,0
+1-684108661,0,Accepted+In Progress,55:54.0,Org line G4,Bharath,Sweden,Normal,0
+1-514618724,2,Accepted+In Progress,22:27.0,Org line C,Mikael,Sweden,Normal,0
+1-514618724,3,Completed+Closed,31:26.0,Org line C,Mikael,Sweden,Normal,0
+1-613364032,0,Queued+Awaiting Assignment,11:30.0,Org line C,-,INDIA,Normal,0
+1-660393401,1,Accepted+Wait,49:07.0,Org line C,Martin,Sweden,Normal,0
+1-542940765,3,Accepted+In Progress,43:18.0,Org line A2,Fredrik,USA,Normal,0
+1-542940765,4,Queued+Awaiting Assignment,44:28.0,Org line A2,Fredrik,USA,Normal,0
+1-360464815,3,Completed+Closed,57:48.0,Org line V5,Panigrahy,Sweden,Attribute,1
+1-686581779,0,Random activity 3,50:41.0,Random_19,Random_19,Random_19,Insert,1
+1-656868426,3,Completed+Closed,36:51.0,Org line G4,Marco,Sweden,Normal,0
+1-589962550,3,Completed+Closed,50:42.0,Org line A2,Stefan,Sweden,Rework,1
+1-589962550,1,Completed+Closed,50:42.0,Org line A2,Stefan,Sweden,Normal,0
+1-686557724,0,Accepted+In Progress,44:10.0,Org line G4,David,Sweden,Normal,0
+1-686557724,1,Accepted+Assigned,58:47.0,Org line G4,David,Sweden,Normal,0
+1-686581779,1,Accepted+In Progress,50:41.0,Org line A2,Laurens,Belgium,Insert,1
+1-686642543,0,Queued+Awaiting Assignment,30:56.0,Org line G4,Joakim,Sweden,Normal,0
+1-542940765,5,Accepted+In Progress,01:36.0,Org line A2,Fredrik,USA,Normal,0
+1-542940765,6,Completed+Closed,08:59.0,Org line A2,Fredrik,USA,Normal,0
+1-686642543,1,Accepted+In Progress,08:14.0,Org line G4,Rickard,Sweden,Normal,0
+1-655536176,1,Completed+Closed,53:37.0,Org line C,Mats,Sweden,Normal,0
+1-643556695,1,Completed+Closed,11:36.0,Org line C,Ramith,INDIA,Normal,0
+1-686945977,1,Accepted+In Progress,22:17.0,Org line C,Jitender,Sweden,Late,1
+1-686945977,2,Accepted+Wait,26:55.0,Org line C,Jitender,Sweden,Late,1
+1-687587336,0,Accepted+In Progress,06:27.0,Org line C,Mats,Sweden,Normal,0
+1-687830906,0,Accepted+In Progress,40:53.0,Org line C,Christer,Sweden,Normal,0
+1-687830906,1,Completed+Closed,36:37.0,Org line C,Håkan,Sweden,Attribute,1
+1-688380091,0,Accepted+In Progress,50:38.0,Org line A2,Britt,Sweden,Normal,0
+1-378050311,5,Accepted+In Progress,12:23.0,Org line F,Stefan,Sweden,Normal,0
+1-378050311,6,Completed+Closed,13:44.0,Org line F,Stefan,Sweden,Normal,0
+1-657063150,3,Queued+Awaiting Assignment,08:24.0,Org line C,Peter,Belgium,Normal,0
+1-688515611,0,Accepted+In Progress,08:27.0,Org line G4,David,Sweden,Normal,0
+1-688564824,0,Accepted+In Progress,04:10.0,Org line C,Martin,Sweden,Normal,0
+1-688564824,1,Accepted+In Progress,06:32.0,Org line C,Martin,Sweden,Normal,0
+1-657063150,4,Accepted+In Progress,49:10.0,Org line C,Kåre,Sweden,Normal,0
+1-688509388,3,Accepted+In Progress,04:57.0,Org line C,Peter,Sweden,Rework,1
+1-688509388,0,Accepted+In Progress,04:57.0,Org line C,Peter,Sweden,Normal,0
+1-659231191,1,Completed+Closed,31:19.0,Org line G4,Mattias,Sweden,Normal,0
+1-522222222,2,Completed+Closed,31:45.0,Org line G4,Erik,Sweden,Insert,1
+1-688280019,0,Queued+Awaiting Assignment,00:16.0,Org line A2,Britt,Sweden,Normal,0
+1-689160381,0,Accepted+In Progress,27:52.0,Org line A2,Stefan,Sweden,Normal,0
+1-660393401,2,Completed+Closed,49:20.0,Org line C,Martin,Sweden,Normal,0
+1-688509388,1,Accepted+In Progress,53:17.0,Org line C,Peter,Sweden,Normal,0
+1-688509388,4,Accepted+In Progress,53:17.0,Org line C,Peter,Sweden,Rework,1
+1-689341321,0,Accepted+In Progress,33:31.0,Org line C,Christer,Sweden,Normal,0
+1-688564824,2,Queued+Awaiting Assignment,36:18.0,Org line C,Martin,Sweden,Normal,0
+1-594666837,1,Completed+Closed,00:13.0,Org line C,Jörgen,Sweden,Normal,0
+1-669119156,4,Accepted+In Progress,36:29.0,Org line C,Robert,USA,Rework,1
+1-669119156,1,Accepted+In Progress,36:29.0,Org line C,Robert,USA,Normal,0
+1-669119156,5,Accepted+Assigned,37:04.0,Org line C,Ramith,INDIA,Rework,1
+1-669119156,2,Accepted+Assigned,37:04.0,Org line C,Ramith,INDIA,Normal,0
+1-669119156,6,Accepted+Assigned,08:07.0,Org line C,Hineesh,INDIA,Rework,1
+1-670754761,2,Queued+Awaiting Assignment,17:05.0,Org line C,Robert,USA,Normal,0
+1-689469104,2,Queued+Awaiting Assignment,05:53.0,Org line B,Srinivasan,INDIA,Late,1
+1-689469104,3,Queued+Awaiting Assignment,11:21.0,Org line C,Leif,Sweden,Late,1
+1-688564824,3,Accepted+Assigned,24:30.0,Org line C,Pascal,Sweden,Normal,0
+1-690327801,0,Accepted+In Progress,16:36.0,Org line A2,Maria,Sweden,Normal,0
+1-690327837,0,Accepted+In Progress,23:42.0,Org line A2,Maria,Sweden,Normal,0
+1-636102195,3,Accepted+Assigned,04:23.0,Org line C,Hineesh,INDIA,Normal,0
+1-594472343,6,Accepted+In Progress,03:00.0,Org line A2,Urban,Sweden,Rework,1
+1-594472343,2,Accepted+In Progress,03:00.0,Org line A2,Urban,Sweden,Normal,0
+1-594472343,3,Completed+Closed,03:01.0,Org line A2,Urban,Sweden,Normal,0
+1-479002951,2,Completed+Closed,27:21.0,Org line G4,Per,Sweden,Normal,0
+1-664579051,1,Completed+Closed,32:49.0,Org line G4,Katarina,Sweden,Normal,0
+1-430880486,2,Completed+Closed,38:04.0,Org line G4,Katarina,Sweden,Normal,0
+1-578612990,5,Completed+Closed,57:57.0,Org line C,Jörgen,Sweden,Normal,0
+1-439833168,2,Completed+Closed,27:57.0,Org line G4,Per,Sweden,Normal,0
+1-404084309,2,Accepted+Wait,32:37.0,Org line G4,Per,Sweden,Normal,0
+1-404084309,3,Completed+Closed,32:38.0,Org line G4,Per,Sweden,Normal,0
+1-690458151,0,Accepted+In Progress,26:17.0,Org line C,Christer,Sweden,Normal,0
+1-367921041,6,Accepted+In Progress,54:59.0,Org line B,Aneesh V,INDIA,Normal,0
+1-367921041,7,Completed+Closed,56:23.0,Org line B,Aneesh V,INDIA,Normal,0
+1-404736991,4,Accepted+In Progress,04:06.0,Org line B,Rijin,INDIA,Late,1
+1-404736991,7,Completed+Closed,07:28.0,Org line B,Rijin,INDIA,Late,1
+1-689469104,0,Queued+Awaiting Assignment,32:26.0,Org line B,Srinivasan,INDIA,Late,1
+1-690762471,0,Queued+Awaiting Assignment,01:23.0,Org line C,Ryouhei,Japan,Normal,0
+1-690762471,1,Queued+Awaiting Assignment,03:24.0,Org line C,Ryouhei,Japan,Normal,0
+1-689469104,1,Accepted+In Progress,27:48.0,Org line B,Aneesh V,INDIA,Late,1
+1-663851111,1,Completed+Closed,40:26.0,Org line C,Leif,Sweden,Normal,0
+1-690931471,0,Accepted+In Progress,10:13.0,Org line C,John,Sweden,Normal,0
+1-690327801,1,Completed+Closed,17:13.0,Org line A2,Maria,Sweden,Normal,0
+1-684108661,1,Completed+Closed,02:45.0,Org line G4,Bharath,Sweden,Normal,0
+1-691031201,0,Accepted+In Progress,18:31.0,Org line G4,Bharath,Sweden,Normal,0
+1-691031201,1,Completed+Closed,18:58.0,Org line G4,Bharath,Sweden,Normal,0
+1-691093464,0,Accepted+In Progress,13:08.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-691093464,1,Completed+Closed,32:06.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-691146566,0,Accepted+In Progress,45:27.0,Org line A2,Dusan,Sweden,Normal,0
+1-691786096,0,Accepted+In Progress,32:14.0,Org line C,Robert,USA,Normal,0
+1-691786096,1,Queued+Awaiting Assignment,32:44.0,Org line C,Robert,USA,Normal,0
+1-535439201,3,Completed+Closed,16:48.0,Org line C,Lars,Sweden,Insert,1
+1-691832225,0,Accepted+In Progress,41:45.0,Org line C,Jonas,Sweden,Normal,0
+1-622295317,1,Accepted+Wait,22:18.0,Org line A2,Frederic,France,Normal,0
+1-690931471,1,Queued+Awaiting Assignment,10:31.0,Org line C,John,Sweden,Normal,0
+1-690327837,1,Completed+Closed,30:31.0,Org line A2,Maria,Sweden,Normal,0
+1-690327837,2,Accepted+In Progress,30:34.0,Org line A2,Maria,Sweden,Normal,0
+1-690327837,3,Completed+Closed,30:40.0,Org line A2,Maria,Sweden,Normal,0
+1-690931471,2,Accepted+In Progress,50:24.0,Org line C,John,Sweden,Normal,0
+1-564738994,3,Completed+Closed,50:51.0,Org line B,Murali,INDIA,Normal,0
+1-688509388,2,Completed+Closed,36:37.0,Org line C,Peter,Sweden,Normal,0
+1-688509388,5,Completed+Closed,36:37.0,Org line C,Peter,Sweden,Rework,1
+1-688280019,1,Accepted+In Progress,35:59.0,Org line A2,Britt,Sweden,Normal,0
+1-688280019,2,Accepted+Wait,36:52.0,Org line A2,Britt,Sweden,Normal,0
+1-690931471,3,Completed+Closed,26:08.0,Org line C,John,Sweden,Normal,0
+1-688725917,0,Queued+Awaiting Assignment,19:35.0,Org line C,Peter,Belgium,Normal,0
+1-661231558,3,Completed+Closed,52:49.0,Org line C,Hineesh,INDIA,Rework,1
+1-661231558,1,Completed+Closed,52:49.0,Org line C,Hineesh,INDIA,Normal,0
+1-693357728,0,Accepted+In Progress,28:53.0,Org line C,Jörgen,Sweden,Normal,0
+1-669119156,7,Completed+Closed,29:45.0,Org line C,Hineesh,INDIA,Rework,1
+1-636102195,4,Accepted+Wait,30:53.0,Org line C,Hineesh,INDIA,Normal,0
+1-686581779,2,Completed+Closed,12:49.0,Org line A2,Laurens,Belgium,Insert,1
+1-693895885,0,Accepted+In Progress,08:23.0,Org line G4,David,Sweden,Normal,0
+1-675685459,0,Queued+Awaiting Assignment,22:21.0,Org line C,Robert,USA,Normal,0
+1-675797761,0,Queued+Awaiting Assignment,24:27.0,Org line C,Robert,USA,Normal,0
+1-694222066,0,Accepted+In Progress,35:03.0,Org line B,Ganesh,INDIA,Normal,0
+1-694222066,1,Queued+Awaiting Assignment,43:10.0,Org line B,Ganesh,INDIA,Normal,0
+1-688515611,1,Accepted+Assigned,48:46.0,Org line G4,David,Sweden,Normal,0
+1-693895885,1,Accepted+Assigned,06:13.0,Org line G4,David,Sweden,Normal,0
+1-686642441,0,Accepted+Assigned,06:58.0,Org line G4,David,Sweden,Normal,0
+1-617356985,4,Queued+Awaiting Assignment,54:59.0,Org line C,Robert,USA,Normal,0
+1-631117870,4,Queued+Awaiting Assignment,19:55.0,Org line C,Robert,USA,Normal,0
+1-672506739,2,Queued+Awaiting Assignment,20:54.0,Org line C,Robert,USA,Normal,0
+1-694385837,0,Accepted+In Progress,15:19.0,Org line C,Hineesh,INDIA,Normal,0
+1-694420679,0,Accepted+In Progress,24:22.0,Org line A2,Kristina,Sweden,Normal,0
+1-694794065,0,Accepted+In Progress,24:42.0,Org line G4,Roland,Sweden,Normal,0
+1-694794065,1,Accepted+Assigned,26:18.0,Org line G4,Roland,Sweden,Normal,0
+1-694808152,0,Accepted+In Progress,58:51.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-694794065,2,Accepted+In Progress,37:47.0,Org line G4,Roland,Sweden,Normal,0
+1-660268091,0,Queued+Awaiting Assignment,51:56.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-694899814,0,Queued+Awaiting Assignment,17:46.0,Org line A2,Tomas,Sweden,Normal,0
+1-694385837,1,Completed+Closed,57:30.0,Org line C,Hineesh,INDIA,Normal,0
+1-695486321,2,Accepted+In Progress,17:58.0,Org line C,Rakesh,Sweden,Rework,1
+1-695486321,0,Accepted+In Progress,17:58.0,Org line C,Rakesh,Sweden,Normal,0
+1-691093464,2,Accepted+In Progress,05:39.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-691093464,3,Queued+Awaiting Assignment,14:47.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-695486321,3,Queued+Awaiting Assignment,27:40.0,Org line C,Rakesh,Sweden,Rework,1
+1-695486321,1,Queued+Awaiting Assignment,27:40.0,Org line C,Rakesh,Sweden,Normal,0
+1-695801720,0,Accepted+In Progress,15:03.0,Org line G3,Ewa,POLAND,Normal,0
+1-695801720,1,Completed+Closed,16:23.0,Org line G3,Ewa,POLAND,Normal,0
+1-695946177,0,Accepted+In Progress,09:09.0,Org line A2,Agneta,Sweden,Normal,0
+1-696057890,0,Accepted+In Progress,47:22.0,Org line C,Steve,Belgium,Normal,0
+1-693595201,0,Queued+Awaiting Assignment,29:46.0,Org line C,Praveen,Sweden,Normal,0
+1-637893062,2,Accepted+In Progress,22:26.0,Org line G4,Samira,Sweden,Normal,0
+1-637893062,3,Completed+Closed,22:39.0,Org line G4,Samira,Sweden,Normal,0
+1-675685459,1,Accepted+In Progress,20:37.0,Org line C,Vaibhav,Sweden,Normal,0
+1-675685459,2,Completed+Closed,20:52.0,Org line C,Vaibhav,Sweden,Normal,0
+1-631117870,5,Accepted+In Progress,24:36.0,Org line C,Vaibhav,Sweden,Normal,0
+1-672506739,3,Accepted+In Progress,32:08.0,Org line C,Vaibhav,Sweden,Normal,0
+1-696680265,0,Accepted+In Progress,04:03.0,Org line C,Robert,USA,Normal,0
+1-696680265,1,Queued+Awaiting Assignment,05:43.0,Org line C,Robert,USA,Normal,0
+1-591627183,1,Completed+Closed,34:52.0,Org line B,Rijin,INDIA,SkipSequence,1
+1-660949435,1,Completed+Closed,35:07.0,Org line G4,Roland,Sweden,Normal,0
+1-660949435,3,Completed+Closed,35:07.0,Org line G4,Roland,Sweden,Rework,1
+1-691786096,2,Accepted+Assigned,38:55.0,Org line C,Jörgen,Sweden,Normal,0
+1-691786096,3,Accepted+Assigned,53:26.0,Org line C,Jörgen,Sweden,Normal,0
+1-622847448,1,Accepted+Assigned,23:34.0,Org line A2,Venkata,Sweden,Normal,0
+1-513031774,1,Completed+Closed,47:40.0,Org line G4,Roland,Sweden,Normal,0
+1-696839978,0,Accepted+In Progress,35:26.0,Org line C,Ryouhei,Japan,Normal,0
+1-696839978,1,Accepted+Wait,37:53.0,Org line C,Ryouhei,Japan,Normal,0
+1-697041731,0,Accepted+In Progress,07:43.0,Org line C,Hineesh,INDIA,Normal,0
+1-695946177,1,Completed+Closed,23:55.0,Org line A2,Agneta,Sweden,Normal,0
+1-657163590,2,Completed+Closed,08:32.0,Org line C,Amar,INDIA,Normal,0
+1-697041731,1,Accepted+Wait,32:35.0,Org line C,Hineesh,INDIA,Normal,0
+1-697041731,2,Completed+Closed,33:09.0,Org line C,Hineesh,INDIA,Normal,0
+1-697366925,0,Accepted+In Progress,56:15.0,Org line G4,Samira,Sweden,Normal,0
+1-606971198,0,Accepted+In Progress,25:28.0,Org line C,Jari,Sweden,Normal,0
+1-652270498,1,Completed+Closed,26:04.0,Org line A2,David,USA,Normal,0
+1-660873096,1,Completed+Closed,44:52.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-696835891,0,Queued+Awaiting Assignment,07:01.0,Org line C,Mohsin,INDIA,Normal,0
+1-688280019,3,Accepted+In Progress,31:28.0,Org line A2,Britt,Sweden,Normal,0
+1-688280019,4,Completed+Closed,33:47.0,Org line A2,Britt,Sweden,Normal,0
+1-473084325,6,Completed+Closed,52:06.0,Org line A2,Britt,Sweden,Normal,0
+1-696835891,1,Accepted+In Progress,13:40.0,Org line C,Mohsin,INDIA,Normal,0
+1-696835891,2,Completed+Closed,35:14.0,Org line C,Mohsin,INDIA,Normal,0
+1-697458590,0,Accepted+In Progress,00:26.0,Org line C,Praveen,Sweden,Normal,0
+1-697458590,1,Queued+Awaiting Assignment,20:07.0,Org line C,Praveen,Sweden,Normal,0
+1-697458590,2,Accepted+Assigned,52:11.0,Org line C,Rohit,Sweden,Normal,0
+1-697578650,0,Accepted+In Progress,04:35.0,Org line A2,Maria,Sweden,Normal,0
+1-650135511,1,Completed+Closed,34:37.0,Org line F,Marc,Belgium,Normal,0
+1-650135511,3,Completed+Closed,34:37.0,Org line F,Marc,Belgium,Rework,1
+1-697811404,0,Accepted+In Progress,15:22.0,Org line A2,Agneta,Sweden,Normal,0
+1-697811404,1,Queued+Awaiting Assignment,34:49.0,Org line A2,Agneta,Sweden,Normal,0
+1-660268091,1,Accepted+In Progress,38:48.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-660268091,2,Completed+Closed,39:42.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-686945977,0,Accepted+Wait,42:39.0,Org line C,Jitender,Sweden,Late,1
+1-697458590,3,Queued+Awaiting Assignment,43:32.0,Org line C,Martin,Sweden,Normal,0
+1-660268091,3,Accepted+In Progress,01:24.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-660268091,4,Completed+Closed,05:26.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-698044001,0,Accepted+In Progress,13:24.0,Org line C,Martin,Sweden,Normal,0
+1-698044001,1,Queued+Awaiting Assignment,17:08.0,Org line C,Martin,Sweden,Normal,0
+1-697458590,4,Accepted+Assigned,41:16.0,Org line C,Lennart,Sweden,Normal,0
+1-698044001,2,Accepted+Assigned,51:42.0,Org line C,Martin,Sweden,Normal,0
+1-698077265,0,Accepted+In Progress,34:01.0,Org line G3,Ewa,POLAND,Normal,0
+1-698077265,1,Completed+Closed,37:07.0,Org line G3,Ewa,POLAND,Normal,0
+1-698216063,0,Accepted+In Progress,32:20.0,Org line C,Gitt,Sweden,Normal,0
+1-698216063,1,Queued+Awaiting Assignment,34:29.0,Org line G4,Henrique,Sweden,Attribute,1
+1-698346154,0,Accepted+In Progress,49:14.0,Org line C,Mohsin,INDIA,Normal,0
+1-698346154,1,Accepted+Wait,53:10.0,Org line C,Mohsin,INDIA,Normal,0
+1-697578650,1,Completed+Closed,45:58.0,Org line C,Björn,Sweden,Attribute,1
+1-697458590,5,Accepted+In Progress,22:28.0,Org line C,Lennart,Sweden,Normal,0
+1-697458590,6,Accepted+Assigned,48:25.0,Org line C,Steve,Sweden,Normal,0
+1-697458590,7,Accepted+Wait,49:45.0,Org line C,Steve,Sweden,Normal,0
+1-698346154,2,Completed+Closed,56:17.0,Org line C,Mohsin,INDIA,Normal,0
+1-698524631,0,Accepted+In Progress,27:31.0,Org line C,Kymaria,USA,Normal,0
+1-696680265,2,Queued+Awaiting Assignment,34:44.0,Org line C,Robert,USA,Normal,0
+1-698842669,0,Accepted+In Progress,12:51.0,Org line C,Amar,INDIA,Normal,0
+1-698842669,1,Accepted+In Progress,14:01.0,Org line C,Amar,INDIA,Normal,0
+1-698842669,2,Completed+Closed,14:24.0,Org line C,Amar,INDIA,Normal,0
+1-698842669,3,Accepted+In Progress,14:54.0,Org line C,Amar,INDIA,Normal,0
+1-696680265,3,Accepted+In Progress,43:04.0,Org line C,Hineesh,INDIA,Normal,0
+1-696680265,4,Accepted+Wait,44:40.0,Org line C,Hineesh,INDIA,Normal,0
+1-443175071,2,Completed+Closed,18:42.0,Org line G4,Katarina,Sweden,Normal,0
+1-699010040,0,Accepted+In Progress,22:37.0,Org line C,Christer,Sweden,Normal,0
+1-698998499,0,Accepted+In Progress,27:01.0,Org line C,Rakesh,Sweden,Normal,0
+1-631117870,6,Completed+Closed,54:09.0,Org line C,Vaibhav,Sweden,Normal,0
+1-699103215,0,Accepted+In Progress,15:44.0,Org line C,-,INDIA,Normal,0
+1-699103215,1,Queued+Awaiting Assignment,17:15.0,Org line C,-,INDIA,Normal,0
+1-699103215,2,Accepted+In Progress,38:10.0,Org line C,-,INDIA,Normal,0
+1-650123293,3,Completed+Closed,37:49.0,Org line G4,Roland,Sweden,Attribute,1
+1-698998499,1,Queued+Awaiting Assignment,51:53.0,Org line C,Rakesh,Sweden,Normal,0
+1-698998499,2,Random activity 4,15:52.1,Random_20,Random_20,Random_20,Insert,1
+1-698998499,3,Queued+Awaiting Assignment,17:51.0,Org line C,Praveen,Sweden,Insert,1
+1-698998499,4,Queued+Awaiting Assignment,24:06.0,Org line C,Martin,Sweden,Insert,1
+1-698998499,5,Accepted+In Progress,35:50.0,Org line C,Martin,Sweden,Insert,1
+1-700362905,0,Random activity 3,06:24.0,Random_21,Random_21,Random_21,Insert,1
+1-700362905,1,Accepted+In Progress,06:24.0,Org line C,Mikael,Sweden,Insert,1
+1-689469104,4,Completed+Closed,17:10.0,Org line B,Aneesh V,INDIA,Late,1
+1-694794065,3,Completed+Closed,27:32.0,Org line G4,Roland,Sweden,Normal,0
+1-688564824,4,Accepted+In Progress,05:34.0,Org line C,Pascal,Sweden,Normal,0
+1-622295317,2,Completed+Closed,45:50.0,Org line A2,Frederic,France,Normal,0
+1-694808152,1,Completed+Closed,54:52.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-701429911,0,Accepted+In Progress,02:26.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-701429911,1,Accepted+Assigned,05:55.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-595687232,0,Accepted+In Progress,49:00.0,Org line G4,Marco,Sweden,Normal,0
+1-595687232,1,Completed+Closed,51:13.0,Org line G4,Marco,Sweden,Normal,0
+1-566096602,2,Completed+Closed,52:02.0,Org line D,Wim,Belgium,Insert,1
+1-575690736,3,Completed+Closed,52:42.0,Org line D,Wim,Belgium,Normal,0
+1-596251950,1,Accepted+In Progress,52:39.0,Org line G4,Christer,Sweden,Early,1
+1-596251950,3,Completed+Closed,52:47.0,Org line G4,Christer,Sweden,Early,1
+1-390722958,0,Accepted+In Progress,53:11.0,Org line G4,Christer,Sweden,Late,1
+1-390722958,3,Completed+Closed,54:08.0,Org line G4,Christer,Sweden,Late,1
+1-682342767,0,Accepted+In Progress,46:14.0,Org line C,Kymaria,USA,Normal,0
+1-682342767,1,Completed+Closed,52:53.0,Org line C,Kymaria,USA,Normal,0
+1-653314473,2,Completed+Closed,15:21.0,Org line V11,Mats,USA,Attribute,1
+1-700362905,2,Completed+Closed,21:13.0,Org line C,Mikael,Sweden,Insert,1
+1-698524631,1,Completed+Closed,42:08.0,Org line C,Kymaria,USA,Normal,0
+1-515461174,3,Completed+Closed,27:45.0,Org line G4,Roland,Sweden,Normal,0
+1-702304430,0,Accepted+In Progress,57:30.0,Org line C,Christer,Sweden,Normal,0
+1-701429911,2,Accepted+In Progress,38:36.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-694385837,2,Accepted+In Progress,48:52.0,Org line C,Hineesh,INDIA,Normal,0
+1-694385837,3,Completed+Closed,49:58.0,Org line C,Hineesh,INDIA,Normal,0
+1-702482271,0,Queued+Awaiting Assignment,37:13.0,Org line C,Vesa,Sweden,Normal,0
+1-624219528,1,Completed+Closed,36:54.0,Org line G4,Rickard,Sweden,Normal,0
+1-659539868,1,Completed+Closed,15:36.0,Org line A2,Kristina,Sweden,Normal,0
+1-703383433,0,Accepted+In Progress,03:01.0,Org line A2,Britt,Sweden,Normal,0
+1-703399394,0,Accepted+In Progress,12:29.0,Org line C,John,Sweden,Normal,0
+1-703399394,1,Queued+Awaiting Assignment,18:11.0,Org line C,John,Sweden,Normal,0
+1-703540157,0,Accepted+In Progress,05:42.0,Org line C,-,INDIA,Normal,0
+1-703540157,1,Queued+Awaiting Assignment,14:23.0,Org line C,-,INDIA,Normal,0
+1-703540157,2,Queued+Awaiting Assignment,23:26.0,Org line B,Srinivasan,INDIA,Normal,0
+1-669202942,1,Completed+Closed,15:40.0,Org line G4,Per,Sweden,Normal,0
+1-691832225,1,Completed+Closed,20:47.0,Org line C,Jonas,Sweden,Normal,0
+1-649887393,1,Completed+Closed,23:22.0,Org line G4,Per,Sweden,Normal,0
+1-701429911,3,Accepted+Wait,23:39.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-675150191,3,Accepted+Wait,23:58.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-697041731,3,Accepted+In Progress,23:16.0,Org line C,Hineesh,INDIA,Normal,0
+1-697041731,4,Completed+Closed,40:14.0,Org line C,Hineesh,INDIA,Normal,0
+1-694385837,4,Accepted+In Progress,46:45.0,Org line C,Hineesh,INDIA,Normal,0
+1-694385837,5,Accepted+In Progress,48:55.0,Org line C,Hineesh,INDIA,Normal,0
+1-694385837,6,Completed+Closed,48:56.0,Org line C,Hineesh,INDIA,Normal,0
+1-694385837,7,Accepted+In Progress,00:52.0,Org line C,Hineesh,INDIA,Normal,0
+1-689160381,1,Accepted+Wait,02:39.0,Org line A2,Stefan,Sweden,Normal,0
+1-698998499,6,Accepted+Wait,52:47.0,Org line C,Martin,Sweden,Insert,1
+1-703399394,2,Accepted+In Progress,14:49.0,Org line C,John,Sweden,Normal,0
+1-703399394,3,Completed+Closed,14:54.0,Org line C,John,Sweden,Normal,0
+1-704229584,0,Accepted+In Progress,06:47.0,Org line C,Jörgen,Sweden,Normal,0
+1-694385837,8,Completed+Closed,42:57.0,Org line C,Hineesh,INDIA,Normal,0
+1-636102195,5,Completed+Closed,51:35.0,Org line C,Hineesh,INDIA,Normal,0
+1-704650867,0,Accepted+In Progress,29:34.0,Org line C,Praveen,Sweden,Normal,0
+1-704650867,1,Queued+Awaiting Assignment,38:26.0,Org line C,Praveen,Sweden,Normal,0
+1-704650867,2,Random activity 2,11:19.6,Random_22,Random_22,Random_22,Insert,1
+1-691786330,0,Accepted+Assigned,21:22.0,Org line C,Jonas,Sweden,Normal,0
+1-704650867,3,Accepted+In Progress,36:58.0,Org line C,Partha,Sweden,Insert,1
+1-704650867,4,Queued+Awaiting Assignment,38:10.0,Org line C,Martin,Sweden,Insert,1
+1-703190797,1,Accepted+In Progress,02:18.0,Org line C,Jonas,Sweden,Early,1
+1-703190797,0,Queued+Awaiting Assignment,02:48.0,Org line C,Vinodhkumar,INDIA,Early,1
+1-704703712,0,Accepted+In Progress,00:19.0,Org line C,Peter,Belgium,Normal,0
+1-704703712,1,Queued+Awaiting Assignment,09:15.0,Org line C,Peter,Belgium,Normal,0
+1-703190797,2,Accepted+In Progress,46:21.0,Org line C,Jörgen,Sweden,Early,1
+1-704650867,5,Random activity 4,28:06.5,Random_23,Random_23,Random_23,Insert,1
+1-699103215,3,Queued+Awaiting Assignment,11:40.0,Org line C,-,INDIA,Normal,0
+1-704650867,6,Accepted+In Progress,36:59.0,Org line C,Pascal,Sweden,Insert,1
+1-687587336,1,Completed+Closed,20:18.0,Org line C,Mats,Sweden,Normal,0
+1-693357728,1,Completed+Closed,12:42.0,Org line C,Jörgen,Sweden,Normal,0
+1-691786096,4,Completed+Closed,18:58.0,Org line C,Jörgen,Sweden,Normal,0
+1-704977245,0,Accepted+In Progress,39:14.0,Org line C,Praveen,Sweden,Normal,0
+1-704977245,1,Queued+Awaiting Assignment,49:03.0,Org line C,Praveen,Sweden,Normal,0
+1-704977245,2,Queued+Awaiting Assignment,05:00.0,Org line C,Martin,Sweden,Normal,0
+1-699103215,4,Accepted+In Progress,40:45.0,Org line C,-,INDIA,Normal,0
+1-689525975,0,Completed+Closed,00:24.0,Org line G4,Roland,Sweden,SkipSequence,1
+1-691786330,1,Completed+Closed,02:03.0,Org line C,Jonas,Sweden,Normal,0
+1-573830584,4,Accepted+Assigned,13:30.0,Org line C,Mikael,Sweden,Normal,0
+1-700498223,0,Queued+Awaiting Assignment,06:50.0,Org line B,Srinivasan,INDIA,Normal,0
+1-703540157,3,Accepted+In Progress,09:42.0,Org line B,Rijin,INDIA,Normal,0
+1-700498223,1,Accepted+In Progress,10:35.0,Org line B,Rijin,INDIA,Normal,0
+1-589421537,1,Completed+Closed,43:20.0,Org line C,Nicolas,France,Normal,0
+1-573830584,5,Accepted+Assigned,56:49.0,Org line C,Lena,Sweden,Normal,0
+1-573830584,6,Accepted+Assigned,05:12.0,Org line C,Lena,Sweden,Normal,0
+1-624450715,1,Completed+Closed,07:57.0,Org line C,Mikael,Sweden,SkipSequence,1
+1-705847575,0,Accepted+In Progress,30:47.0,Org line C,Pascal,Sweden,Normal,0
+1-705847575,1,Completed+Closed,37:12.0,Org line C,Pascal,Sweden,Normal,0
+1-688564824,5,Completed+Closed,38:43.0,Org line C,Pascal,Sweden,Normal,0
+1-573830584,7,Accepted+In Progress,58:40.0,Org line C,Lena,Sweden,Normal,0
+1-573830584,8,Completed+Closed,58:45.0,Org line C,Lena,Sweden,Normal,0
+1-669804759,1,Completed+Closed,50:09.0,Org line C,Peter,Sweden,Normal,0
+1-669804759,3,Completed+Closed,50:09.0,Org line C,Peter,Sweden,Rework,1
+1-699661601,0,Completed+Closed,12:02.0,Org line C,Mohsin,INDIA,SkipSequence,1
+1-706866666,0,Accepted+In Progress,41:55.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-706988783,0,Accepted+In Progress,07:28.0,Org line G4,Håkan,Sweden,Normal,0
+1-652874271,1,Completed+Closed,10:52.0,Org line G4,Håkan,Sweden,Normal,0
+1-707300171,0,Accepted+In Progress,18:47.0,Org line C,Robert,USA,Normal,0
+1-707300171,1,Accepted+In Progress,19:30.0,Org line C,Robert,USA,Normal,0
+1-707623601,0,Accepted+In Progress,10:52.0,Org line C,Mohsin,INDIA,Normal,0
+1-707623601,1,Accepted+Wait,01:40.0,Org line C,Mohsin,INDIA,Normal,0
+1-707693471,0,Accepted+In Progress,14:09.0,Org line B,Aneesh V,INDIA,Normal,0
+1-707623601,2,Completed+Closed,17:36.0,Org line C,Mohsin,INDIA,Normal,0
+1-707704098,0,Accepted+In Progress,24:46.0,Org line G4,Rickard,Sweden,Normal,0
+1-707300171,2,Queued+Awaiting Assignment,41:51.0,Org line C,Robert,USA,Normal,0
+1-628203323,5,Accepted+In Progress,11:09.0,Org line C,Rajkishore,INDIA,Normal,0
+1-660903884,1,Completed+Closed,29:32.0,Org line C,Emil,Sweden,SkipSequence,1
+1-708716045,2,Accepted+In Progress,02:46.0,Org line G4,Rickard,Sweden,Rework,1
+1-708716045,0,Accepted+In Progress,02:46.0,Org line G4,Rickard,Sweden,Normal,0
+1-699103215,5,Queued+Awaiting Assignment,15:56.0,Org line C,Stefan,Sweden,Normal,0
+1-707300171,3,Queued+Awaiting Assignment,03:53.0,Org line C,Prasad,Sweden,Normal,0
+1-709552565,0,Accepted+In Progress,13:51.0,Org line C,Praveen,Sweden,Normal,0
+1-709552565,1,Queued+Awaiting Assignment,37:38.0,Org line C,Praveen,Sweden,Normal,0
+1-709552565,2,Accepted+In Progress,41:57.0,Org line C,Pankaj,Sweden,Normal,0
+1-699103215,6,Accepted+In Progress,46:00.0,Org line C,Stefan,Sweden,Normal,0
+1-699103215,7,Accepted+In Progress,46:11.0,Org line C,Stefan,Sweden,Normal,0
+1-699103215,8,Completed+Closed,47:48.0,Org line C,Stefan,Sweden,Normal,0
+1-710114300,0,Accepted+In Progress,34:34.0,Org line C,Praveen,Sweden,Normal,0
+1-710114300,1,Queued+Awaiting Assignment,45:33.0,Org line C,Praveen,Sweden,Normal,0
+1-710114300,2,Accepted+In Progress,10:47.0,Org line C,Pankaj,Sweden,Normal,0
+1-710109531,0,Accepted+In Progress,11:21.0,Org line A2,Anna,POLAND,Normal,0
+1-710114300,3,Accepted+Assigned,11:37.0,Org line C,Raja,Sweden,Normal,0
+1-710114300,4,Queued+Awaiting Assignment,54:31.0,Org line C,Martin,Sweden,Normal,0
+1-710109531,1,Completed+Closed,26:37.0,Org line A2,Anna,POLAND,Normal,0
+1-712856449,0,Accepted+In Progress,37:33.0,Org line C,Inger,Sweden,Normal,0
+1-712856449,1,Queued+Awaiting Assignment,39:47.0,Org line C,Inger,Sweden,Normal,0
+1-712856449,2,Accepted+In Progress,02:57.0,Org line C,Amar,INDIA,Normal,0
+1-707693471,1,Completed+Closed,28:59.0,Org line B,Aneesh V,INDIA,Normal,0
+1-713106267,0,Accepted+In Progress,03:09.0,Org line B,Thiago,Brazil,Normal,0
+1-696839978,2,Completed+Closed,48:53.0,Org line C,Ryouhei,Japan,Normal,0
+1-701429911,4,Completed+Closed,50:05.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-703540157,4,Queued+Awaiting Assignment,35:35.0,Org line C,-,INDIA,Normal,0
+1-672506739,4,Accepted+In Progress,33:37.0,Org line C,Hineesh,INDIA,Normal,0
+1-672506739,5,Completed+Closed,36:46.0,Org line C,Hineesh,INDIA,Normal,0
+1-715638561,0,Accepted+In Progress,37:14.0,Org line C,Martin,Sweden,Normal,0
+1-707300171,4,Queued+Awaiting Assignment,43:12.0,Org line C,Robert,USA,Normal,0
+1-715638561,1,Queued+Awaiting Assignment,44:34.0,Org line C,Martin,Sweden,Normal,0
+1-715638561,2,Accepted+In Progress,09:18.0,Org line C,Pascal,Sweden,Normal,0
+1-715638561,3,Completed+Closed,41:51.0,Org line C,Pascal,Sweden,Normal,0
+1-698044001,5,Accepted+In Progress,52:27.0,Org line C,Martin,Sweden,Rework,1
+1-698044001,3,Accepted+In Progress,52:27.0,Org line C,Martin,Sweden,Normal,0
+1-698044001,4,Completed+Closed,53:04.0,Org line C,Martin,Sweden,Normal,0
+1-698044001,6,Completed+Closed,53:04.0,Org line C,Martin,Sweden,Rework,1
+1-710114300,5,Accepted+In Progress,54:26.0,Org line C,Aurelien,France,Normal,0
+1-710114300,6,Queued+Awaiting Assignment,05:50.0,Org line C,Bruno,France,Normal,0
+1-524375607,3,Completed+Closed,19:54.0,Org line C,Jo,Belgium,Normal,0
+1-716154984,0,Queued+Awaiting Assignment,38:08.0,Org line C,Rakesh,Sweden,Normal,0
+1-716154984,1,Accepted+In Progress,40:27.0,Org line C,Tarun,Sweden,Normal,0
+1-599157751,4,Completed+Closed,03:56.0,Org line C,Lennart,Sweden,Normal,0
+1-706866666,1,Completed+Closed,26:26.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-688380091,5,Accepted+Wait,02:17.0,Org line A2,Britt,Sweden,Late,1
+1-675150191,4,Accepted+In Progress,49:27.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-660786538,2,Completed+Closed,56:45.0,Org line C,Christer,Sweden,Attribute,1
+1-698998499,7,Completed+Closed,05:03.0,Org line C,Martin,Sweden,Insert,1
+1-694420679,1,Completed+Closed,36:11.0,Org line A2,Kristina,Sweden,Normal,0
+1-675150191,5,Accepted+Wait,10:11.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-688380091,1,Queued+Awaiting Assignment,16:41.0,Org line A2,Britt,Sweden,Late,1
+1-579250167,2,Completed+Closed,37:07.0,Org line C,Hineesh,INDIA,Normal,0
+1-696680265,5,Completed+Closed,43:49.0,Org line C,Hineesh,INDIA,Normal,0
+1-717222893,0,Accepted+In Progress,35:00.0,Org line C,Gitt,Sweden,Normal,0
+1-717222893,1,Queued+Awaiting Assignment,40:06.0,Org line C,Gitt,Sweden,Normal,0
+1-717275094,0,Accepted+In Progress,12:45.0,Org line C,Gitt,Sweden,Normal,0
+1-717275094,1,Queued+Awaiting Assignment,17:17.0,Org line C,Gitt,Sweden,Normal,0
+1-718132104,0,Accepted+In Progress,58:57.0,Org line B,Murali,INDIA,Normal,0
+1-710114300,7,Accepted+In Progress,18:09.0,Org line C,Bruno,France,Normal,0
+1-712856449,3,Completed+Closed,59:43.0,Org line C,Amar,INDIA,Normal,0
+1-638091067,9,Accepted+In Progress,09:13.0,Org line C,Peter,Sweden,Rework,1
+1-638091067,10,Completed+Closed,09:14.0,Org line C,Peter,Sweden,Rework,1
+1-707300171,5,Accepted+Assigned,50:45.0,Org line C,Hineesh,INDIA,Normal,0
+1-719199254,0,Accepted+In Progress,57:54.0,Org line G4,Harshavardhan,Sweden,Normal,0
+1-700498223,9,Queued+Awaiting Assignment,30:31.0,Org line B,Srinivasan,INDIA,Rework,1
+1-700498223,2,Queued+Awaiting Assignment,30:31.0,Org line B,Srinivasan,INDIA,Normal,0
+1-700498223,3,Accepted+In Progress,46:31.0,Org line B,Rijin,INDIA,Normal,0
+1-700498223,10,Accepted+In Progress,46:31.0,Org line B,Rijin,INDIA,Rework,1
+1-719999163,0,Accepted+In Progress,46:35.0,Org line B,Michel,INDIA,Attribute,1
+1-720069371,0,Accepted+In Progress,12:34.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-578252937,1,Completed+Closed,36:39.0,Org line C,Lars-Ove,Sweden,Normal,0
+1-720069371,1,Accepted+Wait,57:02.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-720069371,2,Accepted+In Progress,41:01.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-720069371,3,Accepted+Wait,23:39.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-709552565,3,Queued+Awaiting Assignment,23:51.0,Org line C,Martin,Sweden,Normal,0
+1-693895885,2,Accepted+In Progress,30:19.0,Org line G4,David,Sweden,Normal,0
+1-693895885,3,Completed+Closed,30:21.0,Org line G4,David,Sweden,Normal,0
+1-707300171,6,Queued+Awaiting Assignment,37:25.0,Org line C,Prasad,Sweden,Normal,0
+1-707300171,7,Accepted+In Progress,32:42.0,Org line C,Jitender,Sweden,Normal,0
+1-708716045,1,Completed+Closed,08:02.0,Org line G4,Rickard,Sweden,Normal,0
+1-708716045,3,Completed+Closed,08:02.0,Org line G4,Rickard,Sweden,Rework,1
+1-698842669,4,Completed+Closed,24:24.0,Org line C,Amar,INDIA,Normal,0
+1-722674364,0,Accepted+In Progress,54:43.0,Org line C,Praveen,Sweden,Normal,0
+1-722674364,1,Queued+Awaiting Assignment,00:28.0,Org line C,Praveen,Sweden,Normal,0
+1-722674364,2,Queued+Awaiting Assignment,45:24.0,Org line C,Prasad,Sweden,Normal,0
+1-722688743,0,Accepted+In Progress,54:27.0,Org line A2,Anson,China,Normal,0
+1-722688743,1,Queued+Awaiting Assignment,58:07.0,Org line A2,Anson,China,Normal,0
+1-722674364,3,Queued+Awaiting Assignment,51:30.0,Org line C,Praveen,Sweden,Normal,0
+1-688380091,2,Accepted+In Progress,51:46.0,Org line A2,Britt,Sweden,Late,1
+1-688380091,3,Accepted+Wait,54:32.0,Org line A2,Britt,Sweden,Late,1
+1-688380091,4,Accepted+In Progress,10:47.0,Org line A2,Britt,Sweden,Late,1
+1-726517211,0,Accepted+In Progress,15:21.0,Org line C,Peter,Belgium,Normal,0
+1-726517211,1,Accepted+In Progress,15:49.0,Org line C,Peter,Belgium,Normal,0
+1-726517211,2,Queued+Awaiting Assignment,16:09.0,Org line A2,Peter,Belgium,Attribute,1
+1-726517211,3,Accepted+In Progress,16:24.0,Org line G3,Himanshu,Belgium,Attribute,1
+1-688380091,6,Accepted+Wait,17:17.0,Org line A2,Britt,Sweden,Late,1
+1-726517211,4,Queued+Awaiting Assignment,18:34.0,Org line G3,Peter,Belgium,Attribute,1
+1-720069371,4,Accepted+In Progress,11:58.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-718132104,1,Completed+Closed,58:02.0,Org line B,Murali,INDIA,Normal,0
+1-726760342,0,Accepted+In Progress,36:37.0,Org line C,Lars,Sweden,Normal,0
+1-726760342,1,Accepted+Wait,37:20.0,Org line C,Lars,Sweden,Normal,0
+1-720069371,5,Accepted+Wait,50:15.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-726808501,0,Accepted+In Progress,31:06.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-628078553,1,Completed+Closed,42:44.0,Org line A2,Vikrant,Sweden,Attribute,1
+1-700498223,11,Queued+Awaiting Assignment,03:26.0,Org line B,Srinivasan,INDIA,Rework,1
+1-700498223,4,Queued+Awaiting Assignment,03:26.0,Org line B,Srinivasan,INDIA,Normal,0
+1-700498223,5,Accepted+In Progress,00:46.0,Org line B,Rijin,INDIA,Normal,0
+1-700498223,6,Accepted+Wait,05:03.0,Org line B,Rijin,INDIA,Normal,0
+1-728461114,0,Accepted+In Progress,01:51.0,Org line C,Tarun,Sweden,Normal,0
+1-728461114,3,Accepted+In Progress,01:51.0,Org line C,Tarun,Sweden,Rework,1
+1-728470722,0,Accepted+In Progress,04:29.0,Org line A2,Åsa,Sweden,Normal,0
+1-728470722,1,Accepted+Assigned,05:30.0,Org line A2,Åsa,Sweden,Normal,0
+1-644992956,3,Completed+Closed,15:47.0,Org line C,Kåre,Sweden,Normal,0
+1-704650867,7,Accepted+Wait,46:23.0,Org line C,Pascal,Sweden,Insert,1
+1-719199254,6,Accepted+In Progress,05:40.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-719199254,1,Completed+Closed,06:14.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-621393223,4,Accepted+In Progress,34:45.0,Org line B,Thiago,Brazil,Normal,0
+1-621393223,5,Completed+Closed,34:51.0,Org line B,Thiago,Brazil,Normal,0
+1-728641711,0,Accepted+In Progress,13:58.0,Org line C,Stephen,USA,Normal,0
+1-728641711,1,Queued+Awaiting Assignment,26:35.0,Org line C,Stephen,USA,Normal,0
+1-616977258,2,Accepted+In Progress,06:44.0,Org line V2,Niklas,Sweden,Attribute,1
+1-616977258,3,Completed+Closed,07:42.0,Org line A2,Charlotta,Sweden,Attribute,1
+1-686642441,1,Accepted+In Progress,30:08.0,Org line G4,David,Sweden,Normal,0
+1-686642441,2,Completed+Closed,31:53.0,Org line G4,David,Sweden,Normal,0
+1-729711756,0,Accepted+In Progress,24:45.0,Org line A2,Maria,Sweden,Normal,0
+1-697366925,1,Completed+Closed,52:14.0,Org line G4,Samira,Sweden,Normal,0
+1-729826369,0,Accepted+In Progress,56:04.0,Org line G3,Ewa,POLAND,Normal,0
+1-729826369,1,Completed+Closed,59:57.0,Org line G3,Ewa,POLAND,Normal,0
+1-728641711,2,Accepted+In Progress,26:56.0,Org line C,Stephen,USA,Normal,0
+1-730084841,0,Queued+Awaiting Assignment,48:09.0,Org line C,Vesa,Sweden,Normal,0
+1-730084875,2,Accepted+In Progress,05:25.0,Org line C,Vesa,Sweden,Rework,1
+1-730084875,0,Accepted+In Progress,05:25.0,Org line C,Vesa,Sweden,Normal,0
+1-730084875,3,Queued+Awaiting Assignment,06:50.0,Org line C,Vesa,Sweden,Rework,1
+1-730084875,1,Queued+Awaiting Assignment,06:50.0,Org line C,Vesa,Sweden,Normal,0
+1-730084841,1,Accepted+In Progress,08:35.0,Org line C,Himanshu,Sweden,Normal,0
+1-730084841,2,Completed+Closed,09:14.0,Org line C,Himanshu,Sweden,Normal,0
+1-716154984,2,Completed+Closed,07:44.0,Org line C,Tarun,Sweden,Normal,0
+1-546838031,4,Completed+Closed,58:43.0,Org line C,Tomas,Sweden,Attribute,1
+1-731792664,0,Accepted+In Progress,34:38.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-731908702,0,Accepted+In Progress,50:00.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-731908702,1,Accepted+In Progress,23:14.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-731792664,1,Completed+Closed,24:33.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-696057890,1,Completed+Closed,06:39.0,Org line C,Steve,Belgium,Normal,0
+1-700498223,7,Accepted+In Progress,38:30.0,Org line B,Rijin,INDIA,Normal,0
+1-700498223,8,Completed+Closed,54:28.0,Org line B,Rijin,INDIA,Normal,0
+1-732289301,0,Accepted+In Progress,51:48.0,Org line C,-,INDIA,Normal,0
+1-732289301,1,Queued+Awaiting Assignment,01:56.0,Org line C,-,INDIA,Normal,0
+1-722674364,4,Accepted+In Progress,54:42.0,Org line C,Arun,Sweden,Normal,0
+1-704977245,3,Queued+Awaiting Assignment,57:01.0,Org line C,Martin,Sweden,Normal,0
+1-722674364,5,Queued+Awaiting Assignment,58:49.0,Org line C,Martin,Sweden,Normal,0
+1-732289301,2,Accepted+Assigned,05:30.0,Org line C,Rajkishore,INDIA,Normal,0
+1-732357301,0,Accepted+In Progress,18:15.0,Org line C,Rohit,Sweden,Normal,0
+1-732357301,1,Accepted+Wait,59:52.0,Org line C,Rohit,Sweden,Normal,0
+1-691146566,1,Completed+Closed,59:04.0,Org line A2,Dusan,Sweden,Normal,0
+1-733562890,0,Queued+Awaiting Assignment,01:45.0,Org line B,Srinivasan,INDIA,Normal,0
+1-675150191,6,Completed+Closed,37:00.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-733562890,1,Accepted+In Progress,08:12.0,Org line B,Rijin,INDIA,Normal,0
+1-694222066,2,Accepted+In Progress,11:17.0,Org line B,Anandgiri,INDIA,Normal,0
+1-694222066,3,Queued+Awaiting Assignment,11:56.0,Org line C,Praveen,Sweden,Normal,0
+1-736351127,0,Accepted+In Progress,27:00.0,Org line C,Praveen,Sweden,Normal,0
+1-736351127,1,Queued+Awaiting Assignment,31:22.0,Org line C,Praveen,Sweden,Normal,0
+1-736351222,0,Accepted+In Progress,47:41.0,Org line C,Praveen,Sweden,Normal,0
+1-736351222,1,Queued+Awaiting Assignment,55:51.0,Org line C,Praveen,Sweden,Normal,0
+1-736351222,2,Queued+Awaiting Assignment,13:34.0,Org line C,Martin,Sweden,Normal,0
+1-736351127,2,Queued+Awaiting Assignment,15:21.0,Org line C,Martin,Sweden,Normal,0
+1-736351222,3,Accepted+In Progress,30:38.0,Org line C,Martin,Sweden,Normal,0
+1-736351222,4,Queued+Awaiting Assignment,31:32.0,Org line C,Rakesh,Sweden,Normal,0
+1-736351127,3,Accepted+In Progress,34:04.0,Org line C,Martin,Sweden,Normal,0
+1-736351127,4,Queued+Awaiting Assignment,34:14.0,Org line C,Rakesh,Sweden,Normal,0
+1-736351222,5,Accepted+In Progress,36:03.0,Org line C,Tarun,Sweden,Normal,0
+1-736351127,5,Accepted+In Progress,36:34.0,Org line C,Tarun,Sweden,Normal,0
+1-731908702,2,Completed+Closed,29:39.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-652925445,1,Completed+Closed,21:26.0,Org line G4,Rickard,Sweden,Normal,0
+1-733562890,2,Queued+Awaiting Assignment,24:09.0,Org line C,Tomas,Sweden,Normal,0
+1-733562890,3,Accepted+In Progress,09:45.0,Org line C,Kenneth,Sweden,Normal,0
+1-622652886,1,Completed+Closed,41:11.0,Org line C,Bikshamaiah,Sweden,Normal,0
+1-737323915,0,Accepted+In Progress,34:04.0,Org line C,Vaibhav,Sweden,Normal,0
+1-737323915,1,Accepted+In Progress,34:46.0,Org line C,Vaibhav,Sweden,Normal,0
+1-737341073,0,Queued+Awaiting Assignment,55:13.0,Org line C,Rakesh,Sweden,Normal,0
+1-661706786,2,Completed+Closed,07:53.0,Org line A2,Saki,Sweden,Normal,0
+1-738285921,0,Accepted+Wait,46:29.0,Org line A2,Alan,United Kingdom,Normal,0
+1-738300041,0,Accepted+In Progress,04:02.0,Org line C,Prasad,Sweden,Normal,0
+1-738300041,8,Accepted+Wait,09:06.0,Org line C,Prasad,Sweden,Rework,1
+1-738300041,1,Accepted+Wait,09:06.0,Org line C,Prasad,Sweden,Normal,0
+1-738322892,0,Accepted+In Progress,59:57.0,Org line C,Peter,Sweden,Normal,0
+1-738322892,1,Accepted+In Progress,00:23.0,Org line C,Peter,Sweden,Normal,0
+1-738322892,2,Random activity 4,01:42.1,Random_25,Random_25,Random_25,Insert,1
+1-738322892,3,Queued+Awaiting Assignment,02:06.0,Org line C,Peter,Sweden,Insert,1
+1-678626550,1,Completed+Closed,03:30.0,Org line G4,Samira,Sweden,SkipSequence,1
+1-681864502,1,Accepted+In Progress,04:26.0,Org line G4,Samira,Sweden,Late,1
+1-738501821,0,Accepted+In Progress,47:51.0,Org line C,Peter,Belgium,Normal,0
+1-738501821,1,Queued+Awaiting Assignment,50:42.0,Org line V5,Peter,Belgium,Attribute,1
+1-738501821,2,Accepted+In Progress,51:36.0,Org line D,Mohsin,INDIA,Attribute,1
+1-738501821,3,Queued+Awaiting Assignment,56:52.0,Org line C,Peter,Belgium,Attribute,1
+1-738520030,0,Accepted+In Progress,58:29.0,Org line C,Peter,Belgium,Normal,0
+1-738520030,1,Queued+Awaiting Assignment,01:11.0,Org line C,Peter,Belgium,Normal,0
+1-738520140,0,Accepted+In Progress,04:59.0,Org line C,Peter,Belgium,Normal,0
+1-738520140,1,Queued+Awaiting Assignment,06:51.0,Org line C,Peter,Belgium,Normal,0
+1-738520280,0,Accepted+In Progress,09:52.0,Org line C,Peter,Belgium,Normal,0
+1-738520280,1,Queued+Awaiting Assignment,13:41.0,Org line C,Peter,Belgium,Normal,0
+1-738520420,0,Accepted+In Progress,14:31.0,Org line C,Peter,Belgium,Normal,0
+1-738520420,1,Queued+Awaiting Assignment,16:08.0,Org line C,Peter,Belgium,Normal,0
+1-738538186,0,Accepted+In Progress,19:07.0,Org line C,Lars,Sweden,Normal,0
+1-738520500,0,Accepted+In Progress,26:26.0,Org line C,Peter,Belgium,Normal,0
+1-738520500,1,Queued+Awaiting Assignment,27:51.0,Org line C,Peter,Belgium,Normal,0
+1-738554050,0,Accepted+In Progress,30:23.0,Org line C,Peter,Belgium,Normal,0
+1-738554050,1,Queued+Awaiting Assignment,31:59.0,Org line C,Peter,Belgium,Normal,0
+1-738554110,1,Accepted+In Progress,34:54.0,Org line C,Peter,Belgium,Late,1
+1-738554110,0,Queued+Awaiting Assignment,36:26.0,Org line C,Peter,Belgium,Late,1
+1-738820901,0,Accepted+In Progress,07:53.0,Org line B,Alice,Brazil,Normal,0
+1-738820974,0,Accepted+In Progress,20:24.0,Org line B,Alice,Brazil,Normal,0
+1-738820901,1,Accepted+Assigned,21:30.0,Org line B,Alice,Brazil,Normal,0
+1-738820974,1,Accepted+Assigned,22:01.0,Org line B,Alice,Brazil,Normal,0
+1-694899814,1,Accepted+In Progress,16:50.0,Org line A2,Tomas,Sweden,Normal,0
+1-694899814,2,Completed+Closed,20:09.0,Org line A2,Tomas,Sweden,Normal,0
+1-739196611,0,Accepted+In Progress,25:49.0,Org line C,Niklas,Sweden,Normal,0
+1-739220231,0,Accepted+In Progress,32:43.0,Org line C,Sameer,INDIA,Normal,0
+1-686945977,3,Completed+Closed,37:08.0,Org line C,Jitender,Sweden,Late,1
+1-739271601,0,Accepted+In Progress,48:58.0,Org line A2,Panigrahy,Sweden,Normal,0
+1-739323204,0,Accepted+In Progress,38:08.0,Org line C,Jesper,Sweden,Normal,0
+1-739196611,1,Accepted+In Progress,52:35.0,Org line C,Niklas,Sweden,Normal,0
+1-739385022,0,Accepted+In Progress,04:47.0,Org line C,Olof,Sweden,Normal,0
+1-739385022,1,Accepted+In Progress,05:56.0,Org line C,Olof,Sweden,Normal,0
+1-739385022,2,Accepted+Wait,07:34.0,Org line C,Olof,Sweden,Normal,0
+1-739276320,0,Accepted+In Progress,40:49.0,Org line A2,Venkata,Sweden,Normal,0
+1-739276320,1,Accepted+Wait,41:56.0,Org line A2,Venkata,Sweden,Normal,0
+1-739606592,0,Accepted+In Progress,26:17.0,Org line A2,Joris,Belgium,Normal,0
+1-739606592,1,Completed+Closed,33:21.0,Org line A2,Joris,Belgium,Normal,0
+1-739695919,0,Accepted+In Progress,00:53.0,Org line A2,Viktoria,Sweden,Normal,0
+1-739633778,2,Accepted+In Progress,32:07.0,Org line A2,Piotr,POLAND,Late,1
+1-739633778,3,Queued+Awaiting Assignment,43:05.0,Org line A2,Piotr,POLAND,Late,1
+1-739633778,0,Accepted+In Progress,51:26.0,Org line A2,Katarzyna,POLAND,Late,1
+1-739633778,1,Queued+Awaiting Assignment,02:30.0,Org line C,Grzegorz,POLAND,Late,1
+1-739695919,1,Queued+Awaiting Assignment,35:20.0,Org line A2,Viktoria,Sweden,Normal,0
+1-739695919,2,Queued+Awaiting Assignment,35:45.0,Org line C,Peter,Sweden,Normal,0
+1-740527376,0,Accepted+In Progress,53:40.0,Org line V2,Björn,Sweden,Normal,0
+1-550611848,1,Completed+Closed,56:48.0,Org line G4,Bharath,Sweden,Normal,0
+1-739606592,2,Accepted+In Progress,17:14.0,Org line A2,Joris,Belgium,Normal,0
+1-740460519,0,Accepted+In Progress,26:13.0,Org line A2,Ian,United Kingdom,Normal,0
+1-740460519,1,Accepted+Assigned,27:48.0,Org line A2,Ian,United Kingdom,Normal,0
+1-740597491,0,Queued+Awaiting Assignment,43:49.0,Org line C,Olivier,France,Normal,0
+1-740597491,1,Accepted+In Progress,46:02.0,Org line C,Andreas,Sweden,Normal,0
+1-707704098,1,Completed+Closed,46:53.0,Org line G4,Cindy,Sweden,Attribute,1
+1-740597491,2,Queued+Awaiting Assignment,54:17.0,Org line C,Olivier,France,Normal,0
+1-740315794,0,Queued+Awaiting Assignment,38:08.0,Org line C,John,Sweden,Normal,0
+1-704650867,8,Completed+Closed,51:55.0,Org line C,Pascal,Sweden,Insert,1
+1-740618034,0,Accepted+In Progress,29:10.0,Org line G4,Rickard,Sweden,Normal,0
+1-740618034,1,Random activity 1,30:38.8,Random_27,Random_27,Random_27,Insert,1
+1-740681141,0,Accepted+In Progress,30:41.0,Org line C,Els,Belgium,Normal,0
+1-740618034,2,Accepted+Wait,31:00.0,Org line G4,Rickard,Sweden,Insert,1
+1-740681141,1,Queued+Awaiting Assignment,31:56.0,Org line C,Els,Belgium,Normal,0
+1-740681235,0,Queued+Awaiting Assignment,07:02.0,Org line C,Patrick,Belgium,Normal,0
+1-740740981,0,Accepted+In Progress,45:42.0,Org line C,Lena,Sweden,Normal,0
+1-740740981,1,Queued+Awaiting Assignment,49:27.0,Org line C,Lena,Sweden,Normal,0
+1-740460519,2,Accepted+In Progress,17:32.0,Org line A2,Ian,United Kingdom,Normal,0
+1-740829883,0,Accepted+Wait,07:46.0,Org line B,Vijayakumar,INDIA,Normal,0
+1-733562890,4,Random activity 4,47:18.8,Random_24,Random_24,Random_24,Insert,1
+1-739695919,3,Accepted+In Progress,27:57.0,Org line C,Peter,Sweden,Normal,0
+1-740681141,2,Accepted+In Progress,05:58.0,Org line C,Els,Belgium,Normal,0
+1-740681141,3,Accepted+Assigned,06:20.0,Org line C,Jon,USA,Normal,0
+1-683298971,2,Accepted+Wait,37:25.0,Org line A2,Piotr,POLAND,Normal,0
+1-683298971,3,Completed+Closed,38:25.0,Org line A2,Piotr,POLAND,Normal,0
+1-741583418,0,Accepted+In Progress,49:22.0,Org line V11,Lars,Denmark,Normal,0
+1-741647211,0,Accepted+In Progress,14:46.0,Org line A2,Avvaru,Sweden,Normal,0
+1-741674039,0,Accepted+In Progress,20:17.0,Org line C,Marianne,Sweden,Normal,0
+1-740597491,3,Accepted+In Progress,47:48.0,Org line C,Nicolas,France,Normal,0
+1-740597491,4,Queued+Awaiting Assignment,47:57.0,Org line C,Martin,Sweden,Normal,0
+1-740597491,5,Accepted+In Progress,59:32.0,Org line C,Andreas,Sweden,Normal,0
+1-741556827,0,Accepted+In Progress,03:03.0,Org line A2,Maciej,POLAND,Normal,0
+1-741672841,0,Accepted+In Progress,32:01.0,Org line A2,Joey,China,Normal,0
+1-741556827,1,Accepted+Wait,47:27.0,Org line A2,Maciej,POLAND,Normal,0
+1-736351127,6,Queued+Awaiting Assignment,14:50.0,Org line C,Rakesh,Sweden,Normal,0
+1-736351222,6,Queued+Awaiting Assignment,16:46.0,Org line C,Rakesh,Sweden,Normal,0
+1-741547216,0,Accepted+In Progress,00:54.0,Org line V2,Björn,Sweden,Normal,0
+1-736351222,7,Accepted+In Progress,01:26.0,Org line C,Tarun,Sweden,Normal,0
+1-736351127,7,Accepted+In Progress,01:53.0,Org line C,Tarun,Sweden,Normal,0
+1-722674364,6,Accepted+Assigned,13:40.0,Org line C,Stephen,USA,Normal,0
+1-697458590,8,Completed+Closed,28:53.0,Org line C,Steve,Sweden,Normal,0
+1-722674364,7,Queued+Awaiting Assignment,45:40.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-741826252,0,Accepted+In Progress,58:34.0,Org line G4,Göran,Sweden,Normal,0
+1-741545507,0,Accepted+In Progress,24:19.0,Org line A2,Lena,Sweden,Normal,0
+1-736351127,8,Completed+Closed,40:13.0,Org line C,Tarun,Sweden,Normal,0
+1-736351222,8,Completed+Closed,40:44.0,Org line C,Tarun,Sweden,Normal,0
+1-728461114,1,Accepted+Wait,41:58.0,Org line C,Tarun,Sweden,Normal,0
+1-728461114,4,Accepted+Wait,41:58.0,Org line C,Tarun,Sweden,Rework,1
+1-741867303,0,Accepted+In Progress,01:53.0,Org line F,Marc,Belgium,Normal,0
+1-741987554,0,Accepted+In Progress,07:13.0,Org line C,Vesa,Sweden,Normal,0
+1-741987554,1,Accepted+Wait,11:09.0,Org line C,Vesa,Sweden,Normal,0
+1-628203323,6,Completed+Closed,29:27.0,Org line C,Rajkishore,INDIA,Normal,0
+1-742134325,0,Accepted+In Progress,11:39.0,Org line G4,Harshavardhan,Sweden,Normal,0
+1-742230262,0,Accepted+In Progress,08:10.0,Org line C,Vesa,Sweden,Normal,0
+1-742296921,1,Accepted+In Progress,27:37.0,Org line C,Robert,USA,Late,1
+1-742296921,2,Queued+Awaiting Assignment,30:54.0,Org line C,Robert,USA,Late,1
+1-742257742,0,Accepted+In Progress,56:29.0,Org line C,Jimmy,Sweden,Normal,0
+1-739385022,3,Accepted+In Progress,56:54.0,Org line C,Olof,Sweden,Normal,0
+1-742295367,0,Accepted+In Progress,46:41.0,Org line G4,Samira,Sweden,Normal,0
+1-742295367,1,Accepted+Assigned,48:44.0,Org line G4,Samira,Sweden,Normal,0
+1-739695919,4,Accepted+In Progress,51:42.0,Org line C,Peter,Sweden,Normal,0
+1-740597491,6,Queued+Awaiting Assignment,06:45.0,Org line C,Olivier,France,Normal,0
+1-741987554,2,Accepted+Wait,14:03.0,Org line C,Vesa,Sweden,Normal,0
+1-741987554,3,Accepted+In Progress,17:43.0,Org line C,Vesa,Sweden,Normal,0
+1-739695919,5,Queued+Awaiting Assignment,24:52.0,Org line C,Praveen,Sweden,Normal,0
+1-742383121,0,Accepted+In Progress,43:59.0,Org line G4,Andreas,Sweden,Normal,0
+1-742383139,0,Accepted+In Progress,51:43.0,Org line G4,David,Sweden,Normal,0
+1-742383121,1,Accepted+Assigned,53:49.0,Org line G4,Andreas,Sweden,Normal,0
+1-742383139,1,Accepted+Assigned,58:54.0,Org line G4,David,Sweden,Normal,0
+1-741987554,4,Queued+Awaiting Assignment,53:55.0,Org line C,Vesa,Sweden,SkipSequence,1
+1-742397639,0,Accepted+In Progress,05:20.0,Org line A2,Mikael,Sweden,Normal,0
+1-742498161,0,Accepted+In Progress,22:05.0,Org line G4,David,Sweden,Normal,0
+1-742498161,1,Accepted+Assigned,27:09.0,Org line C,David,Sweden,Attribute,1
+1-742523071,0,Accepted+In Progress,23:46.0,Org line C,Himanshu,Sweden,Normal,0
+1-742516187,0,Accepted+In Progress,29:01.0,Org line A2,Ian,United Kingdom,Normal,0
+1-742516187,1,Accepted+Assigned,29:46.0,Org line A2,Ian,United Kingdom,Normal,0
+1-742523071,1,Accepted+In Progress,34:05.0,Org line C,Himanshu,Sweden,Normal,0
+1-742523071,2,Accepted+Wait,36:25.0,Org line C,Himanshu,Sweden,Normal,0
+1-703540157,5,Queued+Awaiting Assignment,09:41.0,Org line C,Praveen,Sweden,Normal,0
+1-703540157,6,Accepted+In Progress,30:00.0,Org line C,Umar Farooque,Sweden,Normal,0
+1-703540157,7,Queued+Awaiting Assignment,51:24.0,Org line C,-,INDIA,Normal,0
+1-704229584,1,Completed+Closed,56:41.0,Org line C,Jörgen,Sweden,Normal,0
+1-739385022,4,Accepted+Wait,57:50.0,Org line C,Olof,Sweden,Normal,0
+1-742730173,0,Accepted+In Progress,03:04.0,Org line C,Henrik,Sweden,Normal,0
+1-742730173,1,Queued+Awaiting Assignment,07:02.0,Org line C,Henrik,Sweden,Normal,0
+1-742748687,0,Accepted+In Progress,14:46.0,Org line A2,Ian,United Kingdom,Normal,0
+1-742748687,1,Accepted+Assigned,15:48.0,Org line A2,Ian,United Kingdom,Normal,0
+1-742746815,0,Accepted+In Progress,47:35.0,Org line C,Pratap,INDIA,Normal,0
+1-728470722,2,Accepted+Assigned,15:37.0,Org line A2,Åsa,Sweden,Normal,0
+1-703540157,8,Accepted+In Progress,16:46.0,Org line C,-,INDIA,Normal,0
+1-706988783,1,Completed+Closed,51:26.0,Org line G4,Håkan,Sweden,Normal,0
+1-742838561,0,Accepted+In Progress,28:23.0,Org line C,Kell,Sweden,Normal,0
+1-742765946,0,Accepted+In Progress,28:47.0,Org line G4,Johan,Sweden,Normal,0
+1-739220231,1,Accepted+Wait,34:20.0,Org line C,Sameer,INDIA,Normal,0
+1-703540157,9,Queued+Awaiting Assignment,39:11.0,Org line B,Srinivasan,INDIA,Normal,0
+1-742748728,0,Accepted+In Progress,49:11.0,Org line A2,Ian,United Kingdom,Normal,0
+1-742748728,1,Accepted+Assigned,55:56.0,Org line A2,Ian,United Kingdom,Normal,0
+1-733562890,5,Accepted+Wait,03:01.0,Org line C,Kenneth,Sweden,Insert,1
+1-742894028,0,Accepted+In Progress,07:58.0,Org line A2,Valter,Sweden,Normal,0
+1-742894028,1,Accepted+Assigned,15:44.0,Org line A2,Valter,Sweden,Normal,0
+1-742894028,2,Accepted+Wait,55:09.0,Org line A2,Valter,Sweden,Normal,0
+1-702304430,1,Completed+Closed,34:19.0,Org line C,Christer,Sweden,Normal,0
+1-742980945,0,Accepted+In Progress,54:37.0,Org line C,Christer,Sweden,Normal,0
+1-742833777,0,Completed+Closed,27:42.0,Org line A2,Maria,Sweden,Normal,0
+1-729711756,1,Completed+Closed,27:57.0,Org line A2,Maria,Sweden,Normal,0
+1-743091195,0,Accepted+In Progress,48:06.0,Org line B,Thiago,Brazil,Normal,0
+1-743091195,1,Accepted+In Progress,00:18.0,Org line B,Thiago,Brazil,Normal,0
+1-743110322,0,Accepted+In Progress,42:10.0,Org line C,Hineesh,INDIA,Normal,0
+1-743052684,0,Accepted+In Progress,36:03.0,Org line C,Sameer,Sweden,Normal,0
+1-743052684,1,Accepted+Wait,40:36.0,Org line C,Sameer,Sweden,Normal,0
+1-743163074,0,Accepted+In Progress,23:06.0,Org line C,Sameer,Sweden,Normal,0
+1-743163074,1,Accepted+Wait,24:43.0,Org line C,Sameer,Sweden,Normal,0
+1-703540157,10,Accepted+In Progress,32:47.0,Org line B,Rijin,INDIA,Normal,0
+1-703540157,11,Accepted+Wait,33:05.0,Org line B,Rijin,INDIA,Normal,0
+1-703540157,12,Queued+Awaiting Assignment,22:45.0,Org line B,Srinivasan,INDIA,Normal,0
+1-743310191,0,Accepted+In Progress,36:55.0,Org line C,Frederic,France,Normal,0
+1-743289531,0,Accepted+In Progress,51:50.0,Org line C,Arun,Sweden,Normal,0
+1-743289531,1,Accepted+Wait,16:30.0,Org line C,Arun,Sweden,Normal,0
+1-743358071,0,Accepted+In Progress,32:04.0,Org line C,Christer,Sweden,Normal,0
+1-743367526,0,Accepted+In Progress,07:53.0,Org line G4,Mattias,Sweden,Normal,0
+1-743404481,0,Accepted+In Progress,41:28.0,Org line G4,Johan,Sweden,Normal,0
+1-743404481,1,Accepted+Assigned,50:54.0,Org line G4,Johan,Sweden,Normal,0
+1-743395731,0,Accepted+In Progress,38:11.0,Org line G4,Jenny,United Kingdom,Attribute,1
+1-743395731,1,Accepted+Assigned,57:13.0,Org line V11,Ian,United Kingdom,Attribute,1
+1-743483832,0,Accepted+In Progress,24:06.0,Org line G4,Roland,Sweden,Normal,0
+1-739695919,6,Queued+Awaiting Assignment,25:04.0,Org line C,Martin,Sweden,Normal,0
+1-743549026,0,Accepted+In Progress,31:01.0,Org line A2,Stephane,France,Normal,0
+1-694222066,4,Accepted+Assigned,47:34.0,Org line C,Gaurav,Sweden,Normal,0
+1-740740981,2,Accepted+In Progress,15:05.0,Org line C,Lena,Sweden,Normal,0
+1-694222066,5,Accepted+In Progress,10:34.0,Org line C,Gaurav,Sweden,Normal,0
+1-694222066,6,Completed+Closed,11:04.0,Org line C,Gaurav,Sweden,Normal,0
+1-743628673,0,Accepted+In Progress,37:52.0,Org line A2,Arup,Sweden,Normal,0
+1-743659911,0,Accepted+In Progress,53:26.0,Org line C,Lars,Sweden,Normal,0
+1-743606342,0,Queued+Awaiting Assignment,01:40.0,Org line B,Praveen,Sweden,Attribute,1
+1-703383433,1,Accepted+In Progress,03:08.0,Org line A2,Britt,Sweden,Normal,0
+1-703383433,2,Completed+Closed,04:17.0,Org line A2,Britt,Sweden,Normal,0
+1-743809811,0,Accepted+In Progress,25:19.0,Org line C,Henrik,Sweden,Normal,0
+1-743877727,0,Accepted+In Progress,23:35.0,Org line C,Emil,Sweden,Normal,0
+1-743877727,1,Queued+Awaiting Assignment,23:44.0,Org line C,Emil,Sweden,Normal,0
+1-739695919,7,Accepted+In Progress,41:18.0,Org line C,Pascal,Sweden,Normal,0
+1-744020867,0,Accepted+In Progress,32:41.0,Org line G3,Ewa,POLAND,Normal,0
+1-744020867,1,Completed+Closed,35:47.0,Org line G3,Ewa,POLAND,Normal,0
+1-744055890,2,Accepted+In Progress,52:48.0,Org line A2,Timothy,United Kingdom,Rework,1
+1-744055890,0,Accepted+In Progress,52:48.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-744092992,0,Accepted+In Progress,05:02.0,Org line V11,James,United Kingdom,Normal,0
+1-744073361,0,Accepted+In Progress,22:26.0,Org line A2,Maciej,POLAND,Normal,0
+1-672807011,1,Accepted+In Progress,23:52.0,Org line A2,Anson,China,Normal,0
+1-672807011,2,Completed+Closed,24:43.0,Org line A2,Anson,China,Normal,0
+1-744092373,0,Accepted+In Progress,33:09.0,Org line A2,Jitender,United Kingdom,Attribute,1
+1-744073361,1,Accepted+Wait,34:09.0,Org line A2,Maciej,POLAND,Normal,0
+1-744092373,1,Accepted+Wait,41:36.0,Org line F,Ryouhei,United Kingdom,Attribute,1
+1-744096281,0,Accepted+In Progress,44:22.0,Org line A2,Avvaru,Sweden,Normal,0
+1-744055890,3,Accepted+Wait,44:27.0,Org line A2,Timothy,United Kingdom,Rework,1
+1-744055890,1,Accepted+Wait,44:27.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-744103178,0,Accepted+In Progress,18:00.0,Org line V2,Lars,Sweden,Normal,0
+1-744088765,0,Accepted+In Progress,07:17.0,Org line B,Aneesh V,INDIA,Normal,0
+1-744088765,1,Accepted+In Progress,24:06.0,Org line B,Aneesh V,INDIA,Normal,0
+1-744088047,0,Accepted+In Progress,35:23.0,Org line C,Olivier,France,Normal,0
+1-744207783,0,Accepted+In Progress,38:58.0,Org line C,Börje,Sweden,Normal,0
+1-744088047,1,Queued+Awaiting Assignment,54:34.0,Org line C,Olivier,France,Normal,0
+1-744165506,0,Accepted+In Progress,39:44.0,Org line C,Mikael,Sweden,Normal,0
+1-744321601,0,Queued+Awaiting Assignment,56:56.0,Org line A2,Henrique,Brazil,Normal,0
+1-744436815,0,Accepted+In Progress,29:31.0,Org line G3,Ewa,POLAND,Normal,0
+1-744436815,1,Completed+Closed,30:04.0,Org line G3,Ewa,POLAND,Normal,0
+1-744771526,0,Random activity 1,27:18.0,Random_28,Random_28,Random_28,Insert,1
+1-720069371,6,Completed+Closed,55:22.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-744617566,0,Accepted+In Progress,57:22.0,Org line A2,Mats,Sweden,Attribute,1
+1-744771526,1,Accepted+In Progress,27:18.0,Org line G3,Ewa,POLAND,Insert,1
+1-744771526,2,Completed+Closed,28:52.0,Org line G3,Ewa,POLAND,Insert,1
+1-732357301,2,Accepted+In Progress,05:13.0,Org line C,Rohit,Sweden,Normal,0
+1-743606342,1,Accepted+In Progress,09:14.0,Org line C,Arun,Sweden,Attribute,1
+1-743606342,2,Queued+Awaiting Assignment,11:03.0,Org line C,Martin,Sweden,Attribute,1
+1-732357301,3,Completed+Closed,27:02.0,Org line C,Rohit,Sweden,Normal,0
+1-728641711,3,Completed+Closed,51:02.0,Org line C,Stephen,USA,Normal,0
+1-744849671,0,Accepted+In Progress,03:41.0,Org line G4,Marco,Sweden,Normal,0
+1-744849671,1,Accepted+Wait,04:27.0,Org line G4,Marco,Sweden,Normal,0
+1-744950276,0,Accepted+In Progress,32:58.0,Org line A2,Niklas,Sweden,Normal,0
+1-745019964,0,Accepted+In Progress,05:22.0,Org line C,Pascal,Sweden,Normal,0
+1-745061554,0,Accepted+In Progress,38:49.0,Org line C,Mikael,Sweden,Normal,0
+1-745061554,1,Accepted+Wait,49:54.0,Org line C,Mikael,Sweden,Normal,0
+1-744165506,1,Accepted+Wait,50:04.0,Org line C,Mikael,Sweden,Normal,0
+1-745082895,0,Accepted+In Progress,58:00.0,Org line C,Ramith,INDIA,Normal,0
+1-744812279,0,Accepted+In Progress,27:12.0,Org line C,Rakesh,Sweden,Normal,0
+1-744812279,2,Accepted+In Progress,27:12.0,Org line C,Rakesh,Sweden,Rework,1
+1-744812279,1,Completed+Closed,33:42.0,Org line C,Rakesh,Sweden,Normal,0
+1-744812279,3,Completed+Closed,33:42.0,Org line C,Rakesh,Sweden,Rework,1
+1-738300041,9,Queued+Awaiting Assignment,44:34.0,Org line C,Prasad,Sweden,Rework,1
+1-738300041,2,Queued+Awaiting Assignment,44:34.0,Org line C,Prasad,Sweden,Normal,0
+1-738300041,3,Accepted+In Progress,02:01.0,Org line C,Jitender,Sweden,Normal,0
+1-738300041,4,Queued+Awaiting Assignment,05:42.0,Org line C,Prasad,Sweden,Normal,0
+1-738300041,5,Accepted+In Progress,06:03.0,Org line C,Jitender,Sweden,Normal,0
+1-738300041,6,Queued+Awaiting Assignment,13:32.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-738300041,7,Accepted+In Progress,28:16.0,Org line A2,Przemyslaw,POLAND,Normal,0
+1-738300041,10,Queued+Awaiting Assignment,37:51.0,Org line C,Prasad,Sweden,Rework,1
+1-738300041,11,Accepted+In Progress,43:51.0,Org line C,Jitender,Sweden,Rework,1
+1-745380511,0,Accepted+In Progress,50:30.0,Org line C,Devakumar,INDIA,Normal,0
+1-745402650,0,Accepted+In Progress,13:45.0,Org line C,Peter,Sweden,Normal,0
+1-745418021,0,Accepted+In Progress,16:00.0,Org line C,Kjell,Sweden,Normal,0
+1-745402650,1,Accepted+Wait,20:04.0,Org line C,Peter,Sweden,Normal,0
+1-738300041,12,Queued+Awaiting Assignment,34:36.0,Org line C,Pratap,INDIA,Rework,1
+1-738300041,13,Accepted+In Progress,51:25.0,Org line C,Joacim,Sweden,Rework,1
+1-738300041,14,Accepted+Wait,58:54.0,Org line C,Joacim,Sweden,Rework,1
+1-745546187,0,Accepted+In Progress,09:47.0,Org line A2,Ian,United Kingdom,Normal,0
+1-745542401,0,Accepted+In Progress,39:29.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-745590142,0,Accepted+In Progress,47:11.0,Org line A2,Åsa,Sweden,Normal,0
+1-539000895,1,Completed+Closed,57:12.0,Org line C,Jonas,Sweden,Normal,0
+1-539000895,3,Completed+Closed,57:12.0,Org line C,Jonas,Sweden,Rework,1
+1-745647199,0,Accepted+In Progress,44:06.0,Org line G4,Christoffer,Sweden,Normal,0
+1-745647199,1,Accepted+Wait,44:50.0,Org line G4,Christoffer,Sweden,Normal,0
+1-745625831,0,Accepted+In Progress,53:46.0,Org line C,Steve,Belgium,Normal,0
+1-745770713,0,Queued+Awaiting Assignment,11:24.0,Org line G1,Gunilla,Sweden,Normal,0
+1-713106267,1,Accepted+In Progress,33:02.0,Org line B,Thiago,Brazil,Normal,0
+1-713106267,2,Completed+Closed,46:34.0,Org line B,Thiago,Brazil,Normal,0
+1-703540157,13,Accepted+In Progress,58:03.0,Org line B,Rijin,INDIA,Normal,0
+1-719999163,1,Completed+Closed,48:11.0,Org line G4,Murali,INDIA,Attribute,1
+1-745886321,0,Accepted+In Progress,14:26.0,Org line A2,Avvaru,Sweden,Normal,0
+1-746318085,0,Random activity 4,35:29.0,Random_30,Random_30,Random_30,Insert,1
+1-745770713,1,Accepted+In Progress,56:17.0,Org line G1,Peter,Sweden,Normal,0
+1-745770713,2,Completed+Closed,58:42.0,Org line G1,Peter,Sweden,Normal,0
+1-745966287,0,Accepted+In Progress,17:46.0,Org line A2,Vikrant,Sweden,Normal,0
+1-745991925,0,Accepted+In Progress,18:12.0,Org line A2,Niklas,Sweden,Normal,0
+1-743877727,2,Accepted+In Progress,25:43.0,Org line C,Emil,Sweden,Normal,0
+1-740597491,7,Queued+Awaiting Assignment,55:45.0,Org line C,Olivier,France,Normal,0
+1-746018291,0,Accepted+In Progress,08:08.0,Org line C,Steven,Belgium,Normal,0
+1-745546187,1,Accepted+In Progress,08:10.0,Org line A2,Ian,United Kingdom,Normal,0
+1-746018291,1,Queued+Awaiting Assignment,10:58.0,Org line C,Steven,Belgium,Normal,0
+1-746018381,0,Accepted+In Progress,12:56.0,Org line C,Steven,Belgium,Normal,0
+1-689160381,2,Completed+Closed,16:51.0,Org line A2,Stefan,Sweden,Normal,0
+1-746049852,0,Random activity 4,18:54.0,Random_29,Random_29,Random_29,Insert,1
+1-746018381,1,Queued+Awaiting Assignment,18:57.0,Org line C,Steven,Belgium,Normal,0
+1-745546187,2,Accepted+Assigned,24:45.0,Org line A2,Ian,United Kingdom,Normal,0
+1-746018891,0,Accepted+In Progress,35:28.0,Org line B,Marilyn,Australia,Normal,0
+1-746018891,1,Queued+Awaiting Assignment,36:46.0,Org line B,Marilyn,Australia,Normal,0
+1-746018291,2,Accepted+In Progress,37:15.0,Org line C,Robert,Belgium,Normal,0
+1-746018381,2,Accepted+In Progress,37:38.0,Org line C,Robert,Belgium,Normal,0
+1-745995763,0,Queued+Awaiting Assignment,42:10.0,Org line C,Michael,USA,Normal,0
+1-746057054,0,Accepted+In Progress,49:07.0,Org line G3,Krzysztof,Sweden,Attribute,1
+1-746009843,0,Accepted+In Progress,49:57.0,Org line A2,Kristina,Sweden,Attribute,1
+1-746011641,0,Accepted+In Progress,04:19.0,Org line C,Rakesh,Sweden,Normal,0
+1-746049852,1,Accepted+In Progress,18:54.0,Org line G4,Göran,Sweden,Insert,1
+1-746118131,0,Accepted+In Progress,12:42.0,Org line A2,Viktoria,Sweden,Normal,0
+1-746129221,0,Accepted+In Progress,16:49.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-746123906,0,Accepted+In Progress,23:17.0,Org line C,Hineesh,INDIA,Normal,0
+1-746148231,0,Accepted+In Progress,33:40.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-746148231,1,Queued+Awaiting Assignment,34:34.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-746148741,0,Accepted+In Progress,00:49.0,Org line C,Steven,Belgium,Normal,0
+1-746148741,1,Queued+Awaiting Assignment,01:42.0,Org line C,Steven,Belgium,Normal,0
+1-746148741,2,Accepted+In Progress,11:38.0,Org line C,Robert,Belgium,Normal,0
+1-746175541,0,Accepted+In Progress,31:17.0,Org line C,Katia,Belgium,Normal,0
+1-746175541,1,Queued+Awaiting Assignment,32:33.0,Org line C,Katia,Belgium,Normal,0
+1-746205481,0,Accepted+In Progress,14:24.0,Org line C,Els,Belgium,Normal,0
+1-739695919,8,Completed+Closed,22:25.0,Org line C,Pascal,Sweden,Normal,0
+1-746205481,1,Queued+Awaiting Assignment,25:43.0,Org line C,Els,Belgium,Normal,0
+1-746205481,2,Accepted+In Progress,26:28.0,Org line C,Els,Belgium,Normal,0
+1-746245931,0,Accepted+In Progress,33:30.0,Org line C,Ilona,Belgium,Normal,0
+1-746245931,1,Queued+Awaiting Assignment,36:08.0,Org line C,Ilona,Belgium,Normal,0
+1-746052232,0,Accepted+In Progress,06:45.0,Org line G1,Krystian,United Kingdom,Attribute,1
+1-746052232,1,Accepted+Assigned,27:43.0,Org line G4,Ian,United Kingdom,Attribute,1
+1-743606342,3,Accepted+In Progress,41:47.0,Org line C,Aurelien,France,Attribute,1
+1-743606342,4,Queued+Awaiting Assignment,48:13.0,Org line C,Bruno,France,Attribute,1
+1-743606342,5,Accepted+In Progress,51:13.0,Org line C,Aurelien,France,Attribute,1
+1-743606342,6,Queued+Awaiting Assignment,51:43.0,Org line C,Praveen,France,Attribute,1
+1-746246761,0,Accepted+In Progress,06:56.0,Org line C,Leif,Sweden,Normal,0
+1-719199254,2,Accepted+In Progress,30:33.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-719199254,3,Completed+Closed,32:44.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-719199254,4,Accepted+In Progress,32:48.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-719199254,5,Completed+Closed,32:55.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-746318085,1,Accepted+In Progress,35:29.0,Org line C,Emmanuel,Belgium,Insert,1
+1-746341261,0,Queued+Awaiting Assignment,52:15.0,Org line C,Alain,Belgium,Normal,0
+1-746331441,0,Queued+Awaiting Assignment,00:04.0,Org line C,Alain,Belgium,Normal,0
+1-746306469,0,Accepted+In Progress,18:20.0,Org line G4,Roland,Sweden,Normal,0
+1-746534906,0,Accepted+In Progress,43:33.0,Org line C,Jubin,INDIA,Normal,0
+1-746018891,2,Queued+Awaiting Assignment,11:01.0,Org line C,John,Australia,Normal,0
+1-746538521,0,Queued+Awaiting Assignment,36:39.0,Org line C,Alain,Belgium,Normal,0
+1-746538521,1,Accepted+In Progress,38:58.0,Org line A2,Tomasz,POLAND,Normal,0
+1-746538521,2,Queued+Awaiting Assignment,40:06.0,Org line C,Alain,Belgium,Normal,0
+1-746464884,0,Accepted+In Progress,20:34.0,Org line C,Vesa,Sweden,Normal,0
+1-746464884,1,Queued+Awaiting Assignment,24:02.0,Org line C,Vesa,Sweden,Normal,0
+1-688515611,2,Accepted+In Progress,31:41.0,Org line G4,David,Sweden,Normal,0
+1-688515611,3,Completed+Closed,31:52.0,Org line G4,David,Sweden,Normal,0
+1-742383139,2,Accepted+In Progress,35:00.0,Org line G4,David,Sweden,Normal,0
+1-742383139,3,Completed+Closed,35:01.0,Org line G4,David,Sweden,Normal,0
+1-746464884,2,Accepted+In Progress,38:19.0,Org line C,Amitabh,Sweden,Normal,0
+1-686557724,2,Accepted+In Progress,40:21.0,Org line G4,David,Sweden,Normal,0
+1-686557724,3,Completed+Closed,40:23.0,Org line G4,David,Sweden,Normal,0
+1-641083987,3,Accepted+In Progress,54:33.0,Org line G4,David,Sweden,Insert,1
+1-641083987,4,Completed+Closed,54:35.0,Org line G4,David,Sweden,Insert,1
+1-746599948,0,Accepted+In Progress,24:17.0,Org line A2,Ian,United Kingdom,Normal,0
+1-746599948,1,Accepted+Assigned,24:51.0,Org line A2,Ian,United Kingdom,Normal,0
+1-719199254,7,Accepted+In Progress,33:38.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-719199254,8,Completed+Closed,34:01.0,Org line G4,Harshavardhan,Sweden,Late,1
+1-746582460,0,Accepted+In Progress,19:42.0,Org line A2,Ian,United Kingdom,Normal,0
+1-746582460,1,Accepted+Assigned,46:59.0,Org line A2,Ian,United Kingdom,Normal,0
+1-707300171,8,Accepted+In Progress,45:11.0,Org line C,Jitender,Sweden,Normal,0
+1-746662619,0,Accepted+In Progress,51:43.0,Org line G3,Ewa,POLAND,Normal,0
+1-707300171,9,Accepted+Wait,01:19.0,Org line C,Jitender,Sweden,Normal,0
+1-743091195,2,Accepted+In Progress,51:16.0,Org line B,Marise,Brazil,Normal,0
+1-743091195,3,Queued+Awaiting Assignment,54:10.0,Org line A2,Carlos,Brazil,Normal,0
+1-622783644,0,Accepted+In Progress,01:25.0,Org line C,Sameer,INDIA,Late,1
+1-622783644,3,Completed+Closed,02:02.0,Org line C,Sameer,INDIA,Late,1
+1-746854891,0,Accepted+In Progress,29:52.0,Org line C,Peter,Sweden,Normal,0
+1-746973401,0,Accepted+In Progress,45:12.0,Org line A2,Mariusz,POLAND,Normal,0
+1-747011587,0,Accepted+In Progress,02:31.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747011587,1,Accepted+Assigned,03:20.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747003445,0,Accepted+In Progress,10:38.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747003445,1,Accepted+Assigned,17:06.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747042322,0,Accepted+In Progress,21:23.0,Org line C,Timothy,USA,Normal,0
+1-747011867,0,Accepted+In Progress,54:11.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747011867,1,Accepted+Assigned,57:07.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747064611,0,Accepted+In Progress,08:41.0,Org line C,Stephen,USA,Normal,0
+1-746662619,1,Completed+Closed,10:30.0,Org line G3,Ewa,POLAND,Normal,0
+1-747064611,1,Queued+Awaiting Assignment,24:02.0,Org line C,Stephen,USA,Normal,0
+1-747064611,2,Accepted+In Progress,24:03.0,Org line C,Kymaria,USA,Normal,0
+1-747064611,3,Queued+Awaiting Assignment,14:23.0,Org line C,Stephen,USA,Normal,0
+1-747090194,0,Accepted+In Progress,22:08.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747090194,1,Accepted+Assigned,29:21.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747090194,2,Accepted+Assigned,29:50.0,Org line A2,Ian,United Kingdom,Normal,0
+1-747147181,0,Accepted+In Progress,17:14.0,Org line C,Daniel,Sweden,Normal,0
+1-747064611,4,Accepted+In Progress,57:59.0,Org line C,Stephen,USA,Normal,0
+1-747173974,0,Accepted+In Progress,21:35.0,Org line C,Thomas,USA,Normal,0
+1-728461114,2,Completed+Closed,14:41.0,Org line C,Tarun,Sweden,Normal,0
+1-728461114,5,Completed+Closed,14:41.0,Org line C,Tarun,Sweden,Rework,1
+1-746464884,3,Random activity 3,56:12.1,Random_31,Random_31,Random_31,Insert,1
+1-747371909,0,Accepted+In Progress,15:02.0,Org line C,-,INDIA,Normal,0
+1-747371909,1,Queued+Awaiting Assignment,24:38.0,Org line C,-,INDIA,Normal,0
+1-747372912,1,Accepted+In Progress,37:29.0,Org line C,Kim,Sweden,Late,1
+1-747371909,2,Accepted+In Progress,52:57.0,Org line C,Rajkishore,INDIA,Normal,0
+1-747371909,3,Queued+Awaiting Assignment,55:08.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-747473781,0,Queued+Awaiting Assignment,13:29.0,Org line A2,Henrik,Sweden,Normal,0
+1-747473781,1,Accepted+In Progress,13:30.0,Org line A2,Piotr,POLAND,Normal,0
+1-747473781,2,Queued+Awaiting Assignment,15:03.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-747473781,3,Accepted+In Progress,15:04.0,Org line A2,Piotr,POLAND,Normal,0
+1-747473781,4,Queued+Awaiting Assignment,16:45.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-747371909,4,Accepted+In Progress,56:03.0,Org line C,Stefan,Sweden,Normal,0
+1-747371909,5,Queued+Awaiting Assignment,58:23.0,Org line C,Peter,Sweden,Normal,0
+1-747371909,6,Accepted+In Progress,58:56.0,Org line C,Stefan,Sweden,Normal,0
+1-747371909,7,Accepted+Assigned,00:21.0,Org line C,Rajesh Kumar,INDIA,Normal,0
+1-747590161,0,Accepted+In Progress,14:04.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-747473781,5,Accepted+In Progress,23:24.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-747473781,6,Queued+Awaiting Assignment,24:44.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-747473781,7,Accepted+In Progress,25:01.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-747473781,8,Accepted+Assigned,25:19.0,Org line A2,Pawel,POLAND,Normal,0
+1-747681195,0,Accepted+In Progress,39:28.0,Org line C,Bhaskar,INDIA,Normal,0
+1-747681195,1,Queued+Awaiting Assignment,47:57.0,Org line C,Bhaskar,INDIA,Normal,0
+1-747681195,2,Queued+Awaiting Assignment,17:16.0,Org line C,Praveen,Sweden,Normal,0
+1-746011641,1,Completed+Closed,18:48.0,Org line C,Rakesh,Sweden,Normal,0
+1-747770943,0,Accepted+In Progress,37:35.0,Org line C,Cyril,France,Normal,0
+1-747689792,0,Accepted+In Progress,00:48.0,Org line A2,Piotr,POLAND,Normal,0
+1-747689792,1,Accepted+Assigned,58:05.0,Org line A2,Piotr,POLAND,Normal,0
+1-747689792,2,Accepted+Wait,00:16.0,Org line A2,Piotr,POLAND,Normal,0
+1-748028911,0,Accepted+In Progress,14:31.0,Org line C,Louis,France,Normal,0
+1-748028911,1,Accepted+In Progress,20:58.0,Org line C,Louis,France,Normal,0
+1-746534906,1,Accepted+Assigned,58:36.0,Org line C,Jubin,INDIA,Normal,0
+1-738322892,4,Accepted+In Progress,12:20.0,Org line C,Peter,Sweden,Insert,1
+1-738322892,5,Queued+Awaiting Assignment,14:25.0,Org line C,Rajesh Kumar,INDIA,Insert,1
+1-738300041,15,Accepted+In Progress,28:28.0,Org line A2,Przemyslaw,POLAND,Rework,1
+1-738300041,16,Queued+Awaiting Assignment,37:42.0,Org line C,Gitt,Sweden,Rework,1
+1-748341571,0,Accepted+Assigned,39:28.0,Org line A2,Ian,United Kingdom,Normal,0
+1-748373500,0,Accepted+In Progress,58:58.0,Org line A2,Rosemary,United Kingdom,Normal,0
+1-748373500,1,Accepted+Wait,01:20.0,Org line A2,Rosemary,United Kingdom,Normal,0
+1-738300041,17,Accepted+In Progress,26:41.0,Org line C,Urban,Sweden,Rework,1
+1-707300171,10,Completed+Closed,32:42.0,Org line C,Jitender,Sweden,Normal,0
+1-748438405,0,Accepted+In Progress,57:53.0,Org line G3,Ewa,POLAND,Normal,0
+1-748414511,0,Accepted+In Progress,01:04.0,Org line V2,Björn,Sweden,Normal,0
+1-748438405,1,Completed+Closed,03:02.0,Org line G3,Ewa,POLAND,Normal,0
+1-748341571,1,Accepted+Wait,15:17.0,Org line A2,Ian,United Kingdom,Normal,0
+1-738322892,6,Random activity 3,16:44.6,Random_26,Random_26,Random_26,Insert,1
+1-746123906,1,Completed+Closed,19:21.0,Org line C,Hineesh,INDIA,Normal,0
+1-748432219,0,Accepted+In Progress,19:48.0,Org line A2,Fiona,China,Normal,0
+1-748341709,2,Accepted+Assigned,24:05.0,Org line A2,Ian,United Kingdom,Rework,1
+1-748341709,0,Accepted+Assigned,24:05.0,Org line A2,Ian,United Kingdom,Normal,0
+1-748341709,3,Accepted+Wait,24:30.0,Org line A2,Ian,United Kingdom,Rework,1
+1-748341709,1,Accepted+Wait,24:30.0,Org line A2,Ian,United Kingdom,Normal,0
+1-746534906,2,Accepted+In Progress,14:38.0,Org line C,Vaibhav,Sweden,Normal,0
+1-748531941,0,Accepted+In Progress,14:43.0,Org line C,Christer,Sweden,Normal,0
+1-732289301,3,Accepted+In Progress,24:08.0,Org line C,Rajkishore,INDIA,Normal,0
+1-732289301,4,Completed+Closed,24:42.0,Org line C,Rajkishore,INDIA,Normal,0
+1-748531941,1,Accepted+Assigned,28:09.0,Org line C,Christer,Sweden,Normal,0
+1-746464884,4,Accepted+In Progress,30:28.0,Org line C,Amitabh,Sweden,Insert,1
+1-743310191,1,Accepted+In Progress,40:20.0,Org line C,Frederic,France,Normal,0
+1-738322892,7,Accepted+In Progress,17:45.0,Org line C,Rajesh Kumar,INDIA,Insert,1
+1-742296921,0,Accepted+In Progress,28:14.0,Org line C,Vaibhav,Sweden,Late,1
+1-738300041,18,Queued+Awaiting Assignment,29:42.0,Org line C,Els,Belgium,Rework,1
+1-742296921,3,Completed+Closed,12:41.0,Org line C,Vaibhav,Sweden,Late,1
+1-748720121,0,Accepted+In Progress,14:50.0,Org line C,Peter,Belgium,Normal,0
+1-748764090,0,Accepted+In Progress,13:25.0,Org line C,Tarun,Sweden,Normal,0
+1-748801231,0,Accepted+In Progress,11:09.0,Org line A2,Ryou,Sweden,Attribute,1
+1-748843986,0,Accepted+In Progress,17:41.0,Org line G4,Katarina,Sweden,Normal,0
+1-748947671,0,Accepted+In Progress,35:04.0,Org line A2,Ilona,Sweden,Attribute,1
+1-748947671,1,Accepted+Assigned,38:01.0,Org line G4,Peter,Sweden,Attribute,1
+1-738300041,19,Accepted+Assigned,34:38.0,Org line C,Jo,Belgium,Rework,1
+1-738300041,20,Accepted+In Progress,46:31.0,Org line C,Els,Belgium,Rework,1
+1-738300041,21,Queued+Awaiting Assignment,48:56.0,Org line C,Els,Belgium,Rework,1
+1-738300041,22,Accepted+Assigned,50:34.0,Org line C,Lars,Sweden,Rework,1
+1-699010040,1,Completed+Closed,55:42.0,Org line C,Christer,Sweden,Normal,0
+1-749042472,0,Accepted+In Progress,49:33.0,Org line G4,Christer,Sweden,Normal,0
+1-749119026,0,Accepted+In Progress,31:52.0,Org line C,Praveen,Sweden,Normal,0
+1-749119026,1,Queued+Awaiting Assignment,39:28.0,Org line C,Praveen,Sweden,Normal,0
+1-603798757,1,Completed+Closed,07:40.0,Org line C,Anup,INDIA,Normal,0
+1-577996886,5,Accepted+In Progress,26:26.0,Org line C,Anup,INDIA,Early,1
+1-577996886,6,Completed+Closed,26:40.0,Org line C,Anup,INDIA,Early,1
+1-739633778,4,Accepted+In Progress,32:48.0,Org line C,Marcin,POLAND,Late,1
+1-739633778,5,Accepted+Assigned,33:33.0,Org line C,Diogo,Brazil,Late,1
+1-747681195,3,Queued+Awaiting Assignment,33:34.0,Org line C,Martin,Sweden,Normal,0
+1-749119026,2,Queued+Awaiting Assignment,37:16.0,Org line C,Martin,Sweden,Normal,0
+1-749112097,0,Accepted+In Progress,47:18.0,Org line C,Christer,Sweden,Normal,0
+1-642846054,2,Completed+Closed,53:24.0,Org line C,Ramith,INDIA,Normal,0
+1-744088047,2,Accepted+In Progress,21:56.0,Org line C,Mathias,Sweden,Normal,0
+1-749184198,0,Accepted+In Progress,41:45.0,Org line C,Anson,Sweden,Attribute,1
+1-749162875,0,Accepted+In Progress,51:33.0,Org line A2,Hongming,Sweden,Normal,0
+1-733562890,6,Accepted+In Progress,55:27.0,Org line C,Tomas,Sweden,Insert,1
+1-733562890,7,Completed+Closed,56:10.0,Org line C,Tomas,Sweden,Insert,1
+1-749162875,1,Accepted+Assigned,56:14.0,Org line A2,Hongming,Sweden,Normal,0
+1-749184751,0,Accepted+In Progress,20:24.0,Org line A2,Henrique,Brazil,Normal,0
+1-749184744,0,Accepted+In Progress,30:51.0,Org line A2,Saki,Sweden,Normal,0
+1-749184198,1,Accepted+Wait,31:00.0,Org line A2,Saki,Sweden,Attribute,1
+1-749184744,1,Accepted+Wait,31:07.0,Org line A2,Saki,Sweden,Normal,0
+1-749285083,0,Accepted+In Progress,37:53.0,Org line G4,Christoffer,Sweden,Normal,0
+1-749285250,0,Accepted+In Progress,43:46.0,Org line G4,Christoffer,Sweden,Normal,0
+1-749285407,0,Accepted+In Progress,48:42.0,Org line G4,Christoffer,Sweden,Normal,0
+1-572730349,0,Accepted+In Progress,48:45.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-572730349,1,Completed+Closed,51:16.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-749119026,3,Accepted+In Progress,52:44.0,Org line C,Christian,Sweden,Normal,0
+1-726808501,1,Completed+Closed,56:52.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-749184839,0,Accepted+In Progress,02:51.0,Org line A2,Ian,United Kingdom,Normal,0
+1-749290225,0,Accepted+In Progress,04:39.0,Org line G4,Erik,Sweden,Normal,0
+1-749184839,1,Accepted+Assigned,05:35.0,Org line A2,Ian,United Kingdom,Normal,0
+1-749306975,0,Accepted+Wait,15:50.0,Org line A2,Saki,Sweden,Normal,0
+1-749119026,4,Queued+Awaiting Assignment,31:52.0,Org line C,Martin,Sweden,Normal,0
+1-653254236,2,Completed+Closed,34:17.0,Org line A2,Miroslaw,POLAND,Normal,0
+1-749313527,2,Accepted+In Progress,59:36.0,Org line A2,Timothy,United Kingdom,Rework,1
+1-749313527,0,Accepted+In Progress,59:36.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-539083171,3,Completed+Closed,00:04.0,Org line G4,Katarina,Sweden,Insert,1
+1-749313527,3,Accepted+Wait,07:31.0,Org line A2,Timothy,United Kingdom,Rework,1
+1-749313527,1,Accepted+Wait,07:31.0,Org line A2,Timothy,United Kingdom,Normal,0
+1-749053411,0,Accepted+In Progress,26:49.0,Org line A2,Andrew,United Kingdom,Normal,0
+1-749375951,0,Accepted+In Progress,18:20.0,Org line A2,Britt,Sweden,Normal,0
+1-749375951,1,Accepted+Wait,25:02.0,Org line A2,Britt,Sweden,Normal,0
+1-749402183,0,Accepted+Wait,20:14.0,Org line A2,Joakim,USA,Normal,0
+1-722688743,2,Accepted+In Progress,31:28.0,Org line A2,Anson,China,Normal,0
+1-722688743,3,Completed+Closed,31:54.0,Org line A2,Anson,China,Normal,0
+1-746018891,3,Queued+Awaiting Assignment,51:35.0,Org line B,Marilyn,Australia,Normal,0
+1-749307260,0,Accepted+In Progress,06:53.0,Org line A2,Saki,Sweden,Normal,0
+1-749527522,0,Accepted+In Progress,24:10.0,Org line A2,Saki,Sweden,Normal,0
+1-749550065,0,Accepted+Assigned,42:00.0,Org line A2,Piotr,POLAND,Normal,0
+1-749572004,0,Accepted+In Progress,04:10.0,Org line A2,Saki,Sweden,Normal,0
+1-749572004,2,Accepted+In Progress,04:10.0,Org line A2,Saki,Sweden,Rework,1
+1-749527522,1,Accepted+Wait,04:54.0,Org line A2,Saki,Sweden,Normal,0
+1-749572004,1,Accepted+Wait,12:23.0,Org line A2,Saki,Sweden,Normal,0
+1-749572004,3,Accepted+Wait,12:23.0,Org line A2,Saki,Sweden,Rework,1
+1-746318085,2,Accepted+In Progress,21:36.0,Org line C,Emmanuel,Belgium,Insert,1
+1-749614245,0,Accepted+In Progress,31:30.0,Org line A2,Ian,United Kingdom,Normal,0
+1-749614245,1,Accepted+Assigned,38:26.0,Org line A2,Ian,United Kingdom,Normal,0
+1-726760342,2,Completed+Closed,41:39.0,Org line C,Lars,Sweden,Normal,0
+1-749657781,0,Accepted+Wait,24:35.0,Org line A2,Alan,United Kingdom,Normal,0
+1-749760823,0,Accepted+In Progress,24:01.0,Org line C,Anup,INDIA,Normal,0
+1-749840934,0,Accepted+In Progress,53:02.0,Org line A2,Marc,Belgium,Normal,0
+1-749840934,1,Queued+Awaiting Assignment,55:45.0,Org line A2,Marc,Belgium,Normal,0
+1-749730150,0,Accepted+In Progress,59:07.0,Org line C,Pankaj,Sweden,Normal,0
+1-749747547,0,Accepted+In Progress,59:11.0,Org line G3,Ewa,POLAND,Normal,0
+1-749747547,1,Completed+Closed,00:55.0,Org line G3,Ewa,POLAND,Normal,0
+1-749851721,0,Accepted+In Progress,24:36.0,Org line C,Praveen,Sweden,Normal,0
+1-749851721,1,Queued+Awaiting Assignment,27:03.0,Org line C,Praveen,Sweden,Normal,0
+1-749851721,2,Accepted+In Progress,51:21.0,Org line C,Raja,Sweden,Normal,0
+1-749851721,3,Queued+Awaiting Assignment,52:40.0,Org line C,Martin,Sweden,Normal,0
+1-749821849,0,Accepted+In Progress,53:41.0,Org line A2,Stephen,France,Attribute,1
+1-749871888,0,Accepted+In Progress,32:26.0,Org line A2,Agneta,Sweden,Normal,0
+1-749886936,0,Accepted+In Progress,36:03.0,Org line A2,Janusz,POLAND,Normal,0
+1-749938024,0,Accepted+In Progress,10:33.0,Org line C,Astrid,Belgium,Normal,0
+1-749938024,1,Accepted+Wait,14:10.0,Org line C,Astrid,Belgium,Normal,0
+1-749931426,0,Accepted+In Progress,11:46.0,Org line B,Murali,INDIA,Normal,0
+1-750007716,0,Accepted+In Progress,28:10.0,Org line C,Shamna,INDIA,Normal,0
+1-750007716,1,Queued+Awaiting Assignment,31:39.0,Org line C,Shamna,INDIA,Normal,0
+1-750007716,2,Accepted+In Progress,19:44.0,Org line C,Avronil,INDIA,Normal,0
+1-750007716,3,Accepted+Wait,21:11.0,Org line C,Avronil,INDIA,Normal,0
+1-749851721,4,Queued+Awaiting Assignment,41:22.0,Org line C,Steve,Sweden,Normal,0
+1-749851721,5,Accepted+In Progress,44:38.0,Org line C,Lennart,Sweden,Normal,0
+1-750090643,0,Accepted+In Progress,55:16.0,Org line C,Praveen,Sweden,Normal,0
+1-750106623,0,Accepted+In Progress,04:05.0,Org line C,Tomas,Sweden,Normal,0
+1-750106623,1,Queued+Awaiting Assignment,14:23.0,Org line C,Tomas,Sweden,Normal,0
+1-750090643,1,Queued+Awaiting Assignment,24:06.0,Org line C,Praveen,Sweden,Normal,0
+1-750161066,0,Accepted+In Progress,32:26.0,Org line V2,Åsa,Sweden,Normal,0
+1-750161245,0,Accepted+In Progress,33:16.0,Org line V2,Åsa,Sweden,Normal,0
+1-750161245,1,Accepted+Assigned,35:21.0,Org line V2,Åsa,Sweden,Normal,0
+1-750161066,1,Accepted+Assigned,42:34.0,Org line V2,Åsa,Sweden,Normal,0
+1-750179984,0,Accepted+In Progress,02:09.0,Org line A2,Ian,United Kingdom,Normal,0
+1-750196720,0,Accepted+In Progress,44:47.0,Org line G4,Ingela,Sweden,Normal,0
+1-750209134,0,Accepted+Wait,59:41.0,Org line G1,Amar,INDIA,Attribute,1
+1-750209298,0,Accepted+Wait,05:54.0,Org line A2,Pramod,INDIA,Normal,0
+1-750239221,0,Accepted+In Progress,51:00.0,Org line C,Marcin,POLAND,Normal,0
+1-750255303,0,Accepted+In Progress,40:59.0,Org line G4,Lars-Göran,Sweden,Normal,0
+1-750293610,0,Accepted+In Progress,26:13.0,Org line C,Christoffer,Sweden,Normal,0
+1-750411941,0,Queued+Awaiting Assignment,25:26.0,Org line C,Mohsin,INDIA,Normal,0
+1-750437951,0,Accepted+In Progress,02:19.0,Org line D,Wim,Belgium,Normal,0
+1-750437951,1,Queued+Awaiting Assignment,14:45.0,Org line D,Wim,Belgium,Normal,0
+1-703540157,14,Completed+Closed,36:31.0,Org line B,Rijin,INDIA,Normal,0
+1-738820974,2,Completed+Closed,38:43.0,Org line B,Alice,Brazil,Normal,0
+1-750473129,0,Accepted+In Progress,08:45.0,Org line C,Celine,France,Normal,0
+1-750499270,0,Accepted+In Progress,13:47.0,Org line C,Praveen,Sweden,Normal,0
+1-750499270,1,Queued+Awaiting Assignment,29:08.0,Org line C,Praveen,Sweden,Normal,0
+1-750499270,2,Accepted+In Progress,31:45.0,Org line C,Kreeti,Sweden,Normal,0
+1-750499270,3,Accepted+Assigned,26:11.0,Org line C,Sandeep,Sweden,Normal,0
+1-750499270,4,Accepted+Wait,08:51.0,Org line C,Sandeep,Sweden,Normal,0
+1-750717620,0,Random activity 3,46:21.0,Random_33,Random_33,Random_33,Insert,1
+1-750411941,1,Accepted+In Progress,59:19.0,Org line C,Mohsin,INDIA,Normal,0
+1-750411941,2,Accepted+Wait,05:43.0,Org line C,Mohsin,INDIA,Normal,0
+1-749730150,1,Accepted+Wait,02:06.0,Org line C,Pankaj,Sweden,Normal,0
+1-750717620,1,Accepted+In Progress,46:21.0,Org line C,Peter,Belgium,Insert,1
+1-750717620,2,Accepted+In Progress,47:09.0,Org line C,Peter,Belgium,Insert,1
+1-750411941,3,Queued+Awaiting Assignment,48:40.0,Org line C,Peter,Belgium,Normal,0
+1-750179984,1,Accepted+Assigned,49:12.0,Org line A2,Ian,United Kingdom,Normal,0
+1-750411941,4,Accepted+In Progress,49:42.0,Org line C,Mohsin,INDIA,Normal,0
+1-750411941,5,Accepted+Wait,51:18.0,Org line C,Mohsin,INDIA,Normal,0
+1-750717620,3,Queued+Awaiting Assignment,53:42.0,Org line C,Peter,Belgium,Insert,1
+1-750838075,0,Accepted+In Progress,01:38.0,Org line C,Lars-Ove,Sweden,Normal,0
+1-750823791,0,Accepted+Wait,35:48.0,Org line A2,Alan,United Kingdom,Normal,0
+1-749851721,6,Accepted+Wait,40:54.0,Org line C,Lennart,Sweden,Normal,0
+1-751087171,0,Accepted+In Progress,14:06.0,Org line C,Ranveer,Sweden,Normal,0
+1-751087171,1,Accepted+Wait,18:07.0,Org line C,Ranveer,Sweden,Normal,0
+1-751140095,0,Accepted+In Progress,49:10.0,Org line C,Habib,Sweden,Normal,0
+1-749184751,1,Queued+Awaiting Assignment,21:25.0,Org line A2,Henrique,Brazil,Normal,0
+1-744096281,1,Completed+Closed,23:44.0,Org line A2,Avvaru,Sweden,Normal,0
+1-751197742,0,Accepted+In Progress,44:03.0,Org line C,Johnny,Sweden,Normal,0
+1-747372912,0,Accepted+Assigned,57:35.0,Org line C,Kim,Sweden,Late,1
+1-742295367,2,Accepted+In Progress,29:13.0,Org line G4,Samira,Sweden,Normal,0
+1-681864502,3,Completed+Closed,45:23.0,Org line G4,Samira,Sweden,Late,1
+1-751277838,0,Accepted+In Progress,05:58.0,Org line C,Rolf,Sweden,Normal,0
+1-520705880,2,Completed+Closed,18:46.0,Org line A2,Tomas,Sweden,Normal,0
+1-413665008,1,Completed+Closed,24:46.0,Org line A2,Tomas,Sweden,Attribute,1
+1-402328919,1,Completed+Closed,32:02.0,Org line A2,Tomas,Sweden,Normal,0
+1-751140095,1,Accepted+Assigned,12:26.0,Org line C,Habib,Sweden,Normal,0
+1-751683081,0,Random activity 4,48:03.0,Random_34,Random_34,Random_34,Insert,1
+1-751447190,0,Accepted+In Progress,58:59.0,Org line A2,Yu,China,Normal,0
+1-747147181,1,Queued+Awaiting Assignment,02:03.0,Org line C,Daniel,Sweden,Normal,0
+1-747147181,2,Random activity 1,34:04.5,Random_32,Random_32,Random_32,Insert,1
+1-751457471,0,Accepted+In Progress,43:07.0,Org line A2,Ian,United Kingdom,Normal,0
+1-751457471,1,Accepted+Assigned,43:23.0,Org line A2,Ian,United Kingdom,Normal,0
+1-739695919,9,Accepted+In Progress,10:03.0,Org line C,Pascal,Sweden,Normal,0
+1-739695919,10,Completed+Closed,17:45.0,Org line C,Pascal,Sweden,Normal,0
+1-751492205,0,Accepted+In Progress,48:35.0,Org line A2,Tomas,Sweden,Normal,0
+1-747147181,3,Accepted+In Progress,56:26.0,Org line C,Hampus,Sweden,Insert,1
+1-750717620,4,Accepted+Assigned,01:53.0,Org line C,Kell,Sweden,Insert,1
+1-751461582,0,Accepted+In Progress,05:01.0,Org line A2,Ian,United Kingdom,Normal,0
+1-751461582,3,Accepted+In Progress,05:01.0,Org line A2,Ian,United Kingdom,Rework,1
+1-751461582,4,Accepted+In Progress,13:43.0,Org line A2,Ian,United Kingdom,Rework,1
+1-751461582,1,Accepted+In Progress,13:43.0,Org line A2,Ian,United Kingdom,Normal,0
+1-751461582,5,Accepted+Assigned,15:11.0,Org line A2,Ian,United Kingdom,Rework,1
+1-751461582,2,Accepted+Assigned,15:11.0,Org line A2,Ian,United Kingdom,Normal,0
+1-728470722,3,Accepted+In Progress,18:15.0,Org line A2,Åsa,Sweden,Normal,0
+1-745770713,3,Accepted+In Progress,47:15.0,Org line G1,Peter,Sweden,Normal,0
+1-745770713,4,Queued+Awaiting Assignment,48:57.0,Org line C,Susan,Sweden,Normal,0
+1-745770713,5,Accepted+In Progress,48:58.0,Org line G1,Peter,Sweden,Normal,0
+1-745770713,6,Queued+Awaiting Assignment,49:30.0,Org line C,Susan,Sweden,Normal,0
+1-690458151,1,Completed+Closed,52:12.0,Org line C,Christer,Sweden,Normal,0
+1-689341321,1,Completed+Closed,53:55.0,Org line C,Christer,Sweden,Normal,0
+1-751548681,0,Accepted+Wait,28:01.0,Org line A2,Tomasz,POLAND,Normal,0
+1-751548681,1,Accepted+In Progress,28:15.0,Org line A2,Tomasz,POLAND,Normal,0
+1-751548681,2,Accepted+In Progress,28:48.0,Org line A2,Tomasz,POLAND,Normal,0
+1-751568641,0,Accepted+Wait,42:20.0,Org line A2,Alan,United Kingdom,Normal,0
+1-751548681,3,Accepted+Wait,07:32.0,Org line A2,Tomasz,POLAND,Normal,0
+1-751683081,1,Accepted+In Progress,48:03.0,Org line G4,Charlotta,Sweden,Insert,1
+1-751683081,2,Accepted+Assigned,49:44.0,Org line G4,Charlotta,Sweden,Insert,1
+1-751689562,0,Accepted+In Progress,44:19.0,Org line A2,Anna,POLAND,Normal,0
+1-751729551,0,Accepted+In Progress,24:19.0,Org line A2,Bartlomiej,POLAND,Normal,0
+1-751729551,1,Accepted+In Progress,24:45.0,Org line A2,Bartlomiej,POLAND,Normal,0
+1-751772104,0,Accepted+In Progress,28:51.0,Org line A2,Carla,Brazil,Normal,0
+1-750499270,5,Accepted+In Progress,34:16.0,Org line C,Sandeep,Sweden,Normal,0
+1-750499270,6,Queued+Awaiting Assignment,34:58.0,Org line C,Martin,Sweden,Normal,0
+1-751904239,0,Accepted+In Progress,28:43.0,Org line A2,Cindy,China,Normal,0
+1-750106623,2,Accepted+In Progress,48:13.0,Org line C,Kenneth,Sweden,Normal,0
+1-745770713,7,Accepted+In Progress,01:23.0,Org line C,Susan,Sweden,Normal,0
+1-745770713,8,Accepted+Assigned,02:21.0,Org line C,Lars,Sweden,Normal,0
+1-746049852,2,Accepted+In Progress,12:05.0,Org line G4,Göran,Sweden,Insert,1
+1-750499270,7,Accepted+In Progress,14:05.0,Org line C,Martin,Sweden,Normal,0
+1-728470722,4,Completed+Closed,44:57.0,Org line A2,Åsa,Sweden,Normal,0
+1-742730173,2,Accepted+In Progress,12:09.0,Org line C,Hicham,Sweden,Normal,0
+1-752141231,0,Accepted+In Progress,56:34.0,Org line C,Praveen,Sweden,Normal,0
+1-751772104,1,Accepted+Wait,03:07.0,Org line A2,Carla,Brazil,Normal,0
+1-752141295,0,Accepted+In Progress,03:09.0,Org line A2,Frederic,France,Normal,0
+1-752141295,1,Queued+Awaiting Assignment,05:01.0,Org line A2,Frederic,France,Normal,0
+1-750090643,2,Accepted+In Progress,24:24.0,Org line C,Arun,Sweden,Normal,0
+1-750090643,3,Queued+Awaiting Assignment,26:25.0,Org line C,Martin,Sweden,Normal,0
+1-749184751,2,Accepted+Assigned,29:30.0,Org line A2,Flavio,Brazil,Normal,0
+1-752158401,0,Accepted+Wait,53:31.0,Org line A2,Alan,United Kingdom,Normal,0
+1-738300041,23,Accepted+In Progress,07:15.0,Org line C,Lars,Sweden,Rework,1
+1-750090643,4,Accepted+In Progress,16:44.0,Org line C,Aurelien,France,Normal,0
+1-747147181,4,Accepted+Wait,30:09.0,Org line C,Hampus,Sweden,Insert,1
+1-752184442,0,Accepted+In Progress,40:15.0,Org line A2,Saki,Sweden,Normal,0
+1-752253951,0,Accepted+Wait,50:36.0,Org line A2,Alan,United Kingdom,Normal,0
+1-752141231,1,Queued+Awaiting Assignment,14:44.0,Org line C,Praveen,Sweden,Normal,0
+1-752141231,2,Accepted+In Progress,25:24.0,Org line C,Gaurav,Sweden,Normal,0
+1-752141231,3,Queued+Awaiting Assignment,30:40.0,Org line B,Ganesh,INDIA,Normal,0
+1-752262129,0,Accepted+In Progress,55:15.0,Org line A2,Ian,United Kingdom,Normal,0
+1-749840934,2,Accepted+In Progress,16:10.0,Org line A2,Marc,Belgium,Normal,0
+1-752262129,1,Accepted+Assigned,28:36.0,Org line A2,Ian,United Kingdom,Normal,0
+1-752294640,0,Queued+Awaiting Assignment,38:56.0,Org line C,Jari,Sweden,Normal,0
+1-752294659,0,Accepted+In Progress,45:49.0,Org line C,Peter,Sweden,Normal,0
+1-752294659,1,Queued+Awaiting Assignment,48:43.0,Org line C,Peter,Sweden,Normal,0
+1-752294699,0,Accepted+In Progress,54:30.0,Org line V5,Fredrik,Sweden,Attribute,1
+1-752294699,1,Queued+Awaiting Assignment,56:16.0,Org line D,Vijayakumar,Sweden,Attribute,1
+1-752141231,4,Accepted+In Progress,55:20.0,Org line C,Umar Farooque,Sweden,SkipSequence,1
+1-752141231,5,Queued+Awaiting Assignment,25:26.0,Org line B,Ganesh,INDIA,SkipSequence,1
+1-752195185,0,Accepted+In Progress,31:01.0,Org line G4,Johan,Sweden,Normal,0
+1-752521529,0,Accepted+In Progress,50:47.0,Org line C,Olof,Sweden,Normal,0
+1-752542242,0,Accepted+In Progress,54:47.0,Org line G4,Håkan,Sweden,Normal,0
+1-752580191,0,Accepted+In Progress,06:38.0,Org line A2,Ann-Charlotte,Sweden,Normal,0
+1-752541471,0,Accepted+In Progress,03:18.0,Org line V2,Tonie,Sweden,Normal,0
+1-752629415,0,Queued+Awaiting Assignment,20:22.0,Org line C,-,INDIA,Normal,0
+1-752643661,0,Accepted+In Progress,29:15.0,Org line A2,Britt,Sweden,Normal,0
+1-752141231,6,Accepted+In Progress,40:54.0,Org line B,Anandgiri,INDIA,SkipSequence,1
+1-746118131,1,Queued+Awaiting Assignment,30:05.0,Org line A2,Viktoria,Sweden,Normal,0
+1-745590142,1,Completed+Closed,34:39.0,Org line A2,Åsa,Sweden,Normal,0
+1-750090643,5,Accepted+Wait,55:33.0,Org line C,Aurelien,France,Normal,0
+1-752702791,0,Accepted+In Progress,34:19.0,Org line A2,Ian,United Kingdom,Normal,0
+1-752702791,1,Accepted+Assigned,51:16.0,Org line A2,Ian,United Kingdom,Normal,0
+1-743659911,1,Completed+Closed,19:08.0,Org line C,Lars,Sweden,Normal,0
+1-752643661,1,Accepted+Wait,22:09.0,Org line A2,Britt,Sweden,Normal,0
+1-752828161,0,Accepted+In Progress,08:17.0,Org line C,Celine,France,Normal,0
+1-752828161,1,Queued+Awaiting Assignment,10:24.0,Org line C,Celine,France,Normal,0
+1-751087171,2,Accepted+Wait,21:33.0,Org line C,Ranveer,Sweden,SkipSequence,1
+1-752809009,0,Accepted+In Progress,34:35.0,Org line C,Leif,Sweden,Normal,0
+1-752799402,0,Accepted+In Progress,40:05.0,Org line A2,Ian,United Kingdom,Normal,0
+1-752799402,1,Accepted+Assigned,46:30.0,Org line A2,Ian,United Kingdom,Normal,0
+1-752294659,2,Random activity 2,33:32.1,Random_35,Random_35,Random_35,Insert,1
+1-753034398,0,Accepted+In Progress,48:05.0,Org line C,Atul,INDIA,Normal,0
+1-753055854,0,Accepted+In Progress,59:47.0,Org line C,Vinodhkumar,INDIA,Normal,0
+1-753055854,1,Queued+Awaiting Assignment,10:41.0,Org line C,Vinodhkumar,INDIA,Normal,0
+1-753118981,0,Accepted+In Progress,57:22.0,Org line A2,Linda,Sweden,Normal,0
+1-753119403,0,Accepted+In Progress,00:16.0,Org line B,Linda,Sweden,Attribute,1
+1-753170915,0,Accepted+In Progress,48:05.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753170915,1,Accepted+Assigned,52:18.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753140751,0,Accepted+Assigned,52:54.0,Org line A2,Sandeep,Sweden,Normal,0
+1-753055854,2,Accepted+In Progress,44:14.0,Org line C,Freddy,INDIA,Normal,0
+1-753140751,1,Accepted+In Progress,11:12.0,Org line A2,Sandeep,Sweden,Normal,0
+1-753174310,0,Accepted+In Progress,32:15.0,Org line G4,Erik,Sweden,Normal,0
+1-753174310,1,Accepted+Assigned,38:03.0,Org line G4,Erik,Sweden,Normal,0
+1-753245663,0,Accepted+In Progress,34:16.0,Org line G4,Marc,Belgium,Attribute,1
+1-753244396,0,Accepted+In Progress,39:59.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753244396,1,Accepted+Assigned,40:38.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753244555,0,Accepted+In Progress,44:41.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753244555,1,Accepted+Assigned,47:16.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753244649,0,Accepted+In Progress,56:33.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753287118,0,Accepted+In Progress,56:50.0,Org line C,Fredrik,Sweden,Normal,0
+1-753245663,1,Queued+Awaiting Assignment,01:28.0,Org line C,Marc,Belgium,Attribute,1
+1-753238365,0,Accepted+In Progress,32:42.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-753202887,0,Accepted+In Progress,36:07.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753238365,1,Queued+Awaiting Assignment,56:14.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-753301833,0,Accepted+In Progress,27:00.0,Org line C,Peter,Sweden,Normal,0
+1-753202887,1,Accepted+Assigned,41:29.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753301833,1,Queued+Awaiting Assignment,45:38.0,Org line C,Peter,Sweden,Normal,0
+1-753362545,0,Accepted+In Progress,43:38.0,Org line A2,Celine,Sweden,Attribute,1
+1-753487360,0,Accepted+In Progress,05:17.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-753504966,0,Accepted+In Progress,08:11.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-753487360,1,Queued+Awaiting Assignment,37:22.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-753504966,1,Queued+Awaiting Assignment,37:24.0,Org line C,Ann-Charlotte,Sweden,Normal,0
+1-753569621,0,Accepted+In Progress,06:31.0,Org line C,Ryouhei,Japan,Normal,0
+1-753569621,1,Accepted+In Progress,13:02.0,Org line C,Ryouhei,Japan,Normal,0
+1-752629415,1,Accepted+In Progress,01:15.0,Org line C,Rajendra,INDIA,Normal,0
+1-753646102,0,Accepted+In Progress,47:58.0,Org line C,Thomas,USA,Normal,0
+1-753713441,0,Accepted+In Progress,19:20.0,Org line A2,Amit,INDIA,Normal,0
+1-753504966,2,Accepted+In Progress,40:27.0,Org line C,Mats,Sweden,Normal,0
+1-753504966,3,Queued+Awaiting Assignment,42:50.0,Org line C,Martin,Sweden,Normal,0
+1-753504966,4,Accepted+In Progress,15:01.0,Org line C,Andreas,Sweden,Normal,0
+1-752294659,3,Accepted+Assigned,25:49.0,Org line C,Ruhi,INDIA,Insert,1
+1-752294699,2,Accepted+Assigned,26:54.0,Org line B,Bharath,INDIA,Attribute,1
+1-753301833,2,Accepted+Assigned,27:25.0,Org line C,Rohan,INDIA,Normal,0
+1-740315794,1,Accepted+In Progress,36:02.0,Org line C,John,Sweden,Normal,0
+1-752294659,4,Accepted+Assigned,40:13.0,Org line C,Santosh,INDIA,Insert,1
+1-753504966,5,Accepted+Wait,08:07.0,Org line C,Andreas,Sweden,Normal,0
+1-753768558,0,Accepted+In Progress,25:16.0,Org line A2,Marc,Belgium,Normal,0
+1-753815551,0,Accepted+In Progress,28:12.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753815676,0,Accepted+In Progress,35:58.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753878023,0,Accepted+In Progress,14:07.0,Org line C,Michel,France,Normal,0
+1-749290225,1,Accepted+In Progress,50:28.0,Org line G4,Erik,Sweden,Normal,0
+1-753815551,1,Accepted+Assigned,08:55.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753815676,1,Accepted+Assigned,53:09.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753944613,0,Accepted+In Progress,30:02.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753944613,1,Accepted+Assigned,35:57.0,Org line A2,Ian,United Kingdom,Normal,0
+1-754584941,0,Random activity 2,36:48.0,Random_37,Random_37,Random_37,Insert,1
+1-753244649,1,Accepted+Assigned,36:57.0,Org line A2,Ian,United Kingdom,Normal,0
+1-752541471,1,Accepted+Assigned,51:04.0,Org line V2,Tonie,Sweden,Normal,0
+1-754526611,0,Random activity 3,55:32.0,Random_36,Random_36,Random_36,Insert,1
+1-754168350,1,Accepted+In Progress,27:38.0,Org line C,Praveen,Sweden,Early,1
+1-754350709,0,Accepted+In Progress,42:00.0,Org line A2,Ratikanta,Sweden,Normal,0
+1-754450223,0,Accepted+In Progress,52:23.0,Org line G1,Jenny,Sweden,Normal,0
+1-754450603,0,Accepted+In Progress,53:56.0,Org line G1,Jenny,Sweden,Normal,0
+1-738501821,4,Accepted+Assigned,09:58.0,Org line B,Lena,Sweden,Attribute,1
+1-738520030,2,Accepted+Assigned,10:21.0,Org line C,Marie,Sweden,Normal,0
+1-738520140,2,Accepted+Assigned,10:55.0,Org line C,Marie,Sweden,Normal,0
+1-738520280,2,Accepted+Assigned,11:15.0,Org line C,Marie,Sweden,Normal,0
+1-738520420,2,Accepted+Assigned,11:33.0,Org line C,Marie,Sweden,Normal,0
+1-738520500,2,Accepted+Assigned,11:49.0,Org line C,Marie,Sweden,Normal,0
+1-738554050,2,Accepted+Assigned,12:04.0,Org line C,Marie,Sweden,Normal,0
+1-738554110,2,Accepted+Assigned,12:30.0,Org line C,Marie,Sweden,Late,1
+1-754526611,1,Accepted+In Progress,55:32.0,Org line C,Peter,Sweden,Insert,1
+1-754539158,0,Accepted+In Progress,19:36.0,Org line A2,Ian,United Kingdom,Normal,0
+1-749730150,2,Accepted+In Progress,21:29.0,Org line C,Pankaj,Sweden,Normal,0
+1-754539158,1,Accepted+Assigned,23:56.0,Org line A2,Ian,United Kingdom,Normal,0
+1-754526611,2,Queued+Awaiting Assignment,27:59.0,Org line C,Peter,Sweden,Insert,1
+1-754584941,1,Accepted+In Progress,36:48.0,Org line C,Olle,Sweden,Insert,1
+1-754584941,2,Accepted+Assigned,44:41.0,Org line C,Olle,Sweden,Insert,1
+1-754584941,3,Accepted+In Progress,58:00.0,Org line C,Olle,Sweden,Insert,1
+1-754582299,0,Accepted+In Progress,12:32.0,Org line A2,Ian,United Kingdom,Normal,0
+1-754350709,1,Accepted+Wait,35:33.0,Org line A2,Ratikanta,Sweden,Normal,0
+1-754744405,0,Accepted+In Progress,42:00.0,Org line C,Mats,USA,Normal,0
+1-754582299,1,Accepted+Assigned,57:00.0,Org line A2,Ian,United Kingdom,Normal,0
+1-740618034,3,Accepted+In Progress,05:29.0,Org line G4,Rickard,Sweden,Insert,1
+1-754526611,3,Accepted+In Progress,21:46.0,Org line C,Peter,Sweden,Insert,1
+1-755039071,0,Accepted+In Progress,51:21.0,Org line C,Ryou,Japan,Normal,0
+1-754949761,0,Queued+Awaiting Assignment,34:19.0,Org line B,Srinivasan,INDIA,Normal,0
+1-754949761,1,Accepted+In Progress,35:41.0,Org line B,Rijin,INDIA,Normal,0
+1-753055854,3,Queued+Awaiting Assignment,36:27.0,Org line C,Inger,Sweden,Normal,0
+1-752828161,2,Accepted+In Progress,21:45.0,Org line C,Celine,France,Normal,0
+1-755123451,0,Accepted+In Progress,48:04.0,Org line A2,Flavio,Brazil,Normal,0
+1-755151337,0,Accepted+In Progress,02:19.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-755151337,1,Accepted+Wait,22:35.0,Org line A2,Krzysztof,POLAND,Normal,0
+1-745995763,1,Accepted+Assigned,24:57.0,Org line C,Jennifer,USA,Normal,0
+1-755193882,0,Accepted+In Progress,39:18.0,Org line A2,Ian,United Kingdom,Normal,0
+1-755193882,1,Accepted+Assigned,39:50.0,Org line A2,Ian,United Kingdom,Normal,0
+1-755218095,0,Accepted+In Progress,59:53.0,Org line A2,Ian,United Kingdom,Normal,0
+1-755198841,0,Accepted+In Progress,31:49.0,Org line A2,David,USA,Normal,0
+1-740597491,8,Accepted+In Progress,07:05.0,Org line C,Raphael,France,Normal,0
+1-740597491,9,Queued+Awaiting Assignment,08:59.0,Org line C,Eva,Sweden,Normal,0
+1-755248531,0,Accepted+In Progress,40:56.0,Org line B,Thiago,Brazil,Normal,0
+1-746018891,4,Accepted+In Progress,38:46.0,Org line B,Marilyn,Australia,Normal,0
+1-746018891,5,Queued+Awaiting Assignment,44:04.0,Org line C,John,Australia,Normal,0
+1-755443602,0,Accepted+In Progress,48:12.0,Org line F,Marc,Belgium,Normal,0
+1-755443602,1,Accepted+Assigned,49:11.0,Org line F,Marc,Belgium,Normal,0
+1-755443602,2,Accepted+In Progress,03:55.0,Org line F,Marc,Belgium,Normal,0
+1-755478621,0,Accepted+In Progress,23:55.0,Org line C,Börje,Sweden,Normal,0
+1-755467807,0,Accepted+In Progress,38:08.0,Org line A2,Niklas,Sweden,Normal,0
+1-755467807,1,Queued+Awaiting Assignment,39:44.0,Org line A2,Niklas,Sweden,Normal,0
+1-755467807,2,Accepted+In Progress,42:35.0,Org line A2,Niklas,Sweden,Normal,0
+1-743606342,7,Accepted+In Progress,14:17.0,Org line C,Lars,France,Attribute,1
+1-750106623,3,Accepted+Assigned,14:29.0,Org line C,Tomas,Sweden,Normal,0
+1-750106623,4,Accepted+In Progress,22:30.0,Org line C,Tomas,Sweden,Normal,0
+1-753504966,6,Queued+Awaiting Assignment,50:26.0,Org line C,Shamna,INDIA,Normal,0
+1-755773369,0,Accepted+In Progress,07:28.0,Org line G4,Mattias,Sweden,Attribute,1
+1-754168350,2,Queued+Awaiting Assignment,30:43.0,Org line C,Praveen,Sweden,Early,1
+1-754168350,3,Accepted+In Progress,35:32.0,Org line C,Parbhat,Sweden,Early,1
+1-754168350,0,Accepted+Assigned,36:14.0,Org line C,Ankit,Sweden,Early,1
+1-755797667,0,Accepted+In Progress,39:13.0,Org line C,Eric,Canada,Normal,0
+1-754168350,4,Queued+Awaiting Assignment,17:30.0,Org line C,Martin,Sweden,Early,1
+1-753504966,7,Accepted+In Progress,41:35.0,Org line C,Shamna,INDIA,Normal,0
+1-753504966,8,Accepted+Wait,42:07.0,Org line C,Shamna,INDIA,Normal,0
+1-753504966,9,Queued+Awaiting Assignment,04:18.0,Org line C,Robert,USA,Normal,0
+1-755985697,0,Accepted+In Progress,33:24.0,Org line A2,Ian,United Kingdom,Normal,0
+1-755985697,1,Accepted+Assigned,38:37.0,Org line A2,Ian,United Kingdom,Normal,0
+1-753487360,2,Accepted+In Progress,42:37.0,Org line C,Mats,Sweden,Normal,0
+1-753487360,3,Queued+Awaiting Assignment,43:12.0,Org line C,Martin,Sweden,Normal,0
+1-753487360,4,Accepted+In Progress,56:45.0,Org line A2,Rohan,Sweden,Attribute,1
+1-756111935,0,Accepted+In Progress,06:09.0,Org line G4,Rickard,Sweden,Normal,0
+1-756110987,0,Accepted+In Progress,06:15.0,Org line C,Rakesh,Sweden,Normal,0
+1-756110987,1,Queued+Awaiting Assignment,07:50.0,Org line C,Rakesh,Sweden,Normal,0
+1-756110987,2,Accepted+In Progress,19:22.0,Org line C,Manisha,Sweden,Normal,0
+1-756110987,4,Accepted+In Progress,19:22.0,Org line C,Manisha,Sweden,Rework,1
+1-754949761,2,Accepted+Assigned,28:48.0,Org line B,Sujith,INDIA,Normal,0
+1-753055854,4,Accepted+In Progress,29:39.0,Org line C,Amar,INDIA,Normal,0
+1-756110987,5,Queued+Awaiting Assignment,31:24.0,Org line C,Praveen,Sweden,Rework,1
+1-756110987,3,Queued+Awaiting Assignment,31:24.0,Org line C,Praveen,Sweden,Normal,0
+1-756110987,6,Queued+Awaiting Assignment,23:16.0,Org line C,Martin,Sweden,Rework,1
+1-746464884,5,Accepted+Wait,27:52.0,Org line C,Amitabh,Sweden,Insert,1
+1-754949761,3,Accepted+Wait,53:53.0,Org line B,Sujith,INDIA,Normal,0
+1-742295367,3,Accepted+Wait,25:04.0,Org line G4,Samira,Sweden,Normal,0
+1-753362545,1,Accepted+Wait,48:56.0,Org line F,Britt,Sweden,Attribute,1
+1-753487360,5,Accepted+Wait,52:35.0,Org line C,Andreas,Sweden,Attribute,1
+1-756265856,0,Accepted+In Progress,36:00.0,Org line A2,Ian,United Kingdom,Normal,0
+1-756296231,0,Accepted+In Progress,38:24.0,Org line C,Martin,Sweden,Normal,0
+1-756300970,0,Queued+Awaiting Assignment,39:57.0,Org line C,Peter,Sweden,Normal,0
+1-756265856,1,Accepted+Assigned,45:37.0,Org line A2,Ian,United Kingdom,Normal,0
+1-756296231,1,Accepted+In Progress,50:17.0,Org line C,Martin,Sweden,Normal,0
+1-756296861,0,Accepted+In Progress,15:36.0,Org line V5,Sachin,Sweden,Normal,0
+1-756301789,0,Queued+Awaiting Assignment,53:21.0,Org line C,Peter,Sweden,SkipSequence,1
+1-756484463,0,Accepted+In Progress,58:06.0,Org line C,Neeraj,Sweden,Normal,0
+1-756484463,1,Accepted+Wait,58:47.0,Org line C,Neeraj,Sweden,Normal,0
+1-756484463,2,Accepted+Wait,27:41.0,Org line C,Neeraj,Sweden,Normal,0
+1-753569621,2,Accepted+Wait,54:29.0,Org line C,Ryouhei,Japan,Normal,0
+1-749730150,3,Accepted+Wait,17:57.0,Org line C,Pankaj,Sweden,Normal,0
+1-756603706,0,Accepted+In Progress,00:31.0,Org line A2,Sophie,China,Normal,0
+1-756712218,0,Accepted+In Progress,43:55.0,Org line A2,Paulina,POLAND,Normal,0
+1-756651699,0,Accepted+In Progress,44:56.0,Org line V2,Leif,Sweden,Normal,0
+1-756651699,1,Accepted+In Progress,59:01.0,Org line V2,Leif,Sweden,Normal,0
+1-756712218,1,Queued+Awaiting Assignment,00:37.0,Org line A2,Paulina,POLAND,Normal,0
+1-756651699,2,Accepted+Assigned,20:23.0,Org line G1,Viktoria,Sweden,Attribute,1
+1-756296231,2,Accepted+Assigned,39:13.0,Org line C,Andreas,Sweden,Normal,0
+1-756926423,0,Accepted+In Progress,06:21.0,Org line A2,Przemyslaw,POLAND,Normal,0
+1-756926423,1,Accepted+Wait,06:29.0,Org line A2,Przemyslaw,POLAND,Normal,0
+1-756787020,0,Accepted+In Progress,17:17.0,Org line A2,Michal,POLAND,Normal,0
+1-756296231,3,Accepted+In Progress,20:05.0,Org line C,Andreas,Sweden,Normal,0
+1-756998975,0,Accepted+In Progress,57:27.0,Org line G3,Ewa,POLAND,Normal,0
+1-756998975,2,Accepted+In Progress,57:27.0,Org line G3,Ewa,POLAND,Rework,1
+1-756998975,3,Accepted+In Progress,01:41.0,Org line G3,Ewa,POLAND,Rework,1
+1-756998975,1,Accepted+In Progress,01:41.0,Org line G3,Ewa,POLAND,Normal,0
+1-748843986,1,Accepted+Assigned,27:51.0,Org line G4,Katarina,Sweden,Normal,0
+1-756979533,0,Accepted+Wait,54:37.0,Org line A2,Sumesh,0,Normal,0
+1-757113161,0,Accepted+In Progress,04:18.0,Org line C,Aurelie,France,Normal,0
+1-757113161,2,Accepted+In Progress,04:18.0,Org line C,Aurelie,France,Rework,1
+1-757113161,1,Queued+Awaiting Assignment,10:17.0,Org line C,Aurelie,France,Normal,0
+1-757113161,3,Queued+Awaiting Assignment,10:17.0,Org line C,Aurelie,France,Rework,1
+1-757113161,4,Accepted+In Progress,15:59.0,Org line C,Mikael,Sweden,Rework,1
+1-757096237,0,Accepted+In Progress,26:26.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757096237,1,Accepted+Assigned,31:53.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757154661,0,Queued+Awaiting Assignment,06:30.0,Org line C,-,Sweden,Attribute,1
+1-756301789,1,Accepted+In Progress,05:11.0,Org line C,Per,Sweden,SkipSequence,1
+1-756300970,1,Accepted+In Progress,06:05.0,Org line C,Per,Sweden,Normal,0
+1-745380511,1,Accepted+Wait,31:19.0,Org line C,Devakumar,INDIA,Normal,0
+1-757480343,0,Accepted+In Progress,43:36.0,Org line G4,Ian,United Kingdom,Normal,0
+1-757480762,0,Accepted+In Progress,34:53.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757533524,0,Accepted+In Progress,57:31.0,Org line V2,Conny,Sweden,Normal,0
+1-757564651,0,Accepted+In Progress,19:13.0,Org line C,Peter,Sweden,Normal,0
+1-757564651,1,Queued+Awaiting Assignment,21:08.0,Org line C,Peter,Sweden,Normal,0
+1-757510345,0,Queued+Awaiting Assignment,22:50.0,Org line A2,Anson,China,Normal,0
+1-753245663,2,Accepted+In Progress,31:37.0,Org line C,Ludwig,Belgium,Attribute,1
+1-757154661,1,Accepted+In Progress,39:59.0,Org line F,Stefan,Sweden,Attribute,1
+1-757154661,2,Accepted+Assigned,41:31.0,Org line F,William,Sweden,Attribute,1
+1-752828161,3,Accepted+Assigned,48:38.0,Org line C,Fabrice,France,Normal,0
+1-752294640,1,Accepted+Assigned,51:01.0,Org line C,Maria,Sweden,Normal,0
+1-757154661,3,Accepted+Assigned,51:38.0,Org line F,Mattias,Sweden,Attribute,1
+1-757480762,1,Accepted+In Progress,12:05.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757533524,1,Queued+Awaiting Assignment,34:06.0,Org line V2,Conny,Sweden,Normal,0
+1-757615671,0,Accepted+In Progress,04:59.0,Org line C,Andreas,Sweden,Normal,0
+1-757671923,0,Accepted+In Progress,06:49.0,Org line C,Peter,Belgium,Normal,0
+1-757671923,1,Queued+Awaiting Assignment,08:37.0,Org line C,Peter,Belgium,Normal,0
+1-752294640,2,Accepted+Assigned,15:26.0,Org line C,Maria,Sweden,Normal,0
+1-752294640,3,Queued+Awaiting Assignment,15:27.0,Org line C,William,USA,Normal,0
+1-757671208,0,Accepted+In Progress,23:20.0,Org line C,Robert,USA,Normal,0
+1-757671208,1,Accepted+Wait,24:23.0,Org line C,Robert,USA,Normal,0
+1-757589842,0,Accepted+In Progress,42:26.0,Org line G4,Lars-Göran,Sweden,Normal,0
+1-757671975,0,Accepted+In Progress,05:08.0,Org line C,Peter,Belgium,Normal,0
+1-757671975,1,Queued+Awaiting Assignment,06:16.0,Org line C,Peter,Belgium,Normal,0
+1-754949761,4,Accepted+In Progress,07:26.0,Org line B,Sujith,INDIA,Normal,0
+1-757715045,0,Accepted+In Progress,09:48.0,Org line C,Peter,Belgium,Normal,0
+1-757715045,1,Queued+Awaiting Assignment,10:43.0,Org line C,Peter,Belgium,Normal,0
+1-757715125,0,Accepted+In Progress,12:56.0,Org line C,Peter,Belgium,Normal,0
+1-757715125,1,Queued+Awaiting Assignment,15:39.0,Org line C,Peter,Belgium,Normal,0
+1-757533524,2,Accepted+In Progress,29:10.0,Org line V2,Conny,Sweden,Normal,0
+1-757715285,0,Accepted+In Progress,43:50.0,Org line C,Peter,Belgium,Normal,0
+1-757715285,1,Queued+Awaiting Assignment,45:09.0,Org line C,Peter,Belgium,Normal,0
+1-757715705,0,Accepted+In Progress,47:47.0,Org line C,Peter,Belgium,Normal,0
+1-757715705,1,Queued+Awaiting Assignment,50:01.0,Org line C,Peter,Belgium,Normal,0
+1-757709801,0,Accepted+Wait,00:03.0,Org line A2,Alan,United Kingdom,Normal,0
+1-757793972,0,Accepted+In Progress,00:53.0,Org line A2,Niklas,Sweden,Normal,0
+1-757779170,0,Accepted+In Progress,02:20.0,Org line A2,Jerker,Sweden,Normal,0
+1-754949761,5,Accepted+Wait,21:10.0,Org line B,Sujith,INDIA,Normal,0
+1-757827277,0,Accepted+In Progress,05:11.0,Org line A2,Sumesh,0,Normal,0
+1-748720121,1,Queued+Awaiting Assignment,10:26.0,Org line C,Peter,Belgium,Normal,0
+1-757827277,1,Accepted+In Progress,50:53.0,Org line A2,Sumesh,0,Normal,0
+1-757827277,2,Queued+Awaiting Assignment,56:46.0,Org line A2,Frederic,France,Normal,0
+1-757936055,0,Accepted+In Progress,09:10.0,Org line G4,Adam,Sweden,Normal,0
+1-758090698,0,Accepted+In Progress,50:34.0,Org line A2,Dusan,Sweden,Normal,0
+1-758109531,0,Accepted+In Progress,06:25.0,Org line C,Cyril,France,Normal,0
+1-753245663,3,Accepted+In Progress,45:10.0,Org line C,Lars-Göran,Sweden,Attribute,1
+1-753245663,4,Queued+Awaiting Assignment,48:18.0,Org line C,Marc,Belgium,Attribute,1
+1-757096237,2,Accepted+In Progress,01:55.0,Org line A2,Tomasz,POLAND,Normal,0
+1-757671208,2,Queued+Awaiting Assignment,04:35.0,Org line C,Robert,USA,Normal,0
+1-757671208,3,Accepted+In Progress,05:17.0,Org line C,Kjell,Sweden,Normal,0
+1-753245663,5,Accepted+In Progress,06:59.0,Org line C,Aneesh V,Belgium,Attribute,1
+1-758231571,1,Accepted+In Progress,24:30.0,Org line C,Grzegorz,POLAND,Early,1
+1-758210759,0,Accepted+In Progress,43:03.0,Org line A2,Radoslaw,POLAND,Normal,0
+1-758257831,0,Accepted+In Progress,51:57.0,Org line A2,Stefan,Sweden,Normal,0
+1-758257831,1,Accepted+Wait,54:13.0,Org line A2,Stefan,Sweden,Normal,0
+1-753504966,10,Accepted+In Progress,34:31.0,Org line C,Jagannath,Sweden,Normal,0
+1-747371909,8,Queued+Awaiting Assignment,06:57.0,Org line C,Praveen,Sweden,Normal,0
+1-758346501,0,Accepted+In Progress,42:23.0,Org line C,Wim,Belgium,Normal,0
+1-758346501,1,Accepted+In Progress,18:13.0,Org line C,Wim,Belgium,Normal,0
+1-758235785,0,Accepted+In Progress,26:06.0,Org line C,Jonas,Sweden,Normal,0
+1-758417452,0,Accepted+In Progress,33:44.0,Org line C,Lars,Sweden,Normal,0
+1-758417452,1,Accepted+Wait,43:37.0,Org line C,Lars,Sweden,Normal,0
+1-758488261,0,Accepted+In Progress,33:11.0,Org line C,Richard,Sweden,Normal,0
+1-758488261,1,Queued+Awaiting Assignment,34:09.0,Org line C,Richard,Sweden,Normal,0
+1-758231571,0,Queued+Awaiting Assignment,46:51.0,Org line C,Grzegorz,POLAND,Early,1
+1-758494760,0,Accepted+In Progress,26:46.0,Org line A2,Robert,USA,Attribute,1
+1-758494760,1,Queued+Awaiting Assignment,31:53.0,Org line C,Robert,USA,Attribute,1
+1-758494760,2,Accepted+In Progress,35:25.0,Org line D,Amar,Sweden,Attribute,1
+1-758494760,3,Accepted+In Progress,35:53.0,Org line C,Robert,USA,Attribute,1
+1-758528371,0,Queued+Awaiting Assignment,44:59.0,Org line C,Robert,USA,Normal,0
+1-743809811,1,Queued+Awaiting Assignment,04:04.0,Org line C,Henrik,Sweden,Normal,0
+1-758488261,2,Accepted+In Progress,21:57.0,Org line C,Joakim,Sweden,Normal,0
+1-758488261,3,Queued+Awaiting Assignment,22:04.0,Org line G4,Viktoria,Sweden,Normal,0
+1-757564651,2,Queued+Awaiting Assignment,17:55.0,Org line C,Sten,Sweden,Normal,0
+1-755218095,1,Accepted+Assigned,38:36.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757480762,2,Accepted+Assigned,38:47.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757480343,1,Accepted+Assigned,38:57.0,Org line G4,Ian,United Kingdom,Normal,0
+1-738322892,8,Accepted+In Progress,53:35.0,Org line C,Daniel,Sweden,Insert,1
+1-738322892,9,Queued+Awaiting Assignment,57:33.0,Org line C,Anna,Sweden,Insert,1
+1-747372912,2,Queued+Awaiting Assignment,59:11.0,Org line C,Stefan,Sweden,Late,1
+1-756651699,3,Accepted+Wait,04:22.0,Org line V2,Leif,Sweden,Attribute,1
+1-758488261,4,Accepted+In Progress,06:14.0,Org line C,Christoffer,Sweden,Normal,0
+1-758488261,5,Queued+Awaiting Assignment,06:32.0,Org line G4,Viktoria,Sweden,Normal,0
+1-758488261,6,Accepted+In Progress,06:45.0,Org line G4,Christoffer,Sweden,Normal,0
+1-758231571,2,Accepted+Assigned,26:10.0,Org line C,Krystian,POLAND,Early,1
+1-758719001,0,Accepted+In Progress,38:07.0,Org line C,Christophe,Belgium,Normal,0
+1-758685504,0,Accepted+In Progress,40:06.0,Org line C,Pankaj,Sweden,Normal,0
+1-758672701,0,Accepted+In Progress,41:28.0,Org line A2,Maria,Sweden,Normal,0
+1-758730027,0,Accepted+In Progress,16:48.0,Org line C,Pankaj,Sweden,Normal,0
+1-758763414,0,Accepted+In Progress,42:16.0,Org line C,Pankaj,Sweden,Normal,0
+1-758764831,0,Accepted+In Progress,45:20.0,Org line V2,Bikshamaiah,Sweden,Attribute,1
+1-758685504,1,Accepted+Wait,02:17.0,Org line C,Pankaj,Sweden,Normal,0
+1-758730027,1,Accepted+Wait,08:25.0,Org line C,Pankaj,Sweden,Normal,0
+1-758781027,0,Accepted+In Progress,43:56.0,Org line G4,Bharath,Sweden,Normal,0
+1-758784721,0,Accepted+In Progress,52:07.0,Org line A2,Ian,United Kingdom,Normal,0
+1-758781027,1,Accepted+Assigned,52:38.0,Org line G4,Bharath,Sweden,Normal,0
+1-758784721,1,Accepted+Assigned,53:26.0,Org line A2,Ian,United Kingdom,Normal,0
+1-752141231,7,Queued+Awaiting Assignment,56:52.0,Org line A2,Britt,Sweden,SkipSequence,1
+1-758784862,0,Accepted+In Progress,02:35.0,Org line D,Aurelie,Sweden,Attribute,1
+1-758719001,1,Accepted+Wait,04:54.0,Org line C,Christophe,Belgium,Normal,0
+1-758849852,0,Accepted+In Progress,19:34.0,Org line G4,Rickard,Sweden,Normal,0
+1-758914871,0,Accepted+In Progress,39:26.0,Org line A2,Ian,United Kingdom,Normal,0
+1-758914871,1,Accepted+Assigned,41:06.0,Org line A2,Ian,United Kingdom,Normal,0
+1-757096237,3,Accepted+Wait,43:04.0,Org line A2,Tomasz,POLAND,Normal,0
+1-757480343,2,Queued+Awaiting Assignment,18:38.0,Org line G4,Ing-Marie,Sweden,Normal,0
+1-758989918,0,Accepted+In Progress,29:30.0,Org line C,Robert,USA,Normal,0
+1-758989918,1,Accepted+In Progress,03:20.0,Org line C,Jay,USA,SkipSequence,1
+1-758976470,0,Accepted+In Progress,03:24.0,Org line C,Andreas,Sweden,Normal,0
+1-752294659,5,Accepted+In Progress,19:47.0,Org line C,Santosh,INDIA,Insert,1
+1-758983319,0,Accepted+In Progress,38:15.0,Org line C,Jörgen,Sweden,Normal,0
+1-745995763,2,Accepted+Assigned,27:00.0,Org line C,Jennifer,USA,Normal,0
+1-759020352,0,Accepted+In Progress,26:45.0,Org line C,Kåre,Sweden,Normal,0
+1-759255152,0,Random activity 1,36:37.0,Random_38,Random_38,Random_38,Insert,1
+1-758763414,1,Accepted+Wait,00:00.0,Org line C,Pankaj,Sweden,Normal,0
+1-758784862,1,Accepted+Wait,16:11.0,Org line C,Rohit,Sweden,Attribute,1
+1-759169644,0,Accepted+In Progress,07:27.0,Org line B,Rijin,INDIA,Normal,0
+1-753487360,6,Queued+Awaiting Assignment,57:23.0,Org line C,Robert,USA,Attribute,1
+1-759255125,0,Accepted+In Progress,20:18.0,Org line C,Ranveer,Sweden,Normal,0
+1-759255125,1,Accepted+Wait,21:56.0,Org line C,Ranveer,Sweden,Normal,0
+1-759255152,1,Accepted+In Progress,36:37.0,Org line A2,Hanna,POLAND,Insert,1
+1-759255152,2,Accepted+In Progress,46:31.0,Org line A2,Hanna,POLAND,Insert,1
+1-759318221,0,Accepted+In Progress,17:18.0,Org line A2,Ian,United Kingdom,Normal,0
+1-759318221,1,Accepted+Assigned,19:56.0,Org line A2,Ian,United Kingdom,Normal,0
