@@ -1,4 +1,4 @@
-# Beyond the Norm: Online Anomaly Detection of Prefixes in Event Streams using Autoencoders
+# 1. Unsupervised Anomaly Detection of Prefixes in Event Streams using Online Autoencoders
 This repository contains code and resources for performing anomaly detection in event streams using autoencoders with two different encoding methods: 
 1. **One-Hot Encoding**: In this approach, each event is represented as a one-hot vector.
 
