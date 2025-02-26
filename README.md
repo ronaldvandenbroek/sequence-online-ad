@@ -11,7 +11,7 @@ Our framework is visualised below:
 ## In order to run the code, please follow these steps:
 
 1. Clone the repository
-2. Install the requirements (python - 3.11.5)
+2. Install the requirements (python - 3.9.21)
     ```
     pip install -r requirements.txt
     ```
