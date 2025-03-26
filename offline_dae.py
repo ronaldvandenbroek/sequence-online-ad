@@ -232,7 +232,7 @@ for dataset in datasets:
     results_filename = f'{dir_results}/results_dae_{file_name}'
     raw_results_filename = f'{dir_results}/raw/results_dae_{file_name}_{saving_timestamp}'
     with open(results_filename, "a+") as csvfile:
-        csvfile.write(f"{prefix_f1:.5f},{prefix_binary_f1:.5f},{encoding_duration:.5f},{prediction_duration:.5f},{scoring_duration:.5f},{encoding_duration_per_event:.5f},{prediction_duration_per_event:.5f},{scoring_duration_per_event:.5f},{total_duration_per_event:.5f},\n")    
+        csvfile.write(f"{prefix_f1:.5f},{prefix_binary_f1:.5f},{encoding_duration:.5f},{prediction_duration:.5f},{scoring_duration:.5f},{total_duration:.5f},{encoding_duration_per_event:.5f},{prediction_duration_per_event:.5f},{scoring_duration_per_event:.5f},{total_duration_per_event:.5f},\n")    
     with open(raw_results_filename, "a+") as csvfile:
         for i in range(len(reconstruction_errors)):
             csvfile.write(f"{reconstruction_errors[i]:.5f},{prefixes_target[i][0]}\n")
