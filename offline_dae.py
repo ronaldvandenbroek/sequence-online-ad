@@ -34,11 +34,9 @@ vector_size = 100
 window = 5
 min_count = 1
 
-dir_datasets = 'data/synthetic'
-# dir_datasets = 'data/real'
-
+# dir_datasets = 'data/'
+dir_datasets = 'data-hospital/'
 dir_results = 'results/dae'
-# dir_results = 'results/real'
 
 def model_fn(nr_features, hidden_layers=2, hidden_size_factor=0.5, noise=None, dropout=0.5, learning_rate=0.0001, beta_2=0.99):
     '''
@@ -145,13 +143,25 @@ for dataset in datasets:
     print(f"Processing {file_name}")
     df_dataset = pd.read_csv(dataset)
     df_dataset.sort_values('timestamp', inplace=True)
-    df_dataset['timestamp'] = pd.to_datetime(df_dataset['timestamp']).dt.strftime('%Y-%m-%d %H:%M:%S')
+
+    print(f'Containing {len(df_dataset)} events')
+    # NOTE: Timestamps are not used in this implementation as no time-based limited memory is used
+    # Fix the timestamp for real datasets
+    # try:
+    #     df_dataset['timestamp'] = pd.to_datetime(df_dataset['timestamp']).dt.strftime('%Y-%m-%d %H:%M:%S')
+    # except:
+    #     # NOTE: Real world datasets do not seem to include a date, seems that this is done incorrectly in OAE as timestamps cant be ordered
+    #     print('Invalid timestamp format')
+    #     reference_date = pd.Timestamp("2025-01-01")
+    #     df_dataset['timestamp'] = reference_date + pd.to_timedelta('00:' + df_dataset['timestamp'])
+    #     df_dataset['timestamp'] = pd.to_datetime(df_dataset['timestamp']).dt.strftime('%Y-%m-%d %H:%M:%S')
 
     # Prepare the data
     max_length = df_dataset.groupby('case_id').size().max()
     input_dim = vector_size * max_length
     cases = df_dataset.groupby(df_dataset.columns[0]).apply(lambda x: x.iloc[:, ~df_dataset.columns.isin(['case_id', 'event_position', 'timestamp', 'isAnomaly', 'anomaly'])].values.tolist())
     cases_result = df_dataset.groupby(df_dataset.columns[0]).apply(lambda x: x.iloc[:, df_dataset.columns.isin(['isAnomaly'])].values.tolist())
+    print(f'Containing {len(cases)} cases with a maximum length of {max_length}')
 
     # Build the models
     word2vec = encoding_fn(cases, vector_size, window, min_count)
