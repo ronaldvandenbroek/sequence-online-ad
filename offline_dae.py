@@ -139,7 +139,7 @@ def cal_best_PRF(y_true,probas_pred):
 datasets = [dir_datasets + '/' + dataset for dataset in os.listdir(dir_datasets)]
 for dataset in datasets:
     # Load the dataset
-    file_name = os.path.basename(dataset)
+    file_name = os.path.basename(dataset).removesuffix('.csv')
     print(f"Processing {file_name}")
     df_dataset = pd.read_csv(dataset)
     df_dataset.sort_values('timestamp', inplace=True)
@@ -239,8 +239,8 @@ for dataset in datasets:
 
     # Saving the results
     saving_timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-    results_filename = f'{dir_results}/results_dae_{file_name}'
-    raw_results_filename = f'{dir_results}/raw/results_dae_{file_name}_{saving_timestamp}'
+    results_filename = f'{dir_results}/results_dae_{file_name}.csv'
+    raw_results_filename = f'{dir_results}/raw/results_dae_{file_name}_{saving_timestamp}.csv'
     with open(results_filename, "a+") as csvfile:
         csvfile.write(f"{prefix_f1:.5f},{prefix_binary_f1:.5f},{encoding_duration:.5f},{prediction_duration:.5f},{scoring_duration:.5f},{total_duration:.5f},{encoding_duration_per_event:.5f},{prediction_duration_per_event:.5f},{scoring_duration_per_event:.5f},{total_duration_per_event:.5f},\n")    
     with open(raw_results_filename, "a+") as csvfile:
